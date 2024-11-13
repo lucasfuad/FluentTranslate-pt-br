@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FluentCommunity - Community & LMS Plugin\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-08 17:57+0000\n"
-"PO-Revision-Date: 2024-11-13 14:55+0000\n"
+"PO-Revision-Date: 2024-11-13 15:37+0000\n"
 "Last-Translator: Lucas Fuad\n"
 "Language-Team: Português do Brasil\n"
 "Language: pt_BR\n"
@@ -972,7 +972,7 @@ msgstr "Tem certeza de que deseja remover este gerente?"
 
 #: app/Services/TransStrings.php:130
 msgid "Are you sure you want to remove this member from this community?"
-msgstr "Tem certeza de que deseja remover este membro desta comunidade?"
+msgstr "Tem certeza de que deseja remover este usuário?"
 
 #: app/Services/TransStrings.php:131
 msgid "Are you sure you want to remove this student from this course?"
@@ -1159,7 +1159,7 @@ msgstr "Alterar capa"
 
 #: app/Services/TransStrings.php:164
 msgid "Change Membership"
-msgstr "Alterar Associação"
+msgstr "Alterar Cargo"
 
 #: app/Services/TransStrings.php:165
 msgid "Chat"
@@ -1482,12 +1482,11 @@ msgstr "Módulo do curso"
 
 #: app/Services/TransStrings.php:219
 msgid "Course Module is disabled"
-msgstr "O módulo do curso está desabilitado"
+msgstr "O módulo de cursos está desabilitado"
 
 #: app/Services/TransStrings.php:220
 msgid "Course Module is disabled. Please enable the course module first"
-msgstr ""
-"O módulo do curso está desabilitado. Habilite o módulo do curso primeiro"
+msgstr "O módulo de cursos está desabilitado. Habilite o módulo primeiro"
 
 #: app/Services/TransStrings.php:218
 msgid "Course Module Settings"
@@ -1644,7 +1643,7 @@ msgstr "Personalize os recursos da interface do usuário do portal."
 
 #: app/Services/TransStrings.php:243
 msgid "Customize Your Giphy Module Settings"
-msgstr "Personalize as configurações do seu módulo Giphy"
+msgstr "Personalize as configurações do módulo Giphy"
 
 #: app/Services/TransStrings.php:246
 msgid "Customize your portal"
@@ -1832,12 +1831,12 @@ msgstr "Editar Título"
 
 #: app/Services/TransStrings.php:289
 msgid "Editing manager role for"
-msgstr "Função de gerente de edição para"
+msgstr "Alterar cargo de"
 
 #: app/Services/TransStrings.php:290
 #, php-format
 msgid "Editing manager role for %s"
-msgstr "Função de gerente de edição para %s"
+msgstr "Alterar cargo de %s"
 
 #: app/Services/TransStrings.php:291
 msgid "Email"
@@ -3061,7 +3060,7 @@ msgstr "Pedido de adesão em análise"
 
 #: app/Services/TransStrings.php:494
 msgid "Membership Role"
-msgstr "Função de Membro"
+msgstr "Cargo do Membro"
 
 #: app/Services/TransStrings.php:495
 msgid "Mentioning everyone?"
@@ -3073,7 +3072,7 @@ msgstr "Menções"
 
 #: app/Services/TransStrings.php:497
 msgid "Menu Group"
-msgstr "Grupo de Menu"
+msgstr "Categoria do grupo"
 
 #: app/Services/TransStrings.php:498
 msgid "Menu Settings"
@@ -3597,7 +3596,7 @@ msgstr "Por favor, revise a solicitação no portal"
 
 #: app/Http/Controllers/SpaceController.php:59
 msgid "Please select a menu group"
-msgstr "Selecione um grupo de menu"
+msgstr "Selecione uma categoria"
 
 #: app/Services/TransStrings.php:596
 msgid "Please select a space to post in."
@@ -3605,7 +3604,7 @@ msgstr "Selecione um Grupo para postar."
 
 #: app/Services/TransStrings.php:597
 msgid "Please select a user and role"
-msgstr "Selecione um usuário e uma função"
+msgstr "Selecione um usuário e um cargo"
 
 #: app/Services/TransStrings.php:598
 msgid "Please select a valid date and time"
@@ -3833,11 +3832,11 @@ msgstr "Remover mídia"
 
 #: app/Services/TransStrings.php:636
 msgid "Remove Member"
-msgstr "Remover membro"
+msgstr "Remover Usuário"
 
 #: app/Services/TransStrings.php:637
 msgid "Remove Member?"
-msgstr "Remover membro?"
+msgstr "Remover Usuário?"
 
 #: app/Services/TransStrings.php:638
 msgid "Remove Preview"
@@ -4045,7 +4044,7 @@ msgstr "Selecione Privacidade"
 
 #: app/Services/TransStrings.php:675
 msgid "Select Role"
-msgstr "Selecione a função"
+msgstr "Selecione o cargo"
 
 #: app/Services/TransStrings.php:676
 msgid "Select S3 Location"
@@ -4308,7 +4307,7 @@ msgstr "Slug do tópico"
 
 #: app/Services/TransStrings.php:728
 msgid "Slug of your topic"
-msgstr "Slug do seu tópico"
+msgstr "Slug do tópico"
 
 #: app/Services/TransStrings.php:729
 msgid "Social Links"
@@ -4509,7 +4508,7 @@ msgstr "Su_Seg_Tu_We_Th_Fr_Sa"
 
 #: app/Services/TransStrings.php:762
 msgid "Sub-title of your topic"
-msgstr "Subtítulo do seu tópico"
+msgstr "Subtítulo do tópico"
 
 #: app/Services/TransStrings.php:763
 msgid "Subscribe to new posts notifications by space"
@@ -4751,7 +4750,7 @@ msgstr "Miniatura / Imagem do Open Graph"
 
 #: app/Services/TransStrings.php:789
 msgid "Thumbnail / Open Graph Image (Recommended Size: 1200 x 630)"
-msgstr "Miniatura / Imagem Open Graph (Tamanho recomendado: 1200 x 630)"
+msgstr "Miniatura / Imagem Open Graph (Tamanho recomendado: 1200px x 630px)"
 
 #: app/Services/TransStrings.php:790
 msgid "Time to send the digest email"
@@ -4791,7 +4790,7 @@ msgstr "Título do tópico"
 
 #: app/Services/TransStrings.php:798
 msgid "Title of your topic"
-msgstr "Título do seu tópico"
+msgstr "Título do tópico"
 
 #: app/Services/TransStrings.php:799
 msgid "To join the discussion of this community, please login or signup"
@@ -4937,7 +4936,7 @@ msgstr "Atualizar informações"
 
 #: app/Services/TransStrings.php:826
 msgid "Update Role"
-msgstr "Atualizar função"
+msgstr "Alterar Cargo"
 
 #: app/Services/TransStrings.php:827
 msgid "Update Status"
@@ -5241,7 +5240,7 @@ msgstr "Bem vindo de volta!"
 
 #: app/Services/TransStrings.php:871
 msgid "Welcome Banner"
-msgstr "Faixa de boas-vindas"
+msgstr "Banner Boas-Vindas"
 
 #: app/Http/Controllers/AdminController.php:300
 msgid "Welcome banner settings has been updated successfully"
@@ -5408,7 +5407,7 @@ msgstr "Você não tem permissão para convidar"
 
 #: app/Services/TransStrings.php:953
 msgid "you can edit your role here"
-msgstr "você pode editar sua função aqui"
+msgstr "você pode editar seu cargo aqui"
 
 #: app/Http/Controllers/AdminController.php:398
 msgid "You can not change the slug as it is defined in the config file"
@@ -5588,7 +5587,7 @@ msgstr ""
 
 #: app/Services/TransStrings.php:906
 msgid "Your Course Title"
-msgstr "Título do seu curso"
+msgstr "Título do curso"
 
 #: Modules/Auth/AuthHelper.php:156
 msgid "Your email address"
@@ -5637,7 +5636,7 @@ msgstr "Suas postagens salvas"
 
 #: app/Services/TransStrings.php:910
 msgid "Your Space Title"
-msgstr "Título do seu Grupo"
+msgstr "Título do grupo"
 
 #: app/Services/TransStrings.php:954
 msgid "🔔 new post available"
