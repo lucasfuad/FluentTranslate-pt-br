@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FluentCommunity - Community & LMS Plugin\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-08 17:57+0000\n"
-"PO-Revision-Date: 2024-11-13 14:34+0000\n"
+"PO-Revision-Date: 2024-11-13 14:55+0000\n"
 "Last-Translator: Lucas Fuad\n"
 "Language-Team: Português do Brasil\n"
 "Language: pt_BR\n"
@@ -599,7 +599,7 @@ msgstr "Adicionar e editar"
 #: app/Services/TransStrings.php:72
 msgid "Add a badge next to user profile name to highlight valued users"
 msgstr ""
-"Adicione um emblema ao lado do nome do perfil do usuário para destacar "
+"Adicione uma insígnia ao lado do nome do perfil do usuário para destacar "
 "usuários valiosos"
 
 #: app/Services/TransStrings.php:920
@@ -1040,11 +1040,11 @@ msgstr "Imagem de fundo"
 
 #: app/Services/TransStrings.php:144
 msgid "Badge"
-msgstr "Distintivo"
+msgstr "Insígnia"
 
 #: app/Services/TransStrings.php:145
 msgid "Badge Title"
-msgstr "Título do emblema"
+msgstr "Título da Insígnia"
 
 #: app/Services/TransStrings.php:146
 msgid "Basic Info"
@@ -1784,7 +1784,7 @@ msgstr "Editar artigo"
 
 #: app/Services/TransStrings.php:277
 msgid "Edit Badge"
-msgstr "Editar Emblema"
+msgstr "Editar insígnia"
 
 #: app/Services/TransStrings.php:278
 msgid "Edit Course"
@@ -2005,7 +2005,7 @@ msgstr "Habilitar este link"
 
 #: app/Services/TransStrings.php:319
 msgid "Enable User Badge Module"
-msgstr "Habilitar módulo de crachá de usuário"
+msgstr "Habilitar módulo de insígnia do usuário"
 
 #: app/Services/TransStrings.php:320
 msgid "Enable Video Embed"
@@ -2309,7 +2309,7 @@ msgstr "Obter módulo de mídia"
 
 #: app/Services/TransStrings.php:374
 msgid "Get User Badge Module"
-msgstr "Obter módulo de crachá de usuário"
+msgstr "Obter módulo de insígnia do usuário"
 
 #: app/Services/TransStrings.php:375
 msgid "Giphy API Key"
@@ -3228,7 +3228,7 @@ msgstr "Nenhum membro %s encontrado nesta comunidade."
 
 #: app/Services/TransStrings.php:524
 msgid "No Badges has been configured"
-msgstr "Nenhum emblema foi configurado"
+msgstr "Nenhuma insígnia foi configurado"
 
 #: app/Services/TransStrings.php:526
 msgid ""
@@ -4216,7 +4216,7 @@ msgid ""
 "Show customized Badge to user profile beside name to easily recognize your "
 "admins / moderators or give appriciations to your power users"
 msgstr ""
-"Exibir emblema personalizado no perfil do usuário ao lado do nome para "
+"Exibir insígnia personalizada no perfil do usuário ao lado do nome para "
 "reconhecer facilmente seus administradores/moderadores ou dar elogios aos "
 "seus usuários avançados"
 
@@ -4225,7 +4225,7 @@ msgid ""
 "Show customized Badge to user profile beside name to easily recognize your "
 "admins / moderators or give appriciations to your power users."
 msgstr ""
-"Exiba um emblema personalizado no perfil do usuário ao lado do nome para "
+"Exiba uma insígnia personalizada no perfil do usuário ao lado do nome para "
 "reconhecer facilmente seus administradores/moderadores ou elogiar seus "
 "usuários avançados."
 
@@ -4239,7 +4239,7 @@ msgstr "Mostrar ícone nos itens do menu de cabeçalho"
 
 #: app/Services/TransStrings.php:712
 msgid "Show Label on Badge"
-msgstr "Mostrar etiqueta no crachá"
+msgstr "Mostrar insígnia"
 
 #: app/Services/TransStrings.php:719
 msgid "Show last activity of a user on the profile page"
@@ -4436,7 +4436,7 @@ msgstr "Os índices espaciais foram atualizados"
 
 #: app/Services/TransStrings.php:748
 msgid "Space Links"
-msgstr "Links espaciais"
+msgstr "Links do Grupo"
 
 #: app/Services/TransStrings.php:749
 msgid "Space Logo"
@@ -4711,8 +4711,8 @@ msgid ""
 "This lock screen will not be shown to the non-members as you set to the lock "
 "screen type to Default in the general settings"
 msgstr ""
-"Esta tela de bloqueio não será exibida para não membros, pois você definiu o "
-"tipo de tela de bloqueio como Padrão nas configurações gerais"
+"Esta tela de bloqueio não será exibida para não membros, pois o tipo de tela "
+"de bloqueio foi definido como 'Padrão' nas configurações gerais."
 
 #: app/Services/TransStrings.php:784
 msgid "This may be due to one of the following reasons:"
@@ -4721,8 +4721,8 @@ msgstr "Isso pode ocorrer devido a um dos seguintes motivos:"
 #: app/Services/TransStrings.php:785
 msgid "This page is only visible to non-members viewing a private space."
 msgstr ""
-"Esta página só é visível para não membros que estejam visualizando um Grupo "
-"privado."
+"Os banners serão exibidos para visitantes ou membros que não pertencem ao "
+"grupo privado."
 
 #: app/Services/TransStrings.php:786
 msgid ""
@@ -5010,15 +5010,15 @@ msgstr "O usuário já está no Grupo"
 
 #: app/Services/TransStrings.php:839
 msgid "User Badge Module"
-msgstr "Módulo de crachá do usuário"
+msgstr "Módulo de insígnia do usuário"
 
 #: app/Services/TransStrings.php:840
 msgid "User Badge Settings"
-msgstr "Configurações do crachá do usuário"
+msgstr "Configurações de insígnia do usuário"
 
 #: app/Services/TransStrings.php:841
 msgid "User Badges"
-msgstr "Emblemas de usuário"
+msgstr "Insígnias do usuário"
 
 #: app/Services/TransStrings.php:843
 msgid "User can change the layout style for their own preference"
@@ -5051,7 +5051,7 @@ msgstr "O usuário não está no Grupo"
 
 #: app/Services/TransStrings.php:844
 msgid "User profile Badge"
-msgstr "Distintivo de perfil de usuário"
+msgstr "Insígnia de perfil"
 
 #: app/Services/TransStrings.php:842
 msgid "User Roles"
