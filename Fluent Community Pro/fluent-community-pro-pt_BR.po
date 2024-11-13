@@ -1,0 +1,499 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fluent Community Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-07 16:22+0000\n"
+"PO-Revision-Date: 2024-11-10 15:58+0000\n"
+"Last-Translator: Lucas Fuad\n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: fluent-community-pro"
+
+#: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:162
+msgid "[FluentCommunity] Add to Course"
+msgstr "[FluentCommunity] Adicionar ao curso"
+
+#: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:137
+msgid "[FluentCommunity] Add to Space"
+msgstr "[FluentCommunity] Adicionar ao espaço"
+
+#: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:146
+msgid "[FluentCommunity] Remove from a Space"
+msgstr "[FluentCommunity] Remover de um espaço"
+
+#: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:170
+msgid "[FluentCommunity] Remove from Course"
+msgstr "[FluentCommunity] Remover do curso"
+
+#: app/Services/Integrations/FluentCRM/SpaceMembershipStatusChangeAction.php:25
+msgid "Activate or Block a user from a Space"
+msgstr "Ativar ou bloquear um usuário de um espaço"
+
+#: app/Services/Integrations/FluentCRM/SpaceMembershipStatusChangeAction.php:45
+msgid "Active (Can access to the portal)"
+msgstr "Ativo (pode acessar o portal)"
+
+#: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:164
+msgid "Add to selected Course"
+msgstr "Adicionar ao curso selecionado"
+
+#: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:139
+msgid "Add to selected Space"
+msgstr "Adicionar ao espaço selecionado"
+
+#: app/Services/Integrations/FluentCRM/AddToSpaceAction.php:24
+#: app/Services/Integrations/FluentCRM/AddToSpaceAction.php:39
+#: app/Services/Integrations/FluentCRM/SpaceMembershipStatusChangeAction.php:36
+msgid "Add to Space"
+msgstr "Adicionar ao espaço"
+
+#: app/Services/Integrations/FluentCRM/AddToSpaceAction.php:25
+msgid "Add user to a space"
+msgstr "Adicionar usuário a um espaço"
+
+#: app/Services/Integrations/FluentCRM/AddToSpaceAction.php:40
+msgid "Add user to the selected community"
+msgstr "Adicionar usuário à comunidade selecionada"
+
+#: app/Services/Integrations/FluentCRM/AddToCourseAction.php:40
+msgid "Add user to the selected Courses"
+msgstr "Adicionar usuário aos cursos selecionados"
+
+#: app/Services/Integrations/FluentCRM/AddToCourseAction.php:25
+msgid "Add user to the selected courses"
+msgstr "Adicionar usuário aos cursos selecionados"
+
+#: app/Services/Integrations/FluentCRM/SpaceMembershipStatusChangeAction.php:37
+msgid "Add user to the selected Space"
+msgstr "Adicionar usuário ao espaço selecionado"
+
+#: app/Modules/LeaderBoard/Http/Controllers/LeaderBoardController.php:88
+msgid "All time"
+msgstr "Todo o período"
+
+#: app/Modules/LeaderBoard/UserLevelUpgradedTrigger.php:47
+msgid "An Automated double-optin email will be sent for new subscribers"
+msgstr ""
+"Um e-mail automatizado de dupla autenticação será enviado para novos "
+"assinantes"
+
+#: app/Modules/UserBadge/Controllers/UserBadgeController.php:60
+msgid "Badges saved successfully"
+msgstr "Emblemas salvos com sucesso"
+
+#: app/Services/Integrations/FluentCRM/SpaceMembershipStatusChangeAction.php:53
+msgid "Blocked (Can not access to the portal)"
+msgstr "Bloqueado (Não é possível acessar o portal)"
+
+#: app/Services/Integrations/FluentCRM/SpaceMembershipStatusChangeAction.php:24
+msgid "Change Space Membership Status"
+msgstr "Alterar status do membro"
+
+#: app/Services/PluginManager/LicenseManager.php:45
+msgid "Check Update"
+msgstr "Verificar atualização"
+
+#: app/Services/PluginManager/LicenseManager.php:339
+msgid "click here"
+msgstr "Clique aqui"
+
+#: app/Services/PluginManager/LicenseManager.php:341
+msgid "Click Here to purchase another license"
+msgstr "Clique aqui para comprar outra licença"
+
+#: app/Services/PluginManager/LicenseManager.php:358
+msgid "Click Here to Renew Your License"
+msgstr "Clique aqui para renovar sua licença"
+
+#: app/Modules/LeaderBoard/UserLevelUpgradedTrigger.php:25
+#: app/Services/Integrations/FluentCRM/AddToSpaceAction.php:23
+#: app/Services/Integrations/FluentCRM/RemoveFromSpaceAction.php:23
+#: app/Services/Integrations/FluentCRM/RemoveFromCourseAction.php:23
+#: app/Services/Integrations/FluentCRM/SpaceMembershipStatusChangeAction.php:23
+#: app/Services/Integrations/FluentCRM/AddToCourseAction.php:23
+msgid "Community"
+msgstr "Comunidade"
+
+#: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:60
+msgid "Course Enrollment"
+msgstr "Matrícula no curso"
+
+#: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:344
+msgid "CRM Profile"
+msgstr "Perfil CRM"
+
+#: app/Services/PluginManager/LicenseManager.php:43
+msgid "Docs"
+msgstr "Documentação"
+
+#: app/Services/Integrations/FluentCRM/AddToCourseAction.php:24
+#: app/Services/Integrations/FluentCRM/AddToCourseAction.php:39
+msgid "Enroll to Courses"
+msgstr "Inscreva-se nos cursos"
+
+#: app/Services/PluginManager/Updater.php:342
+msgid "Error"
+msgstr "Erro"
+
+#: app/Services/PluginManager/LicenseManager.php:150
+msgid ""
+"Error when contacting with license server. Please check that your server "
+"have curl installed"
+msgstr ""
+"Erro ao contatar com o servidor de licença. Verifique se o seu servidor tem "
+"o curl instalado"
+
+#: app/Services/PluginManager/LicenseManager.php:357
+msgid "expired at"
+msgstr "expirado em"
+
+#. Name of the plugin
+msgid "Fluent Community Pro"
+msgstr "Fluent Community Pro"
+
+#: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:42
+msgid "FluentCommunity"
+msgstr "FluentCommunity"
+
+#: app/Services/PluginManager/LicenseManager.php:44
+msgid "Help & Support"
+msgstr "Ajuda e Suporte"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://fluentcommunity.co"
+msgstr "https://fluentcommunity.co"
+
+#: app/Modules/LeaderBoard/UserLevelUpgradedTrigger.php:81
+msgid "If Contact Already Exist?"
+msgstr "Se o contato já existe?"
+
+#: app/Modules/LeaderBoard/UserLevelUpgradedTrigger.php:98
+msgid ""
+"If you enable this, it will restart the automation for a contact even if "
+"they are already in the automation. Otherwise, it will skip if the contact "
+"already exists."
+msgstr ""
+"Se você habilitar isso, ele reiniciará a automação para um contato mesmo que "
+"ele já esteja na automação. Caso contrário, ele pulará se o contato já "
+"existir."
+
+#: app/Modules/LeaderBoard/Http/Controllers/LeaderBoardController.php:83
+msgid "Last 30 days"
+msgstr "Últimos 30 dias"
+
+#: app/Modules/LeaderBoard/Http/Controllers/LeaderBoardController.php:78
+msgid "Last 7 days"
+msgstr "Últimos 7 dias"
+
+#: app/Modules/LeaderBoard/Http/Controllers/LeaderBoardController.php:153
+msgid "Leaderboard configuration has been updated."
+msgstr "A configuração da tabela de classificação foi atualizada."
+
+#: app/Modules/LeaderBoard/UserLevelUpgradedTrigger.php:92
+msgid "Leave blank to run for any level upgrade"
+msgstr "Deixe em branco para executar qualquer atualização de nível"
+
+#: app/Services/PluginManager/LicenseManager.php:357
+msgid "license has been"
+msgstr "licença foi"
+
+#: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:369
+msgid "Lists"
+msgstr "Listas"
+
+#: app/Services/Integrations/FluentCRM/SpaceMembershipStatusChangeAction.php:41
+msgid "New Status"
+msgstr "Novo status"
+
+#: app/Services/PluginManager/LicenseManager.php:341
+msgid ""
+"No Activation Site left: You have activated all the sites that your license "
+"offer. Please go to wpmanageninja.com account and review your sites. You may "
+"deactivate your unused sites from wpmanageninja account or you can purchase "
+"another license."
+msgstr ""
+"Nenhum Site de Ativação restante: Você ativou todos os sites que sua licença "
+"oferece. Acesse a conta wpmanageninja.com e revise seus sites. Você pode "
+"desativar seus sites não utilizados da conta wpmanageninja ou pode comprar "
+"outra licença."
+
+#: app/Services/PluginManager/LicenseManager.php:243
+msgid "No license key available"
+msgstr "Nenhuma chave de licença disponível"
+
+#: app/Services/PluginManager/LicenseManager.php:170
+msgid "No license key found"
+msgstr "Nenhuma chave de licença encontrada"
+
+#: app/Services/Integrations/FluentCRM/RemoveFromSpaceAction.php:49
+msgid ""
+"Only if contact is already a WordPress user and is in the selected space "
+"then this action will run."
+msgstr ""
+"Esta ação será executada somente se o contato já for um usuário do WordPress "
+"e estiver no espaço selecionado."
+
+#: app/Services/Integrations/FluentCRM/SpaceMembershipStatusChangeAction.php:49
+msgid "Pending (Require Admin Approval)"
+msgstr "Pendente (requer aprovação do administrador)"
+
+#: app/Modules/LeaderBoard/UserLevelUpgradedTrigger.php:82
+msgid ""
+"Please specify what will happen if the subscriber already exists in the "
+"database"
+msgstr ""
+"Por favor, especifique o que acontecerá se o assinante já existir no banco "
+"de dados"
+
+#: app/Services/Integrations/FluentCRM/RemoveFromCourseAction.php:24
+msgid "Remove Courses"
+msgstr "Remover Cursos"
+
+#: app/Services/Integrations/FluentCRM/RemoveFromCourseAction.php:39
+msgid "Remove from Courses"
+msgstr "Remover dos cursos"
+
+#: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:172
+msgid "Remove from selected Course"
+msgstr "Remover do curso selecionado"
+
+#: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:148
+msgid "Remove from selected Space"
+msgstr "Remover do espaço selecionado"
+
+#: app/Services/Integrations/FluentCRM/RemoveFromSpaceAction.php:24
+#: app/Services/Integrations/FluentCRM/RemoveFromSpaceAction.php:39
+msgid "Remove from Space"
+msgstr "Remover do Espaço"
+
+#: app/Services/Integrations/FluentCRM/RemoveFromCourseAction.php:25
+msgid "Remove user from the selected courses"
+msgstr "Remover usuário dos cursos selecionados"
+
+#: app/Services/Integrations/FluentCRM/RemoveFromSpaceAction.php:40
+msgid "Remove user from the selected Space"
+msgstr "Remover usuário do espaço selecionado"
+
+#: app/Services/Integrations/FluentCRM/RemoveFromSpaceAction.php:25
+msgid "Remove user from the Space"
+msgstr "Remover usuário do Espaço"
+
+#: app/Services/Integrations/FluentCRM/RemoveFromCourseAction.php:40
+msgid "Remove user to the selected Courses"
+msgstr "Remover usuário dos cursos selecionados"
+
+#: app/Modules/LeaderBoard/UserLevelUpgradedTrigger.php:97
+msgid ""
+"Restart the automation multiple times for a contact for this event. (Only "
+"enable this if you want to restart the automation for the same contact)"
+msgstr ""
+"Reinicie a automação várias vezes para um contato para este evento. (Só "
+"habilite isso se quiser reiniciar a automação para o mesmo contato)"
+
+#: app/Services/Integrations/FluentCRM/RemoveFromCourseAction.php:44
+#: app/Services/Integrations/FluentCRM/AddToCourseAction.php:44
+msgid "Select Courses"
+msgstr "Selecione os cursos"
+
+#: app/Modules/LeaderBoard/UserLevelUpgradedTrigger.php:89
+msgid "Select for which levels the automation will run for"
+msgstr "Selecione para quais níveis a automação será executada"
+
+#: app/Modules/LeaderBoard/UserLevelUpgradedTrigger.php:90
+msgid "Select Level"
+msgstr "Selecione o nível"
+
+#: app/Modules/LeaderBoard/UserLevelUpgradedTrigger.php:43
+msgid "Select Status"
+msgstr "Selecione Status"
+
+#: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:283
+msgid "Selected registered users has been added to the course successfully"
+msgstr ""
+"Usuários registrados selecionados foram adicionados ao curso com sucesso"
+
+#: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:219
+msgid "Selected registered users has been added to the space successfully"
+msgstr ""
+"Usuários registrados selecionados foram adicionados ao espaço com sucesso"
+
+#: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:311
+msgid "Selected registered users has been removed from the course successfully"
+msgstr "Usuários registrados selecionados foram removidos do curso com sucesso"
+
+#: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:255
+msgid "Selected users has been removed from the space successfully"
+msgstr "Usuários selecionados foram removidos do espaço com sucesso"
+
+#: app/Http/Controllers/ProAdminController.php:183
+msgid "Slug already exist. Please use a different slug."
+msgstr "O slug já existe. Por favor, use um slug diferente."
+
+#: app/Services/Integrations/FluentCRM/AddToSpaceAction.php:44
+#: app/Services/Integrations/FluentCRM/RemoveFromSpaceAction.php:44
+msgid "Space"
+msgstr "Espaço"
+
+#: app/Modules/LeaderBoard/Services/LeaderBoardHelper.php:203
+msgid "Space Advocate"
+msgstr "Defensor do Espaço"
+
+#: app/Modules/LeaderBoard/Services/LeaderBoardHelper.php:195
+msgid "Space Contributor"
+msgstr "Contribuidor do Espaço"
+
+#: app/Modules/LeaderBoard/Services/LeaderBoardHelper.php:187
+msgid "Space Enthusiast"
+msgstr "Entusiasta do Espaço"
+
+#: app/Modules/LeaderBoard/Services/LeaderBoardHelper.php:227
+msgid "Space Hero"
+msgstr "Herói do Espaço"
+
+#: app/Modules/LeaderBoard/Services/LeaderBoardHelper.php:171
+msgid "Space Initiate"
+msgstr "Iniciado no Espaço"
+
+#: app/Modules/LeaderBoard/Services/LeaderBoardHelper.php:235
+msgid "Space Legend"
+msgstr "Lenda Espacial"
+
+#: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:46
+msgid "Space Membership"
+msgstr "Associação Espacial"
+
+#: app/Modules/LeaderBoard/Services/LeaderBoardHelper.php:179
+msgid "Space Pathfinder"
+msgstr "Desbravador Espacial"
+
+#: app/Modules/LeaderBoard/Services/LeaderBoardHelper.php:219
+msgid "Space Sage"
+msgstr "Sábio Espacial"
+
+#: app/Modules/LeaderBoard/Services/LeaderBoardHelper.php:211
+msgid "Space Virtuoso"
+msgstr "Space Virtuoso"
+
+#: app/Modules/LeaderBoard/UserLevelUpgradedTrigger.php:42
+msgid "Subscription Status"
+msgstr "Status da assinatura"
+
+#: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:381
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: app/Modules/LeaderBoard/UserLevelUpgradedTrigger.php:88
+msgid "Targeted Levels"
+msgstr "Níveis Alvo"
+
+#. %1$s is replaced with the plugin title, and %2$s and %3$s are used for HTML anchors
+#: app/Services/PluginManager/LicenseManager.php:103
+#, php-format
+msgid "The %1$s license needs to be activated. %2$sActivate Now%3$s"
+msgstr "A licença %1$s precisa ser ativada. %2$sAtivar agora%3$s"
+
+#: app/Services/PluginManager/LicenseManager.php:343
+msgid ""
+"The given license key is not valid. Please verify that your license is "
+"correct. You may login to wpmanageninja.com account and get your valid "
+"license key for your purchase."
+msgstr ""
+"A chave de licença fornecida não é válida. Verifique se sua licença está "
+"correta. Você pode fazer login na conta wpmanageninja.com e obter sua chave "
+"de licença válida para sua compra."
+
+#. Description of the plugin
+msgid "The Pro version of FluentCommunity Plugin"
+msgstr "A versão Pro do plugin FluentCommunity"
+
+#: app/Services/PluginManager/LicenseManager.php:329
+msgid ""
+"There was an error activating the license, please verify your license is "
+"correct and try again or contact support."
+msgstr ""
+"Ocorreu um erro ao ativar a licença. Verifique se sua licença está correta e "
+"tente novamente ou entre em contato com o suporte."
+
+#: app/Services/PluginManager/LicenseManager.php:190
+#: app/Services/PluginManager/LicenseManager.php:205
+msgid ""
+"There was an error deactivating the license, please try again or login at "
+"wpmanageninja.com to manually deactivated the license"
+msgstr ""
+"Ocorreu um erro ao desativar a licença, tente novamente ou faça login em "
+"wpmanageninja.com para desativar manualmente a licença"
+
+#: app/Services/Integrations/FluentCRM/AddToSpaceAction.php:49
+#: app/Services/Integrations/FluentCRM/AddToCourseAction.php:49
+msgid "This action will run only if the contact is already a WordPress user."
+msgstr ""
+"Esta ação será executada somente se o contato já for um usuário do WordPress."
+
+#: app/Modules/LeaderBoard/UserLevelUpgradedTrigger.php:27
+#: app/Modules/LeaderBoard/UserLevelUpgradedTrigger.php:36
+msgid ""
+"This Funnel will be initiated when a user upgraded to a level in the "
+"leaderboard"
+msgstr ""
+"Este funil será iniciado quando um usuário for atualizado para um nível na "
+"tabela de classificação"
+
+#: app/Services/PluginManager/LicenseManager.php:339
+msgid "to renew your license"
+msgstr "para renovar sua licença"
+
+#: app/Http/Controllers/ProAdminController.php:246
+msgid "Topic has been deleted successfully"
+msgstr "O tópico foi excluído com sucesso"
+
+#: app/Http/Controllers/ProAdminController.php:228
+msgid "Topic has been saved successfully"
+msgstr "O tópico foi salvo com sucesso"
+
+#: app/Modules/LeaderBoard/UserLevelUpgradedTrigger.php:26
+#: app/Modules/LeaderBoard/UserLevelUpgradedTrigger.php:35
+msgid "User Level (Leaderboard) Upgraded"
+msgstr "Nível de usuário (placar) atualizado"
+
+#: app/Services/PluginManager/LicenseManager.php:43
+msgid "View FluentBooking documentation"
+msgstr "Ver documentação do FluentBooking"
+
+#: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:392
+msgid "Visible for admin only"
+msgstr "Visível apenas para administradores"
+
+#: app/Services/PluginManager/LicenseManager.php:44
+msgid "Visit Support"
+msgstr "Visite o Suporte"
+
+#: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:142
+msgid "Will apply to the contacts who are already a registered Site User"
+msgstr "Será aplicado aos contatos que já são Usuários registrados do Site"
+
+#. Author of the plugin
+msgid "WPManageNinja LLC"
+msgstr "WPManageNinja LLC"
+
+#: app/Services/PluginManager/Updater.php:342
+msgid "You do not have permission to install plugin updates"
+msgstr "Você não tem permissão para instalar atualizações de plugins"
+
+#: app/Services/PluginManager/LicenseManager.php:339
+msgid "Your license has been expired at "
+msgstr "Sua licença expirou em"
+
+#: app/Http/Controllers/LicenseController.php:60
+msgid "Your license key has been successfully deactivated"
+msgstr "Sua chave de licença foi desativada com sucesso"
+
+#: app/Http/Controllers/LicenseController.php:42
+msgid "Your license key has been successfully updated"
+msgstr "Sua chave de licença foi atualizada com sucesso"
