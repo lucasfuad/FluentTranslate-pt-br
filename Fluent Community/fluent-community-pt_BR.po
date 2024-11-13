@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FluentCommunity - Community & LMS Plugin\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-08 17:57+0000\n"
-"PO-Revision-Date: 2024-11-13 13:50+0000\n"
+"PO-Revision-Date: 2024-11-13 14:34+0000\n"
 "Last-Translator: Lucas Fuad\n"
 "Language-Team: Português do Brasil\n"
 "Language: pt_BR\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Loco https://localise.biz/\n"
-"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Loco-Version: 2.6.11; wp-6.7\n"
 "X-Domain: fluent-community"
 
 #: app/Services/TransStrings.php:12
@@ -800,7 +800,7 @@ msgstr "Permitir que os usuários solicitem para entrar neste Grupo"
 
 #: app/Services/TransStrings.php:100
 msgid "Alphabetical"
-msgstr "Alfabético"
+msgstr "A → Z"
 
 #: app/Views/auth/user_invitation.php:34
 msgid "Already have an account?"
