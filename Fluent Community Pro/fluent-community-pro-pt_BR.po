@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Fluent Community Pro\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-07 16:22+0000\n"
-"PO-Revision-Date: 2024-11-10 15:58+0000\n"
+"PO-Revision-Date: 2024-11-15 17:32+0000\n"
 "Last-Translator: Lucas Fuad\n"
 "Language-Team: Português do Brasil\n"
 "Language: pt_BR\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Loco https://localise.biz/\n"
-"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Loco-Version: 2.6.11; wp-6.7\n"
 "X-Domain: fluent-community-pro"
 
 #: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:162
@@ -41,17 +41,17 @@ msgstr "Ativo (pode acessar o portal)"
 
 #: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:164
 msgid "Add to selected Course"
-msgstr "Adicionar ao curso selecionado"
+msgstr "Adicionar ao Curso selecionado"
 
 #: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:139
 msgid "Add to selected Space"
-msgstr "Adicionar ao espaço selecionado"
+msgstr "Adicionar ao Grupo selecionado"
 
 #: app/Services/Integrations/FluentCRM/AddToSpaceAction.php:24
 #: app/Services/Integrations/FluentCRM/AddToSpaceAction.php:39
 #: app/Services/Integrations/FluentCRM/SpaceMembershipStatusChangeAction.php:36
 msgid "Add to Space"
-msgstr "Adicionar ao espaço"
+msgstr "Adicionar ao Grupo"
 
 #: app/Services/Integrations/FluentCRM/AddToSpaceAction.php:25
 msgid "Add user to a space"
@@ -71,7 +71,7 @@ msgstr "Adicionar usuário aos cursos selecionados"
 
 #: app/Services/Integrations/FluentCRM/SpaceMembershipStatusChangeAction.php:37
 msgid "Add user to the selected Space"
-msgstr "Adicionar usuário ao espaço selecionado"
+msgstr "Adicionar usuário ao Grupo selecionado"
 
 #: app/Modules/LeaderBoard/Http/Controllers/LeaderBoardController.php:88
 msgid "All time"
@@ -93,7 +93,7 @@ msgstr "Bloqueado (Não é possível acessar o portal)"
 
 #: app/Services/Integrations/FluentCRM/SpaceMembershipStatusChangeAction.php:24
 msgid "Change Space Membership Status"
-msgstr "Alterar status do membro"
+msgstr "Alterar status do membro do Grupo"
 
 #: app/Services/PluginManager/LicenseManager.php:45
 msgid "Check Update"
@@ -238,7 +238,7 @@ msgid ""
 "then this action will run."
 msgstr ""
 "Esta ação será executada somente se o contato já for um usuário do WordPress "
-"e estiver no espaço selecionado."
+"e estiver no grupo selecionado."
 
 #: app/Services/Integrations/FluentCRM/SpaceMembershipStatusChangeAction.php:49
 msgid "Pending (Require Admin Approval)"
@@ -266,12 +266,12 @@ msgstr "Remover do curso selecionado"
 
 #: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:148
 msgid "Remove from selected Space"
-msgstr "Remover do espaço selecionado"
+msgstr "Remover do grupo selecionado"
 
 #: app/Services/Integrations/FluentCRM/RemoveFromSpaceAction.php:24
 #: app/Services/Integrations/FluentCRM/RemoveFromSpaceAction.php:39
 msgid "Remove from Space"
-msgstr "Remover do Espaço"
+msgstr "Remover do Grupo"
 
 #: app/Services/Integrations/FluentCRM/RemoveFromCourseAction.php:25
 msgid "Remove user from the selected courses"
@@ -279,11 +279,11 @@ msgstr "Remover usuário dos cursos selecionados"
 
 #: app/Services/Integrations/FluentCRM/RemoveFromSpaceAction.php:40
 msgid "Remove user from the selected Space"
-msgstr "Remover usuário do espaço selecionado"
+msgstr "Remover usuário do Grupo selecionado"
 
 #: app/Services/Integrations/FluentCRM/RemoveFromSpaceAction.php:25
 msgid "Remove user from the Space"
-msgstr "Remover usuário do Espaço"
+msgstr "Remover usuário do Grupo"
 
 #: app/Services/Integrations/FluentCRM/RemoveFromCourseAction.php:40
 msgid "Remove user to the selected Courses"
@@ -321,8 +321,7 @@ msgstr ""
 
 #: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:219
 msgid "Selected registered users has been added to the space successfully"
-msgstr ""
-"Usuários registrados selecionados foram adicionados ao espaço com sucesso"
+msgstr "Os usuários selecionados foram adicionados ao grupo com sucesso"
 
 #: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:311
 msgid "Selected registered users has been removed from the course successfully"
@@ -330,7 +329,7 @@ msgstr "Usuários registrados selecionados foram removidos do curso com sucesso"
 
 #: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:255
 msgid "Selected users has been removed from the space successfully"
-msgstr "Usuários selecionados foram removidos do espaço com sucesso"
+msgstr "Os usuários selecionados foram removidos do grupo com sucesso"
 
 #: app/Http/Controllers/ProAdminController.php:183
 msgid "Slug already exist. Please use a different slug."
@@ -339,47 +338,47 @@ msgstr "O slug já existe. Por favor, use um slug diferente."
 #: app/Services/Integrations/FluentCRM/AddToSpaceAction.php:44
 #: app/Services/Integrations/FluentCRM/RemoveFromSpaceAction.php:44
 msgid "Space"
-msgstr "Espaço"
+msgstr "Grupo"
 
 #: app/Modules/LeaderBoard/Services/LeaderBoardHelper.php:203
 msgid "Space Advocate"
-msgstr "Defensor do Espaço"
+msgstr "Defensor do Grupo"
 
 #: app/Modules/LeaderBoard/Services/LeaderBoardHelper.php:195
 msgid "Space Contributor"
-msgstr "Contribuidor do Espaço"
+msgstr "Contribuidor do Grupo"
 
 #: app/Modules/LeaderBoard/Services/LeaderBoardHelper.php:187
 msgid "Space Enthusiast"
-msgstr "Entusiasta do Espaço"
+msgstr "Entusiasta do Grupo"
 
 #: app/Modules/LeaderBoard/Services/LeaderBoardHelper.php:227
 msgid "Space Hero"
-msgstr "Herói do Espaço"
+msgstr "Herói do Grupo"
 
 #: app/Modules/LeaderBoard/Services/LeaderBoardHelper.php:171
 msgid "Space Initiate"
-msgstr "Iniciado no Espaço"
+msgstr "Novato do Grupo"
 
 #: app/Modules/LeaderBoard/Services/LeaderBoardHelper.php:235
 msgid "Space Legend"
-msgstr "Lenda Espacial"
+msgstr "Lenda do Grupo"
 
 #: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:46
 msgid "Space Membership"
-msgstr "Associação Espacial"
+msgstr "Membro do Grupo"
 
 #: app/Modules/LeaderBoard/Services/LeaderBoardHelper.php:179
 msgid "Space Pathfinder"
-msgstr "Desbravador Espacial"
+msgstr "Desbravador do Grupo"
 
 #: app/Modules/LeaderBoard/Services/LeaderBoardHelper.php:219
 msgid "Space Sage"
-msgstr "Sábio Espacial"
+msgstr "Sábio do Grupo"
 
 #: app/Modules/LeaderBoard/Services/LeaderBoardHelper.php:211
 msgid "Space Virtuoso"
-msgstr "Space Virtuoso"
+msgstr "Virtuoso do Grupo"
 
 #: app/Modules/LeaderBoard/UserLevelUpgradedTrigger.php:42
 msgid "Subscription Status"
