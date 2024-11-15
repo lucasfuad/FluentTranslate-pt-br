@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FluentCommunity - Community & LMS Plugin\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-08 17:57+0000\n"
-"PO-Revision-Date: 2024-11-13 15:37+0000\n"
+"PO-Revision-Date: 2024-11-14 19:33+0000\n"
 "Last-Translator: Lucas Fuad\n"
 "Language-Team: Português do Brasil\n"
 "Language: pt_BR\n"
@@ -168,7 +168,7 @@ msgstr "Grupo %d"
 
 #: app/Services/TransStrings.php:15
 msgid "%d Groups"
-msgstr "%d Conjuntos"
+msgstr "%d Categorias"
 
 #. Relative Date Formats. Don't alter %d
 #: app/Hooks/Handlers/PortalHandler.php:493
@@ -177,11 +177,11 @@ msgstr "%d horas"
 
 #: app/Services/TransStrings.php:16
 msgid "%d Lesson"
-msgstr "%d Lição"
+msgstr "%d Aula"
 
 #: app/Services/TransStrings.php:17
 msgid "%d Lessons"
-msgstr "%d Lições"
+msgstr "%d Aulas"
 
 #: app/Services/TransStrings.php:24
 msgid "%d lessons"
@@ -190,7 +190,7 @@ msgstr "%d aulas"
 #. Relative Date Formats. Don't alter %d
 #: app/Hooks/Handlers/PortalHandler.php:489
 msgid "%d minutes"
-msgstr "%d minutos"
+msgstr "há %d minutos"
 
 #. Relative Date Formats. Don't alter %d
 #: app/Hooks/Handlers/PortalHandler.php:501
@@ -215,11 +215,11 @@ msgstr "%d resposta"
 
 #: app/Services/TransStrings.php:18
 msgid "%d Section"
-msgstr "Seção %d"
+msgstr "Bloco %d"
 
 #: app/Services/TransStrings.php:19
 msgid "%d Sections"
-msgstr "%d Seções"
+msgstr "%d Blocos"
 
 #: app/Services/TransStrings.php:20
 msgid "%d Space"
@@ -231,11 +231,11 @@ msgstr "%d Grupos"
 
 #: app/Services/TransStrings.php:29
 msgid "%d student"
-msgstr "%d estudante"
+msgstr "%d aluno"
 
 #: app/Services/TransStrings.php:30
 msgid "%d students"
-msgstr "%d estudantes"
+msgstr "%d alunos"
 
 #. Relative Date Formats. Don't alter %d
 #: app/Hooks/Handlers/PortalHandler.php:505
@@ -274,7 +274,7 @@ msgstr "%dy"
 #: app/Views/email/Default/_user_post_content.php:35
 #, php-format
 msgid "%s ago"
-msgstr "%s atrás"
+msgstr "%s "
 
 #: app/Services/TransStrings.php:31
 #, php-format
@@ -307,12 +307,12 @@ msgstr ""
 #: app/Services/TransStrings.php:37
 #, php-format
 msgid "%s lesson"
-msgstr "%s lição"
+msgstr "%s aula"
 
 #: app/Services/TransStrings.php:38
 #, php-format
 msgid "%s lessons"
-msgstr "%s lições"
+msgstr "%s aulas"
 
 #: app/Services/TransStrings.php:39
 #, php-format
@@ -357,7 +357,7 @@ msgstr "%s resultados encontrados"
 #: app/Services/TransStrings.php:45
 #, php-format
 msgid "%s student"
-msgstr "%s estudante"
+msgstr "%s aluno"
 
 #: app/Services/TransStrings.php:46
 #, php-format
@@ -395,7 +395,7 @@ msgstr "(🔔%d)"
 
 #: app/Services/TransStrings.php:49
 msgid "+ Add Section"
-msgstr "+ Adicionar Seção"
+msgstr "+ Adicionar Bloco"
 
 #: app/Hooks/Handlers/EmailNotificationHandler.php:679
 msgid "+%d more image"
@@ -492,17 +492,17 @@ msgstr ""
 #. Relative Date Formats
 #: app/Hooks/Handlers/PortalHandler.php:495
 msgid "a day"
-msgstr "um dia"
+msgstr "há um dia"
 
 #. Relative Date Formats.
 #: app/Hooks/Handlers/PortalHandler.php:485
 msgid "a few seconds"
-msgstr "alguns segundos"
+msgstr "há alguns segundos"
 
 #. Relative Date Formats.
 #: app/Hooks/Handlers/PortalHandler.php:487
 msgid "a minute"
-msgstr "um minuto"
+msgstr "há um minuto"
 
 #. Relative Date Formats
 #: app/Hooks/Handlers/PortalHandler.php:499
@@ -546,7 +546,7 @@ msgstr "Status de acesso"
 
 #: Modules/Auth/AuthHelper.php:173
 msgid "Account Password"
-msgstr "Senha da conta"
+msgstr "Senha"
 
 #: app/Services/TransStrings.php:53
 msgid "Account Verification"
@@ -637,7 +637,7 @@ msgstr "Adicionar vídeo em destaque para esta postagem"
 
 #: app/Services/TransStrings.php:63
 msgid "Add Lesson"
-msgstr "Adicionar lição"
+msgstr "Adicionar Aula"
 
 #: app/Services/TransStrings.php:64
 msgid "Add Manager"
@@ -784,7 +784,7 @@ msgstr "Todas as postagens"
 
 #: app/Services/TransStrings.php:95
 msgid "All Space Groups"
-msgstr "Todos os Grupos"
+msgstr "Todos as Categorias"
 
 #: app/Services/TransStrings.php:96
 msgid "All Spaces"
@@ -931,7 +931,7 @@ msgid ""
 "Are you sure you want to delete this lesson? All the associate date will be "
 "deleted too."
 msgstr ""
-"Tem certeza de que deseja excluir esta lição? Todas as datas associadas "
+"Tem certeza de que deseja excluir esta aula? Todas as datas associadas "
 "também serão excluídas."
 
 #: app/Services/TransStrings.php:123
@@ -939,7 +939,7 @@ msgid ""
 "Are you sure you want to delete this section? All the associate lessons and "
 "enrollment data will be deleted too."
 msgstr ""
-"Tem certeza de que deseja excluir esta seção? Todas as aulas associadas e "
+"Tem certeza de que deseja excluir este bloco? Todas as aulas associadas e "
 "dados de matrícula também serão excluídos."
 
 #: app/Services/TransStrings.php:124
@@ -948,7 +948,7 @@ msgstr "Tem certeza de que deseja excluir este Grupo?"
 
 #: app/Services/TransStrings.php:125
 msgid "Are you sure you want to leave this community?"
-msgstr "Tem certeza de que deseja sair desta comunidade?"
+msgstr "Tem certeza de que deseja sair desse grupo?"
 
 #: app/Services/TransStrings.php:126
 msgid ""
@@ -1361,7 +1361,7 @@ msgstr "Nome de usuário da comunidade já usado por outra pessoa"
 
 #: app/Services/TransStrings.php:197
 msgid "Complete Lesson"
-msgstr "Lição completa"
+msgstr "Concluir Aula"
 
 #: Modules/Auth/AuthHelper.php:290
 msgid "Complete Signup"
@@ -1478,7 +1478,7 @@ msgstr "Gestão de Cursos"
 
 #: app/Services/TransStrings.php:217
 msgid "Course Module"
-msgstr "Módulo do curso"
+msgstr "Módulo de Cursos"
 
 #: app/Services/TransStrings.php:219
 msgid "Course Module is disabled"
@@ -1490,7 +1490,7 @@ msgstr "O módulo de cursos está desabilitado. Habilite o módulo primeiro"
 
 #: app/Services/TransStrings.php:218
 msgid "Course Module Settings"
-msgstr "Configurações do módulo do curso"
+msgstr "Configurações do módulo do cursos"
 
 #: Modules/Course/Http/Controllers/CourseAdminController.php:139
 #: Modules/Course/Http/Controllers/CourseAdminController.php:178
@@ -1523,14 +1523,14 @@ msgstr "Progresso do curso"
 
 #: app/Services/TransStrings.php:221
 msgid "Course Slug (no space or special chars)"
-msgstr "Curso Slug (sem espaço ou caracteres especiais)"
+msgstr "Slug do Curso (sem espaço ou caracteres especiais)"
 
 #: app/Services/TransStrings.php:226
 msgid ""
 "Course starts on a specific date. Sections are dripped relative to that date."
 msgstr ""
-"O curso começa em uma data específica. As seções são pingadas em relação a "
-"essa data."
+"O curso começa em uma data específica, e as aulas são liberadas gradualmente "
+"em relação a essa data."
 
 #: app/Services/TransStrings.php:930
 msgid ""
@@ -1544,8 +1544,8 @@ msgid ""
 "Course starts when a member enrolls. Sections are dripped relative to their "
 "enrollment date."
 msgstr ""
-"O curso começa quando um membro se inscreve. As seções são pingadas em "
-"relação à data de inscrição."
+"O curso começa assim que um membro se inscreve, e as aulas são liberadas "
+"gradualmente com base na data de inscrição."
 
 #: app/Services/TransStrings.php:222
 msgid "Course Students"
@@ -1687,15 +1687,15 @@ msgstr "Excluir"
 
 #: app/Services/TransStrings.php:256
 msgid "Delete Course"
-msgstr "Excluir curso"
+msgstr "Excluir Curso"
 
 #: app/Services/TransStrings.php:257
 msgid "Delete Lesson"
-msgstr "Excluir lição"
+msgstr "Excluir Aula"
 
 #: app/Services/TransStrings.php:259
 msgid "Delete section"
-msgstr "Excluir seção"
+msgstr "Excluir bloco"
 
 #: app/Services/TransStrings.php:258
 msgid "Delete Space"
@@ -1799,15 +1799,15 @@ msgstr "Editar informações"
 
 #: app/Services/TransStrings.php:286
 msgid "Edit lesson"
-msgstr "Editar lição"
+msgstr "Editar aula"
 
 #: app/Services/TransStrings.php:281
 msgid "Edit Lesson Content"
-msgstr "Editar conteúdo da lição"
+msgstr "Editar Conteúdo da Aula"
 
 #: app/Services/TransStrings.php:282
 msgid "Edit Lessons"
-msgstr "Editar Lições"
+msgstr "Editar Aulas"
 
 #: app/Services/TransStrings.php:283
 msgid "Edit Link"
@@ -1956,7 +1956,7 @@ msgstr "Habilitar comentários"
 
 #: app/Services/TransStrings.php:311
 msgid "Enable Course Module"
-msgstr "Habilitar módulo do curso"
+msgstr "Habilitar módulo do cursos"
 
 #: app/Services/TransStrings.php:312
 msgid "Enable Dark Mode"
@@ -2062,11 +2062,11 @@ msgstr "Insira o nome do convidado"
 
 #: app/Services/TransStrings.php:331
 msgid "Enter Lesson title"
-msgstr "Insira o título da lição"
+msgstr "Insira o Título da Aula"
 
 #: app/Services/TransStrings.php:332
 msgid "Enter Section title"
-msgstr "Insira o título da seção"
+msgstr "Insira o título do bloco"
 
 #: app/Services/TransStrings.php:335
 msgid "Error"
@@ -2641,7 +2641,7 @@ msgstr ""
 
 #: app/Services/TransStrings.php:416
 msgid "Join"
-msgstr "Juntar"
+msgstr "Participar do Grupo"
 
 #: Modules/Auth/AuthModdule.php:97 app/Hooks/Handlers/PortalHandler.php:784
 #, php-format
@@ -2766,16 +2766,16 @@ msgstr "Sair do Grupo"
 #: app/Services/TransStrings.php:440
 #, php-format
 msgid "Lesson %1s of %2s"
-msgstr "Lição %1s de %2s"
+msgstr "Aula %1s de %2s"
 
 #: app/Services/TransStrings.php:441
 #, php-format
 msgid "Lesson %1s of %2s - %3s"
-msgstr "Lição %1s de %2s - %3s"
+msgstr "Aula %1s de %2s - %3s"
 
 #: Modules/Course/Http/Controllers/CourseAdminController.php:723
 msgid "Lesson could not be found."
-msgstr "Não foi possível encontrar a lição."
+msgstr "Não foi possível encontrar a aula."
 
 #: app/Services/TransStrings.php:443
 msgid "Lesson discussions"
@@ -2783,36 +2783,36 @@ msgstr "Discussões de aulas"
 
 #: Modules/Course/Http/Controllers/CourseAdminController.php:765
 msgid "Lesson has been created successfully."
-msgstr "A lição foi criada com sucesso."
+msgstr "A aula foi criada com sucesso."
 
 #: Modules/Course/Http/Controllers/CourseAdminController.php:870
 msgid "Lesson has been deleted successfully."
-msgstr "A lição foi excluída com sucesso."
+msgstr "A aula foi excluída com sucesso."
 
 #: Modules/Course/Http/Controllers/CourseAdminController.php:817
 #: Modules/Course/Http/Controllers/CourseAdminController.php:846
 msgid "Lesson has been updated successfully."
-msgstr "A lição foi atualizada com sucesso."
+msgstr "A aula foi atualizada com sucesso."
 
 #: app/Services/TransStrings.php:444
 msgid "Lesson name"
-msgstr "Nome da lição"
+msgstr "Nome da aula"
 
 #: Modules/Course/Http/Controllers/CourseAdminController.php:863
 msgid "Lesson not found."
-msgstr "Lição não encontrada."
+msgstr "Aula não encontrada."
 
 #: app/Services/TransStrings.php:442
 msgid "Lesson Title"
-msgstr "Título da lição"
+msgstr "Título da Aula"
 
 #: app/Services/TransStrings.php:445
 msgid "Lessons"
-msgstr "Lições"
+msgstr "Aulas"
 
 #: Modules/Course/Http/Controllers/CourseAdminController.php:534
 msgid "Lessons indexes has been updated successfully."
-msgstr "Os índices de lições foram atualizados com sucesso."
+msgstr "Os índices das aulas foram atualizados com sucesso."
 
 #: app/Services/TransStrings.php:446
 msgid "Level %d"
@@ -2884,7 +2884,7 @@ msgstr "Tela de bloqueio"
 
 #: app/Services/TransStrings.php:459
 msgid "Lock Screen Type"
-msgstr "Tipo de tela de bloqueio"
+msgstr "Tela Bloqueio de Conteúdo"
 
 #: Modules/Course/Http/Controllers/CourseAdminController.php:893
 msgid "Lockscreen settings has been updated successfully."
@@ -3048,7 +3048,7 @@ msgstr "Os membros devem ser convidados para este curso."
 
 #: app/Services/TransStrings.php:492
 msgid "Members have to be invited to this space."
-msgstr "Os membros devem ser convidados para este Grupo."
+msgstr "Somente os integrantes desse grupo podem ver seu conteúdo."
 
 #: app/Services/TransStrings.php:489
 msgid "Members Only"
@@ -3092,7 +3092,7 @@ msgstr "Mensagem a ser exibida para funções de usuário não correspondentes"
 
 #: app/Services/TransStrings.php:946
 msgid "min"
-msgstr "mínimo"
+msgstr "min"
 
 #: app/Services/TransStrings.php:501
 msgid "Minimum Points"
@@ -3234,8 +3234,7 @@ msgid ""
 "No comments from any lessons yet! Comments from all the lessons will be "
 "shown here"
 msgstr ""
-"Nenhum comentário de nenhuma lição ainda! Comentários de todas as lições "
-"serão mostrados aqui"
+"Nenhum comentário ainda! Comentários de todas as aulas serão mostradas aqui"
 
 #: app/Services/TransStrings.php:527
 msgid "No digest email will be sent."
@@ -3264,7 +3263,7 @@ msgstr "Nenhum usuário existente foi encontrado com base na sua pesquisa."
 
 #: app/Services/TransStrings.php:532
 msgid "No link has been added for this section"
-msgstr "Nenhum link foi adicionado para esta seção"
+msgstr "Nenhum link foi adicionado para este bloco"
 
 #: app/Services/TransStrings.php:533
 msgid "No members found"
@@ -3636,8 +3635,8 @@ msgid ""
 "Please Type %s to confirm. Please note, all the lessons, topics, students "
 "progress will be deleted."
 msgstr ""
-"Digite %s para confirmar. Observe que todas as lições, tópicos e progresso "
-"dos alunos serão excluídos."
+"Por favor, escreva %s para confirmar. Atenção: todas as aulas, tópicos e o "
+"progresso dos alunos serão excluídos."
 
 #: app/Http/Controllers/ProfileController.php:218
 msgid "Please use another username. This username is reserved"
@@ -3776,7 +3775,7 @@ msgstr "Compre um aqui"
 
 #: Modules/Auth/AuthHelper.php:180
 msgid "Re-type Account Password"
-msgstr "Digite novamente a senha da conta"
+msgstr "Confirme a Senha"
 
 #: app/Services/TransStrings.php:625
 msgid "Reacted Users"
@@ -3971,7 +3970,7 @@ msgstr "Procurar..."
 
 #: app/Services/TransStrings.php:950
 msgid "sec"
-msgstr "segundo"
+msgstr "seg"
 
 #: app/Services/TransStrings.php:668
 msgid "Secondary"
@@ -3983,15 +3982,15 @@ msgstr "Segredo"
 
 #: Modules/Course/Http/Controllers/CourseAdminController.php:674
 msgid "Section has been deleted successfully."
-msgstr "A seção foi excluída com sucesso."
+msgstr "O bloco foi excluído com sucesso."
 
 #: app/Services/TransStrings.php:670
 msgid "Section Title"
-msgstr "Título da Seção"
+msgstr "Título do Bloco"
 
 #: Modules/Course/Http/Controllers/CourseAdminController.php:513
 msgid "Sections indexes has been updated successfully."
-msgstr "Os índices das seções foram atualizados com sucesso."
+msgstr "Os índices dos blocos foram atualizados com sucesso."
 
 #: app/Services/TransStrings.php:684
 msgid "Select a page"
@@ -4200,7 +4199,7 @@ msgstr "Forma"
 
 #: app/Services/TransStrings.php:708
 msgid "Short Bio"
-msgstr "Biografia curta"
+msgstr "Fale um pouco sobre você"
 
 #: app/Services/TransStrings.php:709
 msgid "Short Description"
@@ -4279,11 +4278,11 @@ msgstr "Inscrever-se"
 
 #: app/Services/TransStrings.php:723
 msgid "Site Logo (For Dark Mode)"
-msgstr "Logotipo do site (para modo escuro)"
+msgstr "Logotipo do site (tema escuro)"
 
 #: app/Services/TransStrings.php:724
 msgid "Site Logo (For Light Background)"
-msgstr "Logotipo do site (para fundo claro)"
+msgstr "Logotipo do site (tema claro)"
 
 #: app/Services/TransStrings.php:725
 msgid "Slug"
@@ -4335,7 +4334,7 @@ msgstr "Desculpe! você não tem acesso a esta postagem ou solicitação inváli
 
 #: app/Services/TransStrings.php:732
 msgid "Sorry, no lesson found"
-msgstr "Desculpe, nenhuma lição encontrada"
+msgstr "Desculpe, nenhuma aula encontrada"
 
 #: app/Services/TransStrings.php:733
 msgid "Sorry, the course can not be loaded"
@@ -4463,7 +4462,7 @@ msgstr "Título do Grupo"
 
 #: Modules/Auth/AuthHelper.php:166
 msgid "Space username"
-msgstr "Nome de usuário do Grupo"
+msgstr "Nome de usuário"
 
 #: app/Services/TransStrings.php:755
 msgid "Space visibility"
@@ -4499,7 +4498,7 @@ msgstr "O aluno foi removido deste curso"
 
 #: app/Services/TransStrings.php:761
 msgid "Students"
-msgstr "Estudantes"
+msgstr "Alunos"
 
 #. weekday min Please keep the serial and format
 #: app/Hooks/Handlers/PortalHandler.php:478
@@ -4628,8 +4627,8 @@ msgstr ""
 #: app/Services/TransStrings.php:774
 msgid "This course is in Draft status and only visible to Admin / Moderators"
 msgstr ""
-"Este curso está em status de Rascunho e visível apenas para "
-"Administradores/Moderadores"
+"O curso está com o status de Rascunho, sendo visível apenas para "
+"Administradores e Moderadores."
 
 #: app/Services/TransStrings.php:775
 msgid ""
@@ -4679,7 +4678,7 @@ msgstr "Este é um curso privado"
 
 #: app/Services/TransStrings.php:779
 msgid "This is a private space"
-msgstr "Este é um Grupo privado"
+msgstr "Este é um grupo privado"
 
 #: app/Services/TransStrings.php:780
 msgid ""
@@ -4693,17 +4692,17 @@ msgstr ""
 
 #: app/Services/TransStrings.php:781
 msgid "This lesson is not published for you yet"
-msgstr "Esta lição ainda não foi publicada para você"
+msgstr "Esta aula ainda não foi publicada"
 
 #: app/Services/TransStrings.php:782
 #, php-format
 msgid "This lesson will be available to you on %s"
-msgstr "Esta lição estará disponível para você em %s"
+msgstr "Esta aula estará disponível para você em %s"
 
 #: app/Services/TransStrings.php:783
 #, php-format
 msgid "This lesson will be unlocked on %s"
-msgstr "Esta lição será desbloqueada em %s"
+msgstr "Esta aula será desbloqueada em %s"
 
 #: app/Services/TransStrings.php:923
 msgid ""
@@ -4900,7 +4899,7 @@ msgstr ""
 
 #: app/Services/TransStrings.php:817
 msgid "Unlock section after"
-msgstr "Desbloquear seção após"
+msgstr "Desbloquear bloco após"
 
 #: app/Services/TransStrings.php:819
 msgid "Unpin from sidebar"
@@ -5017,7 +5016,7 @@ msgstr "Configurações de insígnia do usuário"
 
 #: app/Services/TransStrings.php:841
 msgid "User Badges"
-msgstr "Insígnias do usuário"
+msgstr "Módulo de Insígnias"
 
 #: app/Services/TransStrings.php:843
 msgid "User can change the layout style for their own preference"
@@ -5150,7 +5149,7 @@ msgstr "Ver ações de comentários"
 
 #: app/Services/TransStrings.php:854
 msgid "View Course"
-msgstr "Ver curso"
+msgstr "Ver Curso"
 
 #: app/Services/TransStrings.php:855
 msgid "View Invitations"
@@ -5250,7 +5249,7 @@ msgstr ""
 #: app/Services/TransStrings.php:872
 #, php-format
 msgid "What's happening, %s"
-msgstr "O que está acontecendo, %s"
+msgstr "Criar uma publicação"
 
 #: app/Services/TransStrings.php:873
 msgid "When creating a new post, check if the post title is required or not"
@@ -5567,7 +5566,7 @@ msgstr "Endereço de e-mail da sua conta"
 
 #: app/Views/auth/login_form.php:36
 msgid "Your account password"
-msgstr "A senha da sua conta"
+msgstr "Senha da conta"
 
 #: app/Services/TransStrings.php:911
 msgid "Your affiliate ID"
