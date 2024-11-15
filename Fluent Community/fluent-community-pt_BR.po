@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FluentCommunity - Community & LMS Plugin\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-08 17:57+0000\n"
-"PO-Revision-Date: 2024-11-14 19:33+0000\n"
+"PO-Revision-Date: 2024-11-15 16:13+0000\n"
 "Last-Translator: Lucas Fuad\n"
 "Language-Team: Português do Brasil\n"
 "Language: pt_BR\n"
@@ -160,7 +160,7 @@ msgstr "%d comentários"
 #. Relative Date Formats. Don't alter %d
 #: app/Hooks/Handlers/PortalHandler.php:497
 msgid "%d days"
-msgstr "%d dias"
+msgstr "há %d dias"
 
 #: app/Services/TransStrings.php:14
 msgid "%d Group"
@@ -173,7 +173,7 @@ msgstr "%d Categorias"
 #. Relative Date Formats. Don't alter %d
 #: app/Hooks/Handlers/PortalHandler.php:493
 msgid "%d hours"
-msgstr "%d horas"
+msgstr "há %d horas"
 
 #: app/Services/TransStrings.php:16
 msgid "%d Lesson"
@@ -195,7 +195,7 @@ msgstr "há %d minutos"
 #. Relative Date Formats. Don't alter %d
 #: app/Hooks/Handlers/PortalHandler.php:501
 msgid "%d months"
-msgstr "%d meses"
+msgstr "há %d meses"
 
 #: app/Services/TransStrings.php:25
 msgid "%d points"
@@ -240,7 +240,7 @@ msgstr "%d alunos"
 #. Relative Date Formats. Don't alter %d
 #: app/Hooks/Handlers/PortalHandler.php:505
 msgid "%d years"
-msgstr "%d anos"
+msgstr "há %d anos"
 
 #. Relative Date Formats. Don't alter %d
 #: app/Hooks/Handlers/PortalHandler.php:525
@@ -507,7 +507,7 @@ msgstr "há um minuto"
 #. Relative Date Formats
 #: app/Hooks/Handlers/PortalHandler.php:499
 msgid "a month"
-msgstr "um mês"
+msgstr "há um mês"
 
 #: app/Services/TransStrings.php:934
 #, php-format
@@ -526,7 +526,7 @@ msgstr ""
 #. Relative Date Formats
 #: app/Hooks/Handlers/PortalHandler.php:503
 msgid "a year"
-msgstr "um ano"
+msgstr "há um ano"
 
 #: app/Services/TransStrings.php:51
 msgid "About"
@@ -784,7 +784,7 @@ msgstr "Todas as postagens"
 
 #: app/Services/TransStrings.php:95
 msgid "All Space Groups"
-msgstr "Todos as Categorias"
+msgstr "Todas as Categorias"
 
 #: app/Services/TransStrings.php:96
 msgid "All Spaces"
@@ -835,7 +835,7 @@ msgstr ""
 #. Relative Date Formats
 #: app/Hooks/Handlers/PortalHandler.php:491
 msgid "an hour"
-msgstr "uma hora"
+msgstr "há uma hora"
 
 #: app/Services/TransStrings.php:106
 msgid "Any Logged in users"
@@ -1609,7 +1609,7 @@ msgstr "Imagem personalizada"
 
 #: app/Services/TransStrings.php:238
 msgid "Custom Lock Screen"
-msgstr "Tela de bloqueio personalizada"
+msgstr "Tela de Bloqueio Personalizada"
 
 #: app/Services/TransStrings.php:239
 msgid "Custom SVG"
@@ -1675,7 +1675,7 @@ msgstr "Estilos de layout padrão"
 
 #: app/Services/TransStrings.php:252
 msgid "Default Lock Screen"
-msgstr "Tela de bloqueio padrão"
+msgstr "Tela de Bloqueio Padrão"
 
 #: app/Services/TransStrings.php:253
 msgid "Default Open Graph Image"
@@ -2880,11 +2880,11 @@ msgstr "Local"
 
 #: app/Services/TransStrings.php:458
 msgid "Lock Screen"
-msgstr "Tela de bloqueio"
+msgstr "Tela de Bloqueio"
 
 #: app/Services/TransStrings.php:459
 msgid "Lock Screen Type"
-msgstr "Tela Bloqueio de Conteúdo"
+msgstr "Bloqueio de Conteúdo"
 
 #: Modules/Course/Http/Controllers/CourseAdminController.php:893
 msgid "Lockscreen settings has been updated successfully."
