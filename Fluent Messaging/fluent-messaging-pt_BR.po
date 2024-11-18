@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fluent Messaging\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-08 18:08+0000\n"
+"PO-Revision-Date: 2024-11-15 17:43+0000\n"
+"Last-Translator: Lucas Fuad\n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.7\n"
+"X-Domain: fluent-messaging"
+
+#: app/Hooks/Handlers/ChatAppHandler.php:175
+msgid "Admin"
+msgstr "Administrador"
+
+#. Description of the plugin
+msgid "Chat Plugin for FluentCommunity"
+msgstr "Plugin de chat para FluentCommunity"
+
+#: boot/app.php:37
+msgid "Check Update"
+msgstr "Verificar atualização"
+
+#: app/Hooks/Handlers/ChatAppHandler.php:171
+msgid "Delete"
+msgstr "Excluir"
+
+#. Name of the plugin
+msgid "Fluent Messaging"
+msgstr "Fluent Messaging"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://fluentcommunity.co"
+msgstr "https://fluentcommunity.co"
+
+#: app/Hooks/Handlers/ChatAppHandler.php:181
+#, php-format
+msgid "Joined: %s"
+msgstr "Entrou: %s"
+
+#: app/Hooks/Handlers/ChatAppHandler.php:174
+msgid "Members"
+msgstr "Membros"
+
+#: app/Hooks/Handlers/ChatAppHandler.php:173
+msgid "Reply"
+msgstr "Responder"
+
+#: app/Hooks/Handlers/ChatAppHandler.php:180
+msgid "Select a user to start messaging"
+msgstr "Selecione um usuário para iniciar a troca de mensagens"
+
+#: app/Hooks/Handlers/ChatAppHandler.php:179
+msgid "Select or search user"
+msgstr "Selecione ou pesquise usuário"
+
+#: app/Hooks/Handlers/ChatAppHandler.php:184
+msgid "Send"
+msgstr "Enviar"
+
+#: app/Hooks/Handlers/ChatAppHandler.php:172
+msgid "sending..."
+msgstr "enviando..."
+
+#: app/Hooks/Handlers/ChatAppHandler.php:177
+#, php-format
+msgid "Start a chat session with %s by sending the first message"
+msgstr "Inicie um chat com %s enviando uma mensagem"
+
+#. Author of the plugin
+msgid "techjewel"
+msgstr "techjewel"
+
+#: app/Hooks/Handlers/ChatAppHandler.php:178
+msgid "To:"
+msgstr "Para:"
+
+#: app/Hooks/Handlers/ChatAppHandler.php:176
+msgid "Type your message here"
+msgstr "Digite sua mensagem aqui"
+
+#: app/Hooks/Handlers/ChatAppHandler.php:182
+msgid "Uploading"
+msgstr "Enviando"
+
+#: app/Hooks/Handlers/ChatAppHandler.php:183
+msgid "Write a message here..."
+msgstr "Escreva uma mensagem aqui..."
+
+#: app/Http/Controllers/ChatController.php:560
+msgid "You are not allowed to view this thread members"
+msgstr "Você não tem permissão para visualizar os membros deste tópico"

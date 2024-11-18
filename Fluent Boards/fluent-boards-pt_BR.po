@@ -1,0 +1,2860 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fluent Boards\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-23 07:08+0000\n"
+"PO-Revision-Date: 2024-11-18 13:03+0000\n"
+"Last-Translator: Lucas Fuad\n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.13; wp-6.7\n"
+"X-Domain: fluent-boards"
+
+#: app/Http/Controllers/OptionsController.php:865
+msgid "(no title)"
+msgstr "(sem título)"
+
+#: app/Services/TransStrings.php:11
+msgid "* Denotes mandatory fields"
+msgstr "* Indica campos obrigatórios"
+
+#: app/Services/TransStrings.php:12
+msgid "** Invite a member to board via email"
+msgstr "** Convidar um membro para embarcar por e-mail"
+
+#: app/Services/TransStrings.php:13
+msgid "** Url required **"
+msgstr "** URL necessária **"
+
+#: app/Services/TransStrings.php:14
+msgid "**email is required"
+msgstr "**e-mail é obrigatório"
+
+#: app/Services/TransStrings.php:15
+msgid "*select boards can't be empty"
+msgstr "*os boards selecionados não podem estar vazios"
+
+#: app/Services/TransStrings.php:16
+msgid "*select users can't be empty"
+msgstr "*os usuários selecionados não podem estar vazios"
+
+#: app/Services/TransStrings.php:17
+msgid "About this Board"
+msgstr "Sobre este Board"
+
+#: app/Services/TransStrings.php:372
+msgid "about this feature"
+msgstr "sobre esse recurso"
+
+#: app/Services/TransStrings.php:18
+msgid "Action"
+msgstr "Ação"
+
+#: app/Http/Controllers/OptionsController.php:595
+msgid "Activate Fluent Forms"
+msgstr "Ativar Fluent Forms"
+
+#: app/Http/Controllers/OptionsController.php:614
+msgid "Activate Fluent SMTP"
+msgstr "Ativar Fluent SMTP"
+
+#: app/Http/Controllers/OptionsController.php:605
+msgid "Activate Fluent Support"
+msgstr "Ativar o suporte Fluent"
+
+#: app/Http/Controllers/OptionsController.php:586
+msgid "Activate FluentCRM"
+msgstr "Ativar FluentCRM"
+
+#: app/Services/TransStrings.php:531
+msgid "Active"
+msgstr "Ativo"
+
+#: app/Services/TransStrings.php:19
+msgid "Activities"
+msgstr "Atividades"
+
+#: app/Services/TransStrings.php:20
+msgid "Activity history"
+msgstr "Histórico de Atividades"
+
+#: app/Services/TransStrings.php:533
+msgid "Add"
+msgstr "Adicionar"
+
+#: app/Services/TransStrings.php:437
+msgid "Add a more detailed description of the task here"
+msgstr "Adicione uma descrição mais detalhada da tarefa aqui"
+
+#: app/Services/TransStrings.php:34
+msgid "Add a Task to Board"
+msgstr "Adicionar uma tarefa ao board"
+
+#: app/Services/TransStrings.php:21
+msgid "Add Attachment"
+msgstr "Adicionar anexo"
+
+#: app/Services/TransStrings.php:22
+msgid "Add Board"
+msgstr "Adicionar Board"
+
+#: app/Services/TransStrings.php:23
+msgid "Add Contact"
+msgstr "Adicionar contato"
+
+#: app/Services/TransStrings.php:24
+msgid "Add First Task"
+msgstr "Adicionar primeira tarefa"
+
+#: app/Services/TransStrings.php:35
+msgid "Add from Modal"
+msgstr "Adicionar do Modal"
+
+#: app/Services/TransStrings.php:36
+msgid "Add label"
+msgstr "Adicionar Rótulo"
+
+#: app/Services/TransStrings.php:37
+msgid "Add link"
+msgstr "Adicionar link"
+
+#: app/Services/TransStrings.php:25
+msgid "Add Member"
+msgstr "Adicionar Membro"
+
+#: app/Services/TransStrings.php:38
+msgid "Add member"
+msgstr "Adicionar membro"
+
+#: app/Services/TransStrings.php:26
+msgid "Add New Label"
+msgstr "Adicionar Novo Rótulo"
+
+#: app/Services/TransStrings.php:39
+msgid "Add new Member"
+msgstr "Adicionar novo Membro"
+
+#: app/Services/TransStrings.php:27
+msgid "Add New Stage"
+msgstr "Adicionar Nova Etapa"
+
+#: app/Services/TransStrings.php:28
+msgid "Add Priority"
+msgstr "Adicionar Prioridade"
+
+#: app/Services/TransStrings.php:29
+msgid "Add ShortCodes"
+msgstr "Adicionar ShortCodes"
+
+#: app/Services/TransStrings.php:30
+msgid "Add Stage"
+msgstr "Adicionar Etapa"
+
+#: app/Services/TransStrings.php:31
+msgid "Add Subtask"
+msgstr "Adicionar Subtarefa"
+
+#: app/Services/TransStrings.php:32
+msgid "Add Task"
+msgstr "Adicionar tarefa"
+
+#: app/Services/TransStrings.php:40
+msgid "Add to Boards"
+msgstr "Adicionar aos painéis"
+
+#: app/Services/TransStrings.php:33
+msgid "Add To Task"
+msgstr "Adicionar à tarefa"
+
+#: app/Services/TransStrings.php:403 app/Services/TransStrings.php:405
+msgid "added a new comment"
+msgstr "adicionou um novo comentário"
+
+#: app/Services/TransStrings.php:41
+msgid "Admin"
+msgstr "Administrador"
+
+#: app/Services/TransStrings.php:42
+msgid "Advanced Modules"
+msgstr "Módulos Avançados"
+
+#: app/Services/TransStrings.php:43
+msgid "After 1 Hour"
+msgstr "Depois de 1 hora"
+
+#: app/Services/TransStrings.php:44
+msgid "After 1 Month"
+msgstr "Depois de 1 mês"
+
+#: app/Services/TransStrings.php:45
+msgid "After 1 Week"
+msgstr "Depois de 1 semana"
+
+#: app/Services/TransStrings.php:46
+msgid "After 2 Days"
+msgstr "Depois de 2 dias"
+
+#: app/Services/TransStrings.php:47 app/Services/TransStrings.php:487
+msgid "All"
+msgstr "Todos"
+
+#: app/Services/TransStrings.php:48
+msgid "All Access"
+msgstr "Acesso total"
+
+#: app/Services/TransStrings.php:49
+msgid "All Boards"
+msgstr "Todos os Boards"
+
+#: app/Services/TransStrings.php:50
+msgid "All Members:"
+msgstr "Todos os membros:"
+
+#: app/Models/Task.php:692
+msgid "An array of label IDs or titles. Example: [1, \"feature\", 44]"
+msgstr "Uma matriz de IDs de rótulos ou títulos. Exemplo: [1, \"feature\", 44]"
+
+#: app/Models/Task.php:698
+msgid "An array of WP User IDs. Example: [1,2,44]"
+msgstr "Uma matriz de IDs de usuário WP. Exemplo: [1,2,44]"
+
+#: app/Services/TransStrings.php:402
+msgid "An email will be sent to the user with an invitation link."
+msgstr "Um e-mail será enviado ao usuário com um link de convite."
+
+#: app/Services/TransStrings.php:423
+msgid "Angle"
+msgstr "Ângulo"
+
+#: app/Services/TransStrings.php:53
+msgid "Archive all tasks"
+msgstr "Arquivar todas as tarefas"
+
+#: app/Services/TransStrings.php:51
+msgid "Archive Stages"
+msgstr "Arquivar Etapas"
+
+#: app/Services/TransStrings.php:52
+msgid "Archive Task"
+msgstr "Arquivar Tarefa"
+
+#: app/Services/TransStrings.php:54
+msgid "Archive this Stage"
+msgstr "Arquivar esta Etapa"
+
+#: app/Services/TransStrings.php:55 app/Services/TransStrings.php:532
+msgid "Archived"
+msgstr "Arquivado"
+
+#: app/Services/TransStrings.php:412
+msgid "archived a task"
+msgstr "arquivou uma tarefa"
+
+#: app/Services/TransStrings.php:56
+msgid "Archived Tasks"
+msgstr "Tarefas arquivadas"
+
+#: app/Services/TransStrings.php:57
+msgid "Are you sure to delete this?"
+msgstr "Tem certeza de que deseja excluir isso?"
+
+#: app/Services/TransStrings.php:58
+msgid "Are you sure you want to delete?"
+msgstr "Tem certeza de que deseja excluir?"
+
+#: app/Services/TransStrings.php:59
+msgid "Are you sure you want to remove someone from all board ?"
+msgstr "Tem certeza de que deseja remover alguém de todo o fórum?"
+
+#: app/Services/TransStrings.php:537
+msgid "Are you sure you want to restore the board?"
+msgstr "Tem certeza de que deseja restaurar o board?"
+
+#: app/Services/TransStrings.php:60
+msgid "Are you sure? You want to leave from"
+msgstr "Tem certeza? Você quer sair de"
+
+#: app/Services/TransStrings.php:61
+msgid "Are you sure? You want to remove"
+msgstr "Tem certeza? Você quer remover"
+
+#: app/Services/TransStrings.php:62
+msgid "Assigned to a task"
+msgstr "Atribuído a uma tarefa"
+
+#: app/Services/TransStrings.php:63
+msgid "Assignee"
+msgstr "Participante"
+
+#: app/Models/Task.php:695 app/Services/TransStrings.php:64
+msgid "Assignees"
+msgstr "Participantes"
+
+#: app/Services/TransStrings.php:65
+msgid "Associate Tasks"
+msgstr "Tarefas associadas"
+
+#: app/Models/Task.php:680
+msgid "Associated CRM Contact First Name. Example: \"John\""
+msgstr "Nome do contato CRM associado. Exemplo: \"John\""
+
+#: app/Models/Task.php:686
+msgid "Associated CRM Contact Last Name"
+msgstr "Sobrenome do contato do CRM associado"
+
+#: app/Http/Controllers/BoardController.php:779
+msgid "Associated Crm Member has been updated"
+msgstr "O membro associado do CRM foi atualizado"
+
+#: app/Services/TransStrings.php:66
+msgid "Attachment"
+msgstr "Anexo"
+
+#: app/Http/Controllers/CommentController.php:279
+msgid "attachment has been added"
+msgstr "anexo foi adicionado"
+
+#: app/Services/TransStrings.php:477
+msgid "Attachment uploaded successfully."
+msgstr "Anexo carregado com sucesso."
+
+#: app/Services/TransStrings.php:67
+msgid "Attachments"
+msgstr "Anexos"
+
+#: app/Services/TransStrings.php:68
+msgid "Back"
+msgstr "Voltar"
+
+#: app/Services/TransStrings.php:69
+msgid "Background Color"
+msgstr "Cor de fundo"
+
+#: app/Http/Controllers/BoardController.php:699
+msgid "Background updated successfully"
+msgstr "Plano de fundo atualizado com sucesso"
+
+#: app/Models/Task.php:597 app/Services/TransStrings.php:70
+msgid "Board"
+msgstr "Board"
+
+#: app/Services/TransStrings.php:375
+msgid "board"
+msgstr "board"
+
+#: app/Services/TransStrings.php:71
+msgid "Board Description"
+msgstr "Descrição do Board"
+
+#: app/Services/TaskService.php:29
+msgid "Board doesn't exists"
+msgstr "O board não existe"
+
+#: app/Http/Controllers/BoardController.php:929
+msgid "Board has been archived successfully!"
+msgstr "O board foi arquivado com sucesso!"
+
+#: app/Http/Controllers/BoardController.php:204
+msgid "Board has been created"
+msgstr "O board foi criado"
+
+#: app/Http/Controllers/BoardController.php:250
+msgid "Board has been created successfully"
+msgstr "O board foi criado com sucesso"
+
+#: app/Http/Controllers/BoardController.php:420
+msgid "Board has been deleted"
+msgstr "O board foi deletado"
+
+#: app/Http/Controllers/BoardController.php:943
+msgid "Board has been restored successfully!"
+msgstr "A placa foi restaurada com sucesso!"
+
+#: app/Http/Controllers/BoardController.php:331
+#: app/Http/Controllers/BoardController.php:917
+msgid "Board has been updated"
+msgstr "O board foi atualizado"
+
+#: app/Http/Controllers/TaskController.php:150
+msgid "Board id is not valid"
+msgstr "O ID do board não é válido"
+
+#: app/Http/Controllers/BoardController.php:694
+msgid "Board id is required"
+msgstr "O ID do Board é obrigatório"
+
+#: app/Services/TransStrings.php:72
+msgid "Board Info"
+msgstr "Informações do Board"
+
+#: app/Services/TransStrings.php:73
+msgid "Board Members"
+msgstr "Membros do Board"
+
+#: app/Services/TransStrings.php:74
+msgid "Board Menu"
+msgstr "Menu do Board"
+
+#: app/Http/Controllers/NotificationController.php:83
+msgid "Board notification settings has been updated"
+msgstr "As configurações de notificação do board foram atualizadas"
+
+#: app/Http/Controllers/BoardController.php:383
+#: app/Http/Controllers/StageController.php:79
+msgid "Board stage has been updated"
+msgstr "A etapa do board foi atualizada"
+
+#: app/Services/TransStrings.php:75
+msgid "Board Title"
+msgstr "Título do Board"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:92
+#: app/Hooks/Handlers/AdminMenuHandler.php:93
+#: app/Hooks/Handlers/AdminMenuHandler.php:216
+msgid "Boards"
+msgstr "Boards"
+
+#: app/Services/TransStrings.php:76
+msgid "Border Radius"
+msgstr "Raio da Borda"
+
+#: app/Services/TransStrings.php:77
+msgid "Button Preview"
+msgstr "Pré-visualização do botão"
+
+#: app/Services/TransStrings.php:78
+msgid "Button Text"
+msgstr "Texto do botão"
+
+#: app/Services/TransStrings.php:376
+msgid "button to create a new task."
+msgstr "botão para criar uma nova tarefa."
+
+#: app/Services/TransStrings.php:79
+msgid "Button URL"
+msgstr "URL do botão"
+
+#: app/Services/TransStrings.php:80
+msgid "By Tasks"
+msgstr "Por tarefas"
+
+#: app/Services/TransStrings.php:81
+msgid "By Users"
+msgstr "Por usuários"
+
+#: app/Services/TransStrings.php:85
+msgid "Can users reactions with unauthenticated along with authentication?*"
+msgstr "Os usuários podem reagir com autenticação e sem autenticação?*"
+
+#: app/Services/TransStrings.php:86
+msgid "Can users vote and comment with name, email along with authentication?*"
+msgstr "Os usuários podem votar e comentar com nome, e-mail e autenticação?*"
+
+#: app/Services/TransStrings.php:87 app/Services/TransStrings.php:377
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: app/Services/TransStrings.php:88
+msgid "Card View"
+msgstr "Visualização de cartão"
+
+#: app/Services/TransStrings.php:89
+msgid "Cards View Preference"
+msgstr "Preferência de visualização de cartões"
+
+#: app/Services/TransStrings.php:90
+msgid "Change Cover"
+msgstr "Alterar Capa"
+
+#: app/Services/TransStrings.php:411
+msgid "changed task priority"
+msgstr "prioridade de tarefa alterada"
+
+#: app/Services/TransStrings.php:91
+msgid "Choose a file or drag & drop it here."
+msgstr "Escolha um arquivo ou arraste e solte-o aqui."
+
+#: app/Services/TransStrings.php:426
+msgid "Circle"
+msgstr "Círculo"
+
+#: app/Services/TransStrings.php:92
+msgid "Clear"
+msgstr "Claro"
+
+#: app/Services/TransStrings.php:378
+msgid "click here"
+msgstr "Clique aqui"
+
+#: app/Services/TransStrings.php:93
+msgid "Click on the"
+msgstr "Clique no"
+
+#: app/Services/TransStrings.php:401
+msgid "Click Send Invitation to add to this board"
+msgstr "Clique em Enviar convite para adicionar a este board"
+
+#: app/Services/TransStrings.php:94
+msgid "Click to change Status"
+msgstr "Clique para alterar o status"
+
+#: app/Services/TransStrings.php:95
+msgid "Close"
+msgstr "Fechar"
+
+#: app/Services/TransStrings.php:428
+msgid "Closest Corner"
+msgstr "Canto mais próximo"
+
+#: app/Services/TransStrings.php:427
+msgid "Closest Side"
+msgstr "Lado mais próximo"
+
+#: app/Http/Controllers/OptionsController.php:596
+msgid ""
+"Collect leads and build any type of forms, accept payments, connect with "
+"your CRM with the Fastest Contact Form Builder Plugin for WordPress"
+msgstr ""
+"Colete leads e crie qualquer tipo de formulário, aceite pagamentos, conecte-"
+"se ao seu CRM com o plugin Fastest Contact Form Builder para WordPress"
+
+#: app/Services/TransStrings.php:96
+msgid "Comment"
+msgstr "Comentário"
+
+#: app/Services/TransStrings.php:486
+msgid "Comment & Activity history"
+msgstr "Histórico de Comentários e Atividades"
+
+#: app/Http/Controllers/CommentController.php:124
+msgid "Comment has been added"
+msgstr "Comentário foi adicionado"
+
+#: app/Http/Controllers/CommentController.php:187
+msgid "Comment has been deleted"
+msgstr "O comentário foi excluído"
+
+#: app/Http/Controllers/CommentController.php:174
+msgid "Comment has been updated"
+msgstr "O comentário foi atualizado"
+
+#: app/Services/TransStrings.php:98
+msgid "Comments"
+msgstr "Comentários"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:251
+msgid "Community"
+msgstr "Comunidade"
+
+#: app/Services/TransStrings.php:99
+msgid "Completed"
+msgstr "Concluídas"
+
+#: app/Services/TransStrings.php:463
+msgid "Completed Ideas"
+msgstr "Ideias Concluídas"
+
+#: app/Services/TransStrings.php:458
+msgid "Completed Tasks"
+msgstr "Tarefas Concluídas"
+
+#: app/Services/TransStrings.php:100 app/Services/TransStrings.php:379
+msgid "Confirm"
+msgstr "Confirmar"
+
+#: app/Services/TransStrings.php:101
+msgid "Confirmation Required"
+msgstr "Confirmação Necessária"
+
+#: app/Services/TransStrings.php:422
+msgid "Conic"
+msgstr "Cônico"
+
+#: app/Services/Intergrations/FluentCRM/Automations/ContactAddedBoardTrigger.php:59
+msgid "Contact added to any of the selected boards"
+msgstr "Contato adicionado a qualquer um dos boards selecionados"
+
+#: app/Services/Intergrations/FluentCRM/Automations/ContactAddedBoardTrigger.php:26
+#: app/Services/Intergrations/FluentCRM/Automations/ContactAddedBoardTrigger.php:43
+msgid "Contact Added to Board"
+msgstr "Contato adicionado ao Board"
+
+#: app/Services/Intergrations/FluentCRM/Automations/ContactAddedTaskTrigger.php:27
+#: app/Services/Intergrations/FluentCRM/Automations/ContactAddedTaskTrigger.php:44
+msgid "Contact Added to Task"
+msgstr "Contato adicionado à tarefa"
+
+#: app/Services/Intergrations/FluentCRM/Automations/ContactAddedTaskTrigger.php:60
+msgid "Contact added to task in any of the selected boards"
+msgstr "Contato adicionado à tarefa em qualquer um dos boards selecionados"
+
+#: app/Models/Task.php:677
+msgid "Contact First Name"
+msgstr "Contato Primeiro Nome"
+
+#: app/Models/Task.php:683
+msgid "Contact Last Name"
+msgstr "Sobrenome do contato"
+
+#: app/Services/TransStrings.php:102
+msgid "Convert to Task"
+msgstr "Converter para tarefa"
+
+#: app/Services/TransStrings.php:103
+msgid "Copy Stage"
+msgstr "Copiar Etapa"
+
+#: app/Services/TransStrings.php:434
+msgid ""
+"Copy the keys in the Key column and paste it into the app you want to use "
+"for sending the POST request, so it will send the data into the task field "
+"you want."
+msgstr ""
+"Copie as chaves na coluna Chave e cole-as no aplicativo que você deseja usar "
+"para enviar a solicitação POST, para que ele envie os dados para o campo de "
+"tarefa desejado."
+
+#: app/Services/TransStrings.php:433
+msgid "Copy the webhook URL you want to send your POST request to."
+msgstr "Copie a URL do webhook para o qual deseja enviar sua solicitação POST."
+
+#: app/Services/TransStrings.php:104
+msgid "Cover photo"
+msgstr "Foto da capa"
+
+#: app/Services/TransStrings.php:105
+msgid "Create"
+msgstr "Criar"
+
+#: app/Services/TransStrings.php:110
+msgid "Create a new template"
+msgstr "Criar um novo modelo"
+
+#: app/Services/TransStrings.php:527
+msgid "Create a task when repeating"
+msgstr "Crie uma tarefa ao repetir"
+
+#: app/Services/TransStrings.php:106
+msgid "Create Board"
+msgstr "Criar Board"
+
+#: app/Services/TransStrings.php:107
+msgid "Create First Task"
+msgstr "Criar primeira tarefa"
+
+#: app/Services/TransStrings.php:111
+msgid "Create new board"
+msgstr "Criar novo board"
+
+#: app/Services/TransStrings.php:112
+msgid "Create new task"
+msgstr "Criar nova tarefa"
+
+#: app/Services/TransStrings.php:113
+msgid "Create roadmap"
+msgstr "Criar roadmap"
+
+#: app/Services/TransStrings.php:108
+#: app/Services/Intergrations/FluentCRM/Automations/TaskCreateAction.php:25
+#: app/Services/Intergrations/FluentCRM/Automations/TaskCreateAction.php:38
+msgid "Create Task"
+msgstr "Criar tarefa"
+
+#: app/Services/TransStrings.php:114
+msgid "Create task"
+msgstr "Criar tarefa"
+
+#: app/Services/TransStrings.php:115
+msgid "Create task from template"
+msgstr "Criar tarefa a partir de modelo"
+
+#: app/Services/Intergrations/FluentCRM/Automations/TaskCreateAction.php:26
+msgid "Create Task to the selected Board"
+msgstr "Criar tarefa para o Board selecionado"
+
+#: app/Services/TransStrings.php:109
+msgid "Create Your Board"
+msgstr "Crie seu Board"
+
+#: app/Services/TransStrings.php:407
+msgid "created a new subtask"
+msgstr "criou uma nova subtarefa"
+
+#: app/Services/TransStrings.php:116
+msgid "Created By"
+msgstr "Criado por"
+
+#: app/Services/TransStrings.php:117
+msgid "Created On"
+msgstr "Criado em"
+
+#: app/Services/TransStrings.php:83
+msgid "CRM Contact"
+msgstr "Contato CRM"
+
+#: app/Services/TransStrings.php:84
+msgid "CRM contact"
+msgstr "Contato CRM"
+
+#: app/Models/Task.php:671
+msgid "CRM Contact Email"
+msgstr "E-mail de contato do CRM"
+
+#: app/Models/Task.php:665
+msgid "CRM Contact Id"
+msgstr "ID de contato do CRM"
+
+#: app/Services/TransStrings.php:511
+msgid "Daily"
+msgstr "Diário"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:83
+#: app/Hooks/Handlers/AdminMenuHandler.php:84
+#: app/Hooks/Handlers/AdminMenuHandler.php:211
+msgid "Dashboard"
+msgstr "Painel"
+
+#: app/Http/Controllers/OptionsController.php:569
+msgid "Dashboard view settings are updated"
+msgstr "As configurações de visualização do painel são atualizadas"
+
+#: app/Http/Controllers/TaskController.php:292
+msgid "Dates has been updated"
+msgstr "As datas foram atualizadas"
+
+#: app/Services/TransStrings.php:517
+msgid "day(s)"
+msgstr "dia(s)"
+
+#: app/Services/TransStrings.php:387
+msgid "days"
+msgstr "dias"
+
+#: app/Services/TransStrings.php:118
+msgid "Define Board Stages"
+msgstr "Definir Etapa do Board"
+
+#: app/Services/TransStrings.php:119
+msgid "Define Stages"
+msgstr "Definir Etapas"
+
+#: app/Services/TransStrings.php:120
+msgid "Define stages & complete your roadmap"
+msgstr "Defina as etapas e conclua seu roadmap"
+
+#: app/Services/TransStrings.php:121
+msgid "Define your deal stages"
+msgstr "Defina as etapas do seu negócio"
+
+#: app/Services/TransStrings.php:122
+msgid "Delete"
+msgstr "Excluir"
+
+#: app/Services/TransStrings.php:123
+msgid "Delete Label"
+msgstr "Excluir rótulo"
+
+#: app/Services/TransStrings.php:124
+msgid "Deleting item cannot be restored. Are you sure you want to proceed"
+msgstr ""
+"A exclusão do item não pode ser restaurada. Tem certeza de que deseja "
+"prosseguir?"
+
+#: app/Services/TransStrings.php:126
+msgid "Demote from Boards Admin"
+msgstr "Rebaixar do Boards de Administração"
+
+#: app/Services/TransStrings.php:125
+msgid "Demote from Manager"
+msgstr "Rebaixar do cargo de Gerente"
+
+#: app/Services/TransStrings.php:127
+msgid "Denotes mandatory field"
+msgstr "Denota campo obrigatório"
+
+#: app/Services/TransStrings.php:128
+msgid "Describe Your Board"
+msgstr "Descreva seu Board"
+
+#: app/Services/TransStrings.php:129
+msgid "Describe your first roadmap"
+msgstr "Descreva seu primeiro roadmap"
+
+#: app/Models/Task.php:593 app/Models/Task.php:629
+#: app/Services/TransStrings.php:130
+#: app/Services/Intergrations/FluentCRM/Automations/TaskCreateAction.php:65
+msgid "Description"
+msgstr "Descrição"
+
+#: app/Models/Task.php:632
+msgid "Description of the task"
+msgstr "Descrição da tarefa"
+
+#: app/Services/TransStrings.php:131
+msgid "Design Your Button"
+msgstr "Crie seu botão"
+
+#: app/Services/TransStrings.php:132
+msgid "Drop json file here or"
+msgstr "Solte o arquivo json aqui ou"
+
+#: app/Services/TransStrings.php:478
+msgid "Drop Task Here"
+msgstr "Solte a tarefa aqui"
+
+#: app/Models/Task.php:595 app/Models/Task.php:641
+#: app/Services/TransStrings.php:133
+#: app/Hooks/Handlers/FluentCrmIntegration.php:170
+#: app/Services/Intergrations/FluentCRM/Automations/TaskCreateAction.php:56
+msgid "Due Date"
+msgstr "Prazo"
+
+#: app/Services/TransStrings.php:388
+msgid "Due date has been updated of a task you are watching."
+msgstr ""
+"A data de vencimento de uma tarefa que você está monitorando foi atualizada."
+
+#: app/Services/TransStrings.php:134
+msgid "Duplicate"
+msgstr "Duplicado"
+
+#: app/Http/Controllers/StageController.php:113
+msgid "Duplicate or empty stage"
+msgstr "Etapas duplicada ou vazia"
+
+#: app/Services/TransStrings.php:135
+msgid "Edit"
+msgstr "Editar"
+
+#: app/Services/TransStrings.php:136
+msgid "Edit template"
+msgstr "Editar modelo"
+
+#: app/Services/TransStrings.php:425
+msgid "Ellipse"
+msgstr "Elipse"
+
+#: app/Services/TransStrings.php:137
+msgid "Email Notification Preferences"
+msgstr "Preferências de notificação por e-mail"
+
+#: app/Services/TransStrings.php:138
+msgid "Email Notifications"
+msgstr "Notificações por e-mail"
+
+#: app/Services/TransStrings.php:139
+msgid "Enable All"
+msgstr "Habilitar tudo"
+
+#: app/Services/TransStrings.php:481
+msgid "Enable comment submission"
+msgstr "Habilitar envio de comentários"
+
+#: app/Services/TransStrings.php:479
+msgid "Enable idea submission"
+msgstr "Habilitar envio de ideias"
+
+#: app/Services/TransStrings.php:140
+msgid "Enable Time Tracking Feature"
+msgstr "Habilitar recurso de controle de tempo"
+
+#: app/Services/TransStrings.php:483
+msgid "Enable vote submission"
+msgstr "Habilitar envio de votos"
+
+#: app/Services/TransStrings.php:141
+msgid "Enable/Disable Fluent Board's Advanced features or integrations."
+msgstr ""
+"Habilitar/desabilitar recursos avançados ou integrações do Fluent Board."
+
+#: app/Services/Intergrations/FluentFormIntegration/Bootstrap.php:410
+msgid "Error when submitting data to Fluent Board server."
+msgstr "Erro ao enviar dados para o servidor Fluent Board."
+
+#: app/Services/TransStrings.php:389
+msgid "estimated"
+msgstr "estimado"
+
+#: app/Services/TransStrings.php:430
+msgid "Farthest Corner"
+msgstr "Canto mais distante"
+
+#: app/Services/TransStrings.php:429
+msgid "Farthest Side"
+msgstr "Lado mais distante"
+
+#: app/Services/TransStrings.php:142
+msgid "Features & Modules"
+msgstr "Características e Módulos"
+
+#: app/Views/notification.php:188
+msgid ""
+"Feel free to contact us with any additional questions at "
+"support@fluentboards.com"
+msgstr ""
+"Sinta-se à vontade para entrar em contato conosco caso tenha alguma dúvida "
+"adicional pelo e-mail support@fluentboards.com"
+
+#: app/Services/UploadService.php:23
+msgid "File upload failed"
+msgstr "Falha no upload do arquivo"
+
+#: app/Services/TransStrings.php:143
+msgid "Filter"
+msgstr "Filtro"
+
+#: app/Services/TransStrings.php:144
+msgid "Filters"
+msgstr "Filtros"
+
+#: app/Services/TransStrings.php:145
+msgid "Finish"
+msgstr "Terminar"
+
+#: app/Services/TransStrings.php:521
+msgid "First day of month"
+msgstr "Primeiro dia do mês"
+
+#: app/Services/TransStrings.php:524
+msgid "First day of year"
+msgstr "Primeiro dia do ano"
+
+#: app/Services/TransStrings.php:146
+msgid "First step to provide your roadmap a title, add some description."
+msgstr ""
+"O primeiro passo é dar um título ao seu roadmap e adicionar alguma descrição."
+
+#. $parent_slug
+#. $page_title
+#: app/Hooks/Handlers/FluentCrmIntegration.php:18
+#: app/Hooks/Handlers/AdminMenuHandler.php:62
+#: app/Hooks/Handlers/AdminMenuHandler.php:63
+#: app/Hooks/Handlers/AdminMenuHandler.php:72
+#: app/Hooks/Handlers/AdminMenuHandler.php:73
+msgid "Fluent Boards"
+msgstr "Fluent Boards"
+
+#. Name of the plugin
+msgid "Fluent Boards - Project Management Tool"
+msgstr "Fluent Boards - Ferramenta de gerenciamento de projetos"
+
+#: app/Http/Controllers/OptionsController.php:294
+msgid "Fluent boards admin added"
+msgstr "Administrador Fluent boards adicionado"
+
+#: app/Services/Intergrations/FluentFormIntegration/Bootstrap.php:407
+msgid ""
+"Fluent Boards feed has been successfully initialized and data has been "
+"pushed."
+msgstr ""
+"O feed do Fluent Boards foi inicializado com sucesso e os dados foram "
+"enviados."
+
+#. Description of the plugin
+msgid ""
+"Fluent Boards is a powerful tool designed for efficient management of to-do "
+"lists, projects, and tasks with kanban board and more.."
+msgstr ""
+"O Fluent Boards é uma ferramenta poderosa projetada para gerenciamento "
+"eficiente de listas de tarefas, projetos e tarefas com board kanban e muito "
+"mais."
+
+#: app/Http/Controllers/OptionsController.php:590
+msgid "Fluent Forms"
+msgstr "Fluent Forms"
+
+#: app/Services/InstallService.php:25
+#: app/Http/Controllers/OptionsController.php:696
+msgid "Fluent Plugin"
+msgstr "Fluent Plugin"
+
+#: app/Http/Controllers/OptionsController.php:609
+msgid "Fluent SMTP"
+msgstr "Fluent SMTP"
+
+#: app/Http/Controllers/OptionsController.php:599
+msgid "Fluent Support"
+msgstr "Fluent Support"
+
+#: app/Hooks/Handlers/FluentCrmIntegration.php:16
+#: app/Services/Intergrations/FluentCRM/Automations/ContactAddedTaskTrigger.php:26
+#: app/Services/Intergrations/FluentCRM/Automations/ContactAddedBoardTrigger.php:25
+#: app/Services/Intergrations/FluentCRM/Automations/TaskCreateAction.php:24
+#: app/Services/Intergrations/FluentCRM/Automations/StageChangedTrigger.php:26
+msgid "FluentBoards"
+msgstr "FluentBoards"
+
+#: app/Services/TransStrings.php:443
+msgid "FluentBoards Admin"
+msgstr "Administrador FluentBoards"
+
+#: app/Services/TransStrings.php:147
+msgid "FluentBoards Admin has all the privileges"
+msgstr "O administrador do FluentBoards tem todos os privilégios"
+
+#: app/Services/TransStrings.php:148
+msgid "FluentBoards will search in the users of this site"
+msgstr "O FluentBoards pesquisará os usuários deste site"
+
+#: app/Http/Controllers/OptionsController.php:581
+msgid "FluentCRM"
+msgstr "FluentCRM"
+
+#: app/Http/Controllers/OptionsController.php:587
+msgid ""
+"FluentCRM is a Self Hosted Email Marketing Automation Plugin for WordPress. "
+"Manage your leads and customers, email campaigns, automated email sequencing "
+"and many more"
+msgstr ""
+"FluentCRM é um plugin de automação de marketing por e-mail auto-hospedado "
+"para WordPress. Gerencie seus leads e clientes, campanhas de e-mail, "
+"sequenciamento automatizado de e-mail e muito mais"
+
+#: app/Services/TransStrings.php:444
+msgid "FluentCRM Profile"
+msgstr "Perfil FluentCRM"
+
+#: app/Services/TransStrings.php:149
+msgid "Font Size"
+msgstr "Tamanho da fonte"
+
+#: app/Services/TransStrings.php:150
+msgid "Font Style"
+msgstr "Estilo da fonte"
+
+#: app/Services/TransStrings.php:390
+msgid "from"
+msgstr "de"
+
+#: app/Services/TransStrings.php:391
+msgid "from admin of"
+msgstr "do administrador de"
+
+#: app/Services/Intergrations/FluentCRM/Automations/StageChangedTrigger.php:57
+msgid "From stage"
+msgstr "Da Etapa"
+
+#: app/Services/TransStrings.php:151
+#: app/Hooks/Handlers/AdminMenuHandler.php:260
+msgid "Frontend Portal"
+msgstr "Portal Frontend"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:242
+msgid "Get Pro"
+msgstr "Obter Pro"
+
+#: app/Services/TransStrings.php:152
+msgid "Go Back"
+msgstr "Volte"
+
+#: app/Services/TransStrings.php:154
+msgid "Go to boards"
+msgstr "Ir para os boards"
+
+#: app/Services/TransStrings.php:455 app/Services/TransStrings.php:476
+msgid "Go To task after creation."
+msgstr "Ir para a tarefa após a criação."
+
+#: app/Services/TransStrings.php:153
+msgid "Go to Ticket"
+msgstr "Ir para o ingresso"
+
+#: app/Views/emails/daily.php:9
+msgid "Good Morning"
+msgstr "Bom dia"
+
+#: app/Services/TransStrings.php:419
+msgid "Gradient Type"
+msgstr "Tipo de gradiente"
+
+#: app/Hooks/Handlers/BoardHandler.php:124
+#, php-format
+msgid "had changed the position of <em><strong>%1s</strong></em> stage."
+msgstr "havia mudado a posição da etapa <em><strong>%1s</strong></em>."
+
+#: app/Services/TransStrings.php:492
+msgid "High"
+msgstr "Alto"
+
+#: app/Services/TransStrings.php:155
+msgid "Hours"
+msgstr "Horas"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://fluentboards.com"
+msgstr "https://fluentboards.com"
+
+#: app/Services/TransStrings.php:473
+msgid "Idea"
+msgstr "Ideia"
+
+#: app/Services/TransStrings.php:469
+msgid "Idea Not Found"
+msgstr "Ideia não encontrada"
+
+#: app/Services/TransStrings.php:465
+msgid "Idea Priority Chart:"
+msgstr "Quadro de prioridades de ideias:"
+
+#: app/Services/TransStrings.php:166
+msgid "Idea submitted from frontend page"
+msgstr "Ideia enviada da página inicial"
+
+#: app/Services/TransStrings.php:467
+msgid "Idea Submitted in last 30 days:"
+msgstr "Ideia enviada nos últimos 30 dias:"
+
+#: app/Services/TransStrings.php:156
+msgid "Import"
+msgstr "Importar"
+
+#: app/Services/TransStrings.php:157
+msgid "Import From"
+msgstr "Importar de"
+
+#: app/Services/TransStrings.php:158
+msgid "Import from"
+msgstr "Importar de"
+
+#: app/Http/Controllers/BoardController.php:885
+msgid "Import successfully"
+msgstr "Importação bem-sucedida"
+
+#: app/Services/TransStrings.php:159
+msgid "Import your data from JSON file."
+msgstr "Importe seus dados do arquivo JSON."
+
+#: app/Services/TransStrings.php:436
+msgid "in"
+msgstr "em"
+
+#: app/Services/TransStrings.php:392
+msgid "in the comment section of the roadmap?*"
+msgstr "na seção de comentários do roadmap?*"
+
+#: app/Services/TransStrings.php:457
+msgid "Incomplete Tasks"
+msgstr "Tarefas Incompletas"
+
+#: app/Services/TransStrings.php:160
+msgid "Insert"
+msgstr "Inserir"
+
+#: app/Http/Controllers/OptionsController.php:595
+msgid "Install Fluent Forms"
+msgstr "Instalar Fluent Forms"
+
+#: app/Http/Controllers/OptionsController.php:614
+msgid "Install Fluent SMTP"
+msgstr "Instalar Fluent SMTP"
+
+#: app/Http/Controllers/OptionsController.php:605
+msgid "Install Fluent Support"
+msgstr "Instalar Fluent Support"
+
+#: app/Http/Controllers/OptionsController.php:586
+msgid "Install FluentCRM"
+msgstr "Instalar FluentCRM"
+
+#: app/Services/TransStrings.php:161
+msgid "Integrations"
+msgstr "Integrações"
+
+#: app/Http/Controllers/TaskController.php:464
+msgid "Invalid Board"
+msgstr "Placa Inválida"
+
+#: app/Http/Controllers/OptionsController.php:691
+msgid "Invalid plugin"
+msgstr "Plugin inválido"
+
+#: app/Services/StageService.php:376 app/Services/UserService.php:351
+msgid "Invalid sort or orderBy parameter"
+msgstr "Parâmetro sort ou orderBy inválido"
+
+#: app/Http/Controllers/TaskController.php:457
+msgid "Invalid Stage"
+msgstr "Etapa inválida"
+
+#: app/Http/Controllers/TaskController.php:460
+msgid "Invalid Value"
+msgstr "Valor inválido"
+
+#: app/Services/TransStrings.php:162
+msgid "Invite Member"
+msgstr "Convidar Membro"
+
+#: app/Services/TransStrings.php:163
+msgid "Is authentication required for"
+msgstr "É necessária autenticação para"
+
+#: app/Services/TransStrings.php:164
+msgid "Is authentication required for Idea submit?*"
+msgstr "É necessária autenticação para enviar ideias?*"
+
+#: app/Services/TransStrings.php:165
+msgid "Is authentication required for the"
+msgstr "É necessária autenticação para o"
+
+#: app/Services/TransStrings.php:167
+msgid "Join as Assignee"
+msgstr "Participar"
+
+#: app/Hooks/Handlers/ScheduleHandler.php:478
+msgid "Join Board"
+msgstr "Junte-se ao Board"
+
+#: app/Hooks/Handlers/ScheduleHandler.php:477
+msgid "join board invitation in fluent boards"
+msgstr "convite para participar do board no fluent boards"
+
+#: app/Services/TransStrings.php:168
+msgid "Kanban"
+msgstr "Kanban"
+
+#: app/Services/TransStrings.php:169
+msgid "Keep"
+msgstr "Manter"
+
+#: app/Services/TransStrings.php:170
+msgid "Keep Labels"
+msgstr "Mantenha os rótulos"
+
+#: app/Services/TransStrings.php:171
+msgid "Keep Tasks"
+msgstr "Manter tarefas"
+
+#: app/Services/TransStrings.php:441
+msgid "Keeping blank won't add any assignee"
+msgstr "Manter em branco não adicionará nenhum participante"
+
+#: app/Services/Intergrations/FluentCRM/Automations/TaskCreateAction.php:72
+msgid "Keeping it blank will select priority to low"
+msgstr "Mantê-lo em branco selecionará a prioridade como baixa"
+
+#: app/Http/Controllers/LabelController.php:84
+msgid "Label has been added"
+msgstr "O rótulo foi adicionado"
+
+#: app/Http/Controllers/LabelController.php:60
+msgid "Label has been created"
+msgstr "O rótulo foi criado"
+
+#: app/Http/Controllers/LabelController.php:111
+#: app/Http/Controllers/LabelController.php:134
+msgid "Label has been deleted"
+msgstr "O rótulo foi excluído"
+
+#: app/Http/Controllers/LabelController.php:154
+msgid "Label has been updated"
+msgstr "O rótulo foi atualizado"
+
+#: app/Models/Task.php:689 app/Services/TransStrings.php:172
+msgid "Labels"
+msgstr "Etiquetas"
+
+#: app/Services/TransStrings.php:173
+msgid "Last 3 months"
+msgstr "Últimos 3 meses"
+
+#: app/Services/TransStrings.php:522
+msgid "Last day of month"
+msgstr "Último dia do mês"
+
+#: app/Services/TransStrings.php:525
+msgid "Last day of year"
+msgstr "Último dia do ano"
+
+#: app/Services/TransStrings.php:174
+msgid "Last month"
+msgstr "Mês passado"
+
+#: app/Services/TransStrings.php:175
+msgid "Last quarter"
+msgstr "Último trimestre"
+
+#: app/Services/TransStrings.php:176
+msgid "Last week"
+msgstr "Semana passada"
+
+#: app/Services/TransStrings.php:177
+msgid "Learn"
+msgstr "Aprender"
+
+#: app/Services/TransStrings.php:178
+msgid "Learn More"
+msgstr "Saber mais"
+
+#: app/Services/TransStrings.php:179
+msgid "Learn more"
+msgstr "Saber mais"
+
+#: app/Services/TransStrings.php:181
+msgid "Leave board"
+msgstr "Sair do Board"
+
+#: app/Services/Intergrations/FluentCRM/Automations/StageChangedTrigger.php:59
+#: app/Services/Intergrations/FluentCRM/Automations/StageChangedTrigger.php:71
+msgid "Leave empty to target any stage of this board"
+msgstr "Deixe em branco para aplicar a todas as etapas deste board"
+
+#: app/Services/TransStrings.php:180
+msgid "Leave Task"
+msgstr "Deixar tarefa"
+
+#: app/Services/TransStrings.php:182
+msgid "License Key"
+msgstr "Chave de licença"
+
+#: app/Services/TransStrings.php:183
+msgid "License Management"
+msgstr "Licença"
+
+#: app/Services/TransStrings.php:420
+msgid "Linear"
+msgstr "Linear"
+
+#: app/Services/TransStrings.php:184
+msgid "List"
+msgstr "Lista"
+
+#: app/Services/TransStrings.php:185
+msgid "Lists:"
+msgstr "Listas:"
+
+#: app/Services/TransStrings.php:186
+msgid "Load FluentBoards in the frontend of the website"
+msgstr "Carregue FluentBoards no frontend do site"
+
+#: app/Services/TransStrings.php:187 app/Services/TransStrings.php:500
+msgid "Loading"
+msgstr "Carregando"
+
+#: app/Services/TransStrings.php:535
+msgid "Logged at"
+msgstr "Registrado em"
+
+#: app/Services/TransStrings.php:493
+msgid "Low"
+msgstr "Baixo"
+
+#: app/Services/TransStrings.php:188
+msgid "Make FluentBoards Admin"
+msgstr "Torne o FluentBoards Admin"
+
+#: app/Services/TransStrings.php:189
+msgid "Make Template"
+msgstr "Criar modelo"
+
+#: app/Services/TransStrings.php:193
+msgid "Make template"
+msgstr "Criar Modelo"
+
+#: app/Services/TransStrings.php:190
+msgid "Make This Stage Admin Only"
+msgstr "Alterar Etapa Somente para Admin"
+
+#: app/Services/TransStrings.php:191
+msgid "Make This Stage Public"
+msgstr "Tornar Etapa Pública"
+
+#: app/Services/TransStrings.php:192
+msgid "Make User Board Admin"
+msgstr "Tornar o usuário administrador do Board"
+
+#: app/Services/TransStrings.php:194
+msgid "Manage"
+msgstr "Gerenciar"
+
+#: app/Services/TransStrings.php:195
+msgid "Manage User Permissions"
+msgstr "Gerenciar permissões do usuário"
+
+#: app/Services/TransStrings.php:417
+msgid "Mark all as read"
+msgstr "Marcar tudo como lido"
+
+#: app/Services/TransStrings.php:494
+msgid "Medium"
+msgstr "Médio"
+
+#: app/Services/TransStrings.php:196
+msgid "Member"
+msgstr "Membro"
+
+#: app/Http/Controllers/BoardController.php:567
+msgid "Member added successfully"
+msgstr "Membro adicionado com sucesso"
+
+#: app/Http/Controllers/OptionsController.php:204
+msgid "Member has been set super admin successfully!"
+msgstr "O membro foi definido como superadministrador com sucesso!"
+
+#: app/Http/Controllers/BoardController.php:550
+msgid "Member removed successfully"
+msgstr "Membro removido com sucesso"
+
+#: app/Http/Controllers/OptionsController.php:329
+msgid "Members added to boards"
+msgstr "Membros adicionados aos boards"
+
+#: app/Services/TransStrings.php:197
+msgid "Members Role"
+msgstr "Cargos dos Membros"
+
+#: app/Services/TransStrings.php:406
+msgid "mentioned you in a comment"
+msgstr "mencionou você em um comentário"
+
+#: app/Services/TransStrings.php:198
+msgid "Menu"
+msgstr "Menu"
+
+#: app/Services/TransStrings.php:199
+msgid "Minutes"
+msgstr "Minutos"
+
+#: app/Services/TransStrings.php:519
+msgid "month(s) on"
+msgstr "mês(es) em"
+
+#: app/Services/TransStrings.php:513
+msgid "Monthly"
+msgstr "Mensal"
+
+#: app/Services/TransStrings.php:393
+msgid "more"
+msgstr "mais"
+
+#: app/Services/TransStrings.php:466
+msgid "Most Popular Ideas:"
+msgstr "Ideias mais populares:"
+
+#: app/Services/TransStrings.php:200
+msgid "Move"
+msgstr "Mover"
+
+#: app/Services/TransStrings.php:203
+msgid "Move all tasks"
+msgstr "Mover todas as tarefas"
+
+#: app/Services/TransStrings.php:201
+msgid "Move Task"
+msgstr "Mover tarefa"
+
+#: app/Services/TransStrings.php:202
+msgid "Move To"
+msgstr "Mover para"
+
+#: app/Services/TransStrings.php:204
+msgid "Move to next stage"
+msgstr "Mover para próxima etapa"
+
+#: app/Services/TransStrings.php:410
+msgid "moved task to another stage"
+msgstr "tarefa movida para outra etapa"
+
+#: app/Services/TransStrings.php:205
+msgid "My Tasks"
+msgstr "Minhas Tarefas"
+
+#: app/Services/TransStrings.php:206
+msgid "Name Your Board"
+msgstr "Dê um nome ao seu Board"
+
+#: app/Services/TransStrings.php:207
+msgid "Name your roadmap"
+msgstr "Dê um nome ao seu roadmap"
+
+#: app/Services/TransStrings.php:97
+msgid "New comments added on a task you are watching."
+msgstr "Novos comentários adicionados em uma tarefa que você está monitorando."
+
+#: app/Services/TransStrings.php:211
+msgid "Newest"
+msgstr "Mais novo"
+
+#: app/Services/TransStrings.php:208
+msgid "Next"
+msgstr "Próximo"
+
+#: app/Services/TransStrings.php:210
+msgid "Next define stages"
+msgstr "Em seguida, defina as etapas"
+
+#: app/Services/TransStrings.php:209
+msgid "Next Step"
+msgstr "Próximo passo"
+
+#: app/Services/TransStrings.php:212
+msgid "No"
+msgstr "Não"
+
+#: app/Services/TransStrings.php:222
+msgid "No archive task found!"
+msgstr "Nenhuma tarefa arquivada foi encontrada!"
+
+#: app/Services/TransStrings.php:224
+msgid "No archived stages found!"
+msgstr "Nenhuma etapa arquivada foi encontrada!"
+
+#: app/Services/TransStrings.php:213
+msgid "No Assignee"
+msgstr "Nenhum participante"
+
+#: app/Services/TransStrings.php:214
+msgid "No Board Members"
+msgstr "Nenhum Membro do Board"
+
+#: app/Services/TransStrings.php:215
+msgid "No Boards Yet!"
+msgstr "Nenhum Board ainda!"
+
+#: app/Services/TransStrings.php:217
+msgid "No Completed Tasks"
+msgstr "Nenhuma Tarefa Concluída"
+
+#: app/Services/TransStrings.php:225
+msgid "No contact found"
+msgstr "Nenhum contato encontrado"
+
+#: app/Services/TransStrings.php:226
+msgid "No description, click to add"
+msgstr "Sem descrição, clique para adicionar"
+
+#: app/Services/TransStrings.php:218
+msgid "No Label"
+msgstr "Sem rótulo"
+
+#: app/Services/TransStrings.php:227
+msgid "No members found to assign to this task."
+msgstr "Nenhum membro encontrado para atribuir esta tarefa."
+
+#: app/Services/TransStrings.php:228
+msgid "No members has been assigned of this task"
+msgstr "Nenhum membro foi designado para esta tarefa"
+
+#: app/Services/TransStrings.php:229
+msgid "No more activities"
+msgstr "Não há mais atividades"
+
+#: app/Services/TransStrings.php:230
+msgid "No more notification"
+msgstr "Não há mais notificação"
+
+#: app/Services/TransStrings.php:231
+msgid "No more stages"
+msgstr "Não há mais etapas"
+
+#: app/Services/TransStrings.php:232
+msgid "No more tasks"
+msgstr "Não há mais tarefas"
+
+#: app/Services/TransStrings.php:233
+msgid "No notification"
+msgstr "Nenhuma notificação"
+
+#: app/Services/TransStrings.php:219
+msgid "No Overdue Tasks"
+msgstr "Nenhuma Tarefa Atrasada"
+
+#: app/Services/TransStrings.php:220
+msgid "No Pending Invitations"
+msgstr "Nenhum convite pendente"
+
+#: app/Services/TransStrings.php:216
+msgid "No Roadmaps Yet!"
+msgstr "Ainda não há Roadmaps!"
+
+#: app/Services/TransStrings.php:223
+msgid "No Tasks Found!"
+msgstr "Nenhuma Tarefa Encontrada!"
+
+#: app/Services/TransStrings.php:234
+msgid "No unread notification"
+msgstr "Nenhuma notificação não lida"
+
+#: app/Services/TransStrings.php:221
+msgid "No Upcoming Tasks"
+msgstr "Nenhuma Tarefa Pendente"
+
+#: app/Services/TransStrings.php:235
+msgid "No, Thanks"
+msgstr "Não, obrigado"
+
+#: app/Services/TransStrings.php:236
+msgid "Note"
+msgstr "Observação"
+
+#: app/Services/TransStrings.php:237
+msgid ""
+"Note: For authentication in the Fluent roadmap, the Fluent Auth plugin is "
+"required."
+msgstr ""
+"Observação: para autenticação no Fluent roadmap, o plugin Fluent Auth é "
+"necessário."
+
+#: app/Http/Controllers/NotificationController.php:102
+msgid "Notification is updated"
+msgstr "A notificação foi atualizada"
+
+#: app/Http/Controllers/OptionsController.php:345
+msgid "Notification settings are updated"
+msgstr "As configurações de notificação são atualizadas"
+
+#: app/Services/TransStrings.php:238
+msgid "Notifications"
+msgstr "Notificações"
+
+#: app/Services/TransStrings.php:239
+msgid "Now"
+msgstr "Agora"
+
+#: app/Services/TransStrings.php:240
+msgid "OK"
+msgstr "OK"
+
+#: app/Services/TransStrings.php:488
+msgid "Oldest"
+msgstr "Mais antigo"
+
+#: app/Services/TransStrings.php:399
+msgid "on stage"
+msgstr "na etapa"
+
+#: app/Http/Controllers/BoardController.php:218
+msgid "Onboarding skipped successfully"
+msgstr "Integração ignorada com sucesso"
+
+#: app/Services/TransStrings.php:241
+msgid "Only template stages can be imported"
+msgstr "Somente templates de etapas podem ser importados"
+
+#: app/Services/TransStrings.php:242
+msgid "Open"
+msgstr "Abrir"
+
+#: app/Services/TransStrings.php:243
+msgid "Open task"
+msgstr "Tarefa Aberta"
+
+#: app/Services/TransStrings.php:244
+msgid "Options"
+msgstr "Opções"
+
+#: app/Services/TransStrings.php:536
+msgid "Others"
+msgstr "Outras"
+
+#: app/Services/TransStrings.php:245
+msgid "Overdue"
+msgstr "Atrasadas"
+
+#: app/Services/TransStrings.php:394
+msgid "overdue task"
+msgstr "tarefa atrasada"
+
+#: app/Services/TransStrings.php:459
+msgid "Overdue Tasks"
+msgstr "Tarefas Atrasadas"
+
+#: app/Models/Task.php:617
+msgid "Parent Task"
+msgstr "Tarefa dos pais"
+
+#: app/Models/Task.php:620
+msgid "Parent Task ID of the subtask. Example: 1"
+msgstr "ID da tarefa pai da subtarefa. Exemplo: 1"
+
+#: app/Services/TransStrings.php:496
+msgid "Paste a link"
+msgstr "Cole um link"
+
+#: app/Services/TransStrings.php:462
+msgid "Pending Ideas"
+msgstr "Ideias Pendentes"
+
+#: app/Services/TransStrings.php:246
+msgid "Pending Invitations:"
+msgstr "Convites pendentes:"
+
+#: app/Services/TransStrings.php:247
+msgid "Please Create Your First Board"
+msgstr "Crie Seu Primeiro Board"
+
+#: app/Services/TransStrings.php:249
+msgid "Please enter a keyword"
+msgstr "Por favor, insira uma palavra-chave"
+
+#: app/Services/TransStrings.php:504
+msgid "Please input label"
+msgstr "Por favor insira o rótulo"
+
+#: app/Services/TransStrings.php:503
+msgid "Please input label title"
+msgstr "Por favor, insira o título do rótulo"
+
+#: app/Services/TransStrings.php:248
+msgid "Please Provide a license key of"
+msgstr "Forneça uma chave de licença de"
+
+#: app/Services/TransStrings.php:250
+msgid "Please, Try again with a different term"
+msgstr "Por favor, tente novamente com um termo diferente"
+
+#: app/Http/Controllers/OptionsController.php:709
+msgid "Plugin is being installed"
+msgstr "O plugin está sendo instalado"
+
+#: app/Services/TransStrings.php:251
+msgid "Plugins that will extend your Fluent Boards Functionalities"
+msgstr "Plugins que estenderão as funcionalidades do seu Fluent Boards"
+
+#: app/Services/TransStrings.php:252
+msgid "Position"
+msgstr "Posição"
+
+#: app/Views/emails/comment-added.php:31 app/Views/emails/template.php:24
+msgid "Powered By"
+msgstr "Distribuído por"
+
+#: app/Models/Task.php:594 app/Models/Task.php:635
+#: app/Services/TransStrings.php:253
+#: app/Hooks/Handlers/FluentCrmIntegration.php:171
+msgid "Priority"
+msgstr "Prioridade"
+
+#: app/Models/Task.php:638
+msgid "Priority of the task (low | medium | high). Example: \"medium\" "
+msgstr "Prioridade da tarefa (baixa | média | alta). Exemplo: \"médio\""
+
+#: app/Services/TransStrings.php:254 app/Views/admin/menu.php:11
+msgid "Pro"
+msgstr "Pro"
+
+#: app/Services/TransStrings.php:255
+msgid "Processing... It may take a while..."
+msgstr "Processando... Pode demorar um pouco..."
+
+#: app/Services/TransStrings.php:257
+msgid "Promote to All Boards Admin"
+msgstr "Promover para todos os Admin dos Boards"
+
+#: app/Services/TransStrings.php:256
+msgid "Promote to Manager"
+msgstr "Promover a Gerente"
+
+#: app/Services/TransStrings.php:461
+msgid "Public Ideas"
+msgstr "Ideias Públicas"
+
+#: app/Services/TransStrings.php:258
+msgid "Purchase one here"
+msgstr "Compre um aqui"
+
+#: app/Services/TransStrings.php:259
+msgid "Quick Search"
+msgstr "Pesquisa rápida"
+
+#: app/Services/TransStrings.php:260
+msgid "Quick View"
+msgstr "Visão rápida"
+
+#: app/Services/TransStrings.php:421
+msgid "Radial"
+msgstr "Radial"
+
+#: app/Services/TransStrings.php:395
+msgid "reactions"
+msgstr "reações"
+
+#: app/Services/TransStrings.php:261
+msgid "Recent Searches"
+msgstr "Pesquisas recentes"
+
+#: app/Services/TransStrings.php:262
+msgid "Recently Opened"
+msgstr "Aberto Recentemente"
+
+#: app/Services/TransStrings.php:263
+msgid "Recommended Plugins and Addons"
+msgstr "Plugins e complementos recomendados"
+
+#: app/Services/TransStrings.php:264
+msgid "Refresh Board"
+msgstr "Atualizar Board"
+
+#: app/Services/TransStrings.php:265
+msgid "Related Support Ticket"
+msgstr "Ticket de suporte relacionado"
+
+#: app/Services/TransStrings.php:266
+msgid "Remove"
+msgstr "Remover"
+
+#: app/Services/TransStrings.php:269
+msgid "Remove from Board"
+msgstr "Remover do Board"
+
+#: app/Services/TransStrings.php:270
+msgid "Remove from board"
+msgstr "Remover do tabuleiro"
+
+#: app/Services/TransStrings.php:267
+msgid "Remove Template"
+msgstr "Remover modelo"
+
+#: app/Services/TransStrings.php:268
+msgid "Remove User from Board Admin"
+msgstr "Remover Usuário da Administração do Board"
+
+#: app/Services/TransStrings.php:272
+msgid "Removed from a task"
+msgstr "Removido de uma tarefa"
+
+#: app/Services/TransStrings.php:273
+msgid "Reorder Stages"
+msgstr "Reordenar Etapas"
+
+#: app/Services/TransStrings.php:516
+msgid "Repeat every"
+msgstr "Repita cada"
+
+#: app/Services/TransStrings.php:523
+msgid "Repeat every year(s) on"
+msgstr "Repita todos os anos em"
+
+#: app/Services/TransStrings.php:526
+msgid "Repeat only when completed"
+msgstr "Repita somente quando concluído"
+
+#: app/Services/TransStrings.php:510
+msgid "Repeat Task"
+msgstr "Repetir tarefa"
+
+#: app/Services/TransStrings.php:404
+msgid "replied to a comment"
+msgstr "respondeu a um comentário"
+
+#: app/Services/TransStrings.php:274
+msgid "Replies"
+msgstr "Respostas"
+
+#: app/Services/TransStrings.php:275
+msgid "Reply"
+msgstr "Responder"
+
+#: app/Http/Controllers/CommentController.php:229
+msgid "Reply has been deleted"
+msgstr "A resposta foi excluída"
+
+#: app/Http/Controllers/CommentController.php:216
+msgid "Reply has been updated"
+msgstr "A resposta foi atualizada"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:103
+#: app/Hooks/Handlers/AdminMenuHandler.php:104
+#: app/Hooks/Handlers/AdminMenuHandler.php:225
+msgid "Reports"
+msgstr "Relatórios"
+
+#: app/Services/TransStrings.php:276
+msgid "Resend"
+msgstr "Reenviar"
+
+#: app/Services/TransStrings.php:277
+msgid "Restore"
+msgstr "Restaurar"
+
+#: app/Services/TransStrings.php:278
+msgid "Restore Task"
+msgstr "Restaurar tarefa"
+
+#: app/Services/TransStrings.php:413
+msgid "restored a task"
+msgstr "restaurou uma tarefa"
+
+#: app/Services/TransStrings.php:279
+msgid "Roadmap"
+msgstr "Roadmap"
+
+#: app/Services/TransStrings.php:280
+msgid "Roadmap Settings"
+msgstr "Configurações do Roadmap"
+
+#: app/Services/Intergrations/FluentCRM/Automations/ContactAddedTaskTrigger.php:55
+#: app/Services/Intergrations/FluentCRM/Automations/ContactAddedBoardTrigger.php:54
+msgid "Run When"
+msgstr "Correr quando"
+
+#: app/Services/TransStrings.php:520
+msgid "Same day"
+msgstr "No mesmo dia"
+
+#: app/Services/TransStrings.php:281
+msgid "Save"
+msgstr "Salvar"
+
+#: app/Services/TransStrings.php:282
+msgid "Save Settings"
+msgstr "Salvar configurações"
+
+#: app/Services/TransStrings.php:283
+msgid "Search"
+msgstr "Procurar"
+
+#: app/Services/TransStrings.php:286
+msgid "Search Boards"
+msgstr "Buscar Boards"
+
+#: app/Services/TransStrings.php:285
+msgid "Search for boards and tasks"
+msgstr "Pesquisar por tarefas e boards"
+
+#: app/Services/TransStrings.php:485
+msgid "Search Label"
+msgstr "Etiqueta de pesquisa"
+
+#: app/Services/TransStrings.php:288
+msgid "Search member"
+msgstr "Pesquisar membro"
+
+#: app/Services/TransStrings.php:509
+msgid "Search members"
+msgstr "Pesquisar membros"
+
+#: app/Services/TransStrings.php:508
+msgid "Search or Select Stage"
+msgstr "Pesquisar ou Selecionar Etapa"
+
+#: app/Services/TransStrings.php:287
+msgid "Search Roadmaps"
+msgstr "Pesquisar Roadmaps"
+
+#: app/Services/TransStrings.php:284
+msgid "Search User:"
+msgstr "Pesquisar usuário:"
+
+#: app/Services/TransStrings.php:289
+msgid "Second step to provide stages name of your deal"
+msgstr "Segundo passo para fornecer o nome das etapas do seu negócio"
+
+#: app/Services/TransStrings.php:396
+msgid "sections of the roadmap?*"
+msgstr "seções do roadmap?*"
+
+#: app/Services/TransStrings.php:491
+msgid "see less"
+msgstr "ver menos"
+
+#: app/Services/TransStrings.php:490
+msgid "see more"
+msgstr "ver mais"
+
+#: app/Services/TransStrings.php:505 app/Services/TransStrings.php:530
+msgid "Select"
+msgstr "Selecione"
+
+#: app/Services/TransStrings.php:293
+msgid "Select a board"
+msgstr "Selecione um board"
+
+#: app/Services/TransStrings.php:294
+msgid "Select a position"
+msgstr "Selecione uma posição"
+
+#: app/Services/TransStrings.php:295
+msgid "Select a stage"
+msgstr "Selecione uma etapa"
+
+#: app/Services/TransStrings.php:501
+msgid "Select assignee"
+msgstr "Selecionar participante"
+
+#: app/Services/Intergrations/FluentCRM/Automations/ContactAddedTaskTrigger.php:51
+#: app/Services/Intergrations/FluentCRM/Automations/ContactAddedTaskTrigger.php:52
+#: app/Services/Intergrations/FluentCRM/Automations/ContactAddedBoardTrigger.php:50
+#: app/Services/Intergrations/FluentCRM/Automations/ContactAddedBoardTrigger.php:51
+#: app/Services/Intergrations/FluentCRM/Automations/StageChangedTrigger.php:51
+#: app/Services/Intergrations/FluentCRM/Automations/StageChangedTrigger.php:52
+msgid "Select Board"
+msgstr "Selecionar Board"
+
+#: app/Services/Intergrations/FluentCRM/Automations/TaskCreateAction.php:44
+#: app/Services/Intergrations/FluentCRM/Automations/TaskCreateAction.php:45
+msgid "Select Board & It's stage"
+msgstr "Selecione o Board e Sua Etapa"
+
+#: app/Services/TransStrings.php:499
+msgid "Select Board to filter"
+msgstr "Selecione o Board para filtrar"
+
+#: app/Services/TransStrings.php:290
+msgid "Select Boards"
+msgstr "Selecionar Boards"
+
+#: app/Services/TransStrings.php:291
+msgid "Select Contact"
+msgstr "Selecione Contato"
+
+#: app/Services/TransStrings.php:292
+msgid "Select File"
+msgstr "Selecionar arquivo"
+
+#: app/Services/TransStrings.php:438
+msgid "Select Parent Task"
+msgstr "Selecionar tarefa pai"
+
+#: app/Services/Intergrations/FluentCRM/Automations/TaskCreateAction.php:70
+msgid "Select Priority"
+msgstr "Selecione Prioridade"
+
+#: app/Services/TransStrings.php:506
+msgid "Select Stage Templetes"
+msgstr "Selecione os Templates das Etapas"
+
+#: app/Services/TransStrings.php:439
+msgid "Select Subtask Assignee"
+msgstr "Selecione o responsável pela subtarefa"
+
+#: app/Services/TransStrings.php:507
+msgid "Select Time"
+msgstr "Selecione o tempo"
+
+#: app/Services/Intergrations/FluentCRM/Automations/TaskCreateAction.php:39
+msgid "Select which Board & Stage where task will be created"
+msgstr "Selecione o Board e Etapa onde a tarefa será criada"
+
+#: app/Services/TransStrings.php:296
+msgid "Selected Board has no stage !!"
+msgstr "O Board Selecionado não tem etapa!!"
+
+#: app/Services/TransStrings.php:454 app/Services/TransStrings.php:475
+msgid "Send Email when Idea Moved"
+msgstr "Enviar e-mail quando a ideia for movida"
+
+#: app/Services/TransStrings.php:297
+msgid "Send Invitation"
+msgstr "Enviar convite"
+
+#: app/Services/TransStrings.php:528
+msgid "Set"
+msgstr "Definir"
+
+#: app/Services/TransStrings.php:298
+msgid "Set Date"
+msgstr "Definir data"
+
+#: app/Services/TransStrings.php:299
+msgid "Set Estimated Time"
+msgstr "Definir tempo estimado"
+
+#: app/Services/TransStrings.php:300
+msgid "Set Estimation"
+msgstr "Definir estimativa"
+
+#: app/Services/Intergrations/FluentCRM/Automations/TaskCreateAction.php:58
+msgid ""
+"Set to your_input days after task creation, values less than zero will set "
+"due date to null"
+msgstr ""
+"Defina como your_input dias após a criação da tarefa, valores menores que "
+"zero definirão a data de vencimento como nula"
+
+#: app/Services/TransStrings.php:301
+#: app/Hooks/Handlers/AdminMenuHandler.php:112
+#: app/Hooks/Handlers/AdminMenuHandler.php:113
+#: app/Hooks/Handlers/AdminMenuHandler.php:234
+msgid "Settings"
+msgstr "Configurações"
+
+#: app/Http/Controllers/OptionsController.php:665
+#: app/Http/Controllers/OptionsController.php:910
+msgid "Settings are saved"
+msgstr "As configurações são salvas"
+
+#: app/Services/TransStrings.php:424
+msgid "Shape"
+msgstr "Forma"
+
+#: app/Services/TransStrings.php:418
+msgid "Shortcode"
+msgstr "Código curto"
+
+#: app/Services/TransStrings.php:383
+msgid "Show assignees on task card"
+msgstr "Mostrar os responsáveis ​​no cartão de tarefas"
+
+#: app/Services/TransStrings.php:302
+msgid "Show Board Info"
+msgstr "Mostrar informações do Board"
+
+#: app/Services/TransStrings.php:380
+msgid "Show comment count on task card"
+msgstr "Mostrar contagem de comentários no cartão de tarefas"
+
+#: app/Services/TransStrings.php:385
+msgid "Show due date on task card"
+msgstr "Mostrar data de vencimento no cartão de tarefas"
+
+#: app/Services/TransStrings.php:381
+msgid "Show label on task card"
+msgstr "Mostrar rótulo no cartão de tarefa"
+
+#: app/Services/TransStrings.php:303
+msgid "Show more options"
+msgstr "Mostrar mais opções"
+
+#: app/Services/TransStrings.php:386
+msgid "Show notification count on task card"
+msgstr "Mostrar contagem de notificações no cartão de tarefas"
+
+#: app/Services/TransStrings.php:382
+msgid "Show priority on task card"
+msgstr "Mostrar prioridade no cartão de tarefas"
+
+#: app/Services/TransStrings.php:384
+msgid "Show subtask count on task card"
+msgstr "Mostrar contagem de subtarefas no cartão de tarefas"
+
+#: app/Services/TransStrings.php:431
+msgid "Size"
+msgstr "Tamanho"
+
+#: app/Services/TransStrings.php:305
+msgid "Skip Onboarding"
+msgstr "Pular integração"
+
+#: app/Services/TransStrings.php:304
+msgid "Skip This Step"
+msgstr "Pular esta etapa"
+
+#: app/Services/TransStrings.php:306
+msgid "Sort By"
+msgstr "Ordenar por"
+
+#: app/Models/Task.php:598 app/Models/Task.php:653
+msgid "Source"
+msgstr "Fonte"
+
+#: app/Models/Task.php:659
+msgid "Source Id"
+msgstr "Id da fonte"
+
+#: app/Models/Task.php:596 app/Models/Task.php:611
+#: app/Services/TransStrings.php:307
+#: app/Hooks/Handlers/FluentCrmIntegration.php:168
+msgid "Stage"
+msgstr "Etapa"
+
+#: app/Services/TransStrings.php:308
+#: app/Services/Intergrations/FluentCRM/Automations/StageChangedTrigger.php:27
+#: app/Services/Intergrations/FluentCRM/Automations/StageChangedTrigger.php:44
+msgid "Stage Changed"
+msgstr "Etapa Alterada"
+
+#: app/Services/TaskService.php:34
+msgid "Stage doesn't exists"
+msgstr "A Etapa não existe"
+
+#: app/Http/Controllers/BoardController.php:346
+msgid "Stage has been archived"
+msgstr "A Etapa foi arquivada"
+
+#: app/Services/TransStrings.php:312
+msgid "Stage has been changed of a task you are watching."
+msgstr "A Etapa de uma tarefa que você está vendo foi alterada."
+
+#: app/Http/Controllers/BoardController.php:803
+msgid "stage has been created"
+msgstr "a etapa foi criada"
+
+#: app/Http/Controllers/BoardController.php:364
+msgid "Stage has been restored"
+msgstr "A etapa foi restaurada"
+
+#: app/Http/Controllers/StageController.php:29
+#: app/Http/Controllers/StageController.php:108
+msgid "Stage has been updated"
+msgstr "A etapa foi atualizada"
+
+#: app/Services/TransStrings.php:310
+msgid "Stage is required"
+msgstr "Etapa obrigatória"
+
+#: app/Services/TransStrings.php:309
+msgid "Stage Name"
+msgstr "Nome da Etapa"
+
+#: app/Services/TransStrings.php:311
+msgid "Stage name :"
+msgstr "Nome da etapa:"
+
+#: app/Services/TransStrings.php:471
+msgid "Stage Wise Task Completion Report:"
+msgstr "Relatório de Conclusão de Tarefa por Etapas:"
+
+#: app/Services/TransStrings.php:468
+msgid "Stage Wise Total Ideas:"
+msgstr "Ideias Totais por Etapa:"
+
+#: app/Services/TransStrings.php:313
+msgid "Stages"
+msgstr "Etapas"
+
+#: app/Http/Controllers/BoardController.php:396
+msgid "Stages Reordered"
+msgstr "Etapas Reordenadas"
+
+#: app/Models/Task.php:647 app/Services/TransStrings.php:314
+#: app/Hooks/Handlers/FluentCrmIntegration.php:169
+msgid "Start Date"
+msgstr "Data de início"
+
+#: app/Services/TransStrings.php:315
+msgid "Start Importing"
+msgstr "Comece a importar"
+
+#: app/Services/TransStrings.php:432
+msgid "Starting Angle"
+msgstr "Ângulo inicial"
+
+#: app/Models/Task.php:623 app/Services/TransStrings.php:316
+msgid "Status"
+msgstr "Status"
+
+#: app/Services/TransStrings.php:317
+msgid "Step 1"
+msgstr "Passo 1"
+
+#: app/Services/TransStrings.php:318
+msgid "Step 2"
+msgstr "Passo 2"
+
+#: app/Services/TransStrings.php:529
+msgid "Stop Repeating"
+msgstr "Pare de repetir"
+
+#: app/Services/TransStrings.php:319
+msgid "Sub Task"
+msgstr "Subtarefa"
+
+#: app/Services/TransStrings.php:453 app/Services/TransStrings.php:474
+msgid "Subscribe for notifications for a task if you assign someone to it"
+msgstr ""
+"Inscreva-se para receber notificações sobre uma tarefa se você atribuir "
+"alguém a ela"
+
+#: app/Services/TransStrings.php:451
+msgid "Subscribe for notifications for a task if you comment or reply on it"
+msgstr ""
+"Inscreva-se para receber notificações sobre uma tarefa se você comentar ou "
+"responder a ela"
+
+#: app/Services/TransStrings.php:449
+msgid "Subscribe for notifications for cards you create"
+msgstr "Inscreva-se para receber notificações sobre os cartões que você criar"
+
+#: app/Services/TransStrings.php:320
+msgid "Subtask Count"
+msgstr "Contagem de subtarefas"
+
+#: app/Services/TransStrings.php:321
+msgid "Subtasks"
+msgstr "Subtarefas"
+
+#: app/Http/Controllers/WebhookController.php:59
+msgid "Successfully Created the WebHook"
+msgstr "WebHook criado com sucesso"
+
+#: app/Http/Controllers/WebhookController.php:79
+msgid "Successfully deleted the webhook"
+msgstr "O webhook foi excluído com sucesso"
+
+#: app/Http/Controllers/WebhookController.php:69
+msgid "Successfully updated the webhook"
+msgstr "Webhook atualizado com sucesso"
+
+#: app/Views/notification.php:192
+msgid "support@fluentboards.com"
+msgstr "suporte@fluentboards.com"
+
+#: app/Services/TransStrings.php:322
+msgid "Tags:"
+msgstr "Etiquetas:"
+
+#: app/Services/Intergrations/FluentCRM/Automations/StageChangedTrigger.php:69
+msgid "Target stage"
+msgstr "Alvo da Etapa"
+
+#: app/Services/TransStrings.php:323
+msgid "Task Archived"
+msgstr "Tarefa arquivada"
+
+#: app/Services/TransStrings.php:472
+msgid "Task Completion Chart:"
+msgstr "Conclusão de Tarefas:"
+
+#: app/Http/Controllers/TaskController.php:303
+msgid "Task cover photo has been updated"
+msgstr "A foto da capa da tarefa foi atualizada"
+
+#: app/Services/TransStrings.php:324
+msgid "Task Dates"
+msgstr "Datas das tarefas"
+
+#: app/Http/Controllers/TaskController.php:328
+msgid "Task has been deleted"
+msgstr "A tarefa foi excluída"
+
+#: app/Http/Controllers/TaskController.php:157
+msgid "Task has been successfully created"
+msgstr "A tarefa foi criada com sucesso"
+
+#: app/Http/Controllers/TaskController.php:268
+#: app/Http/Controllers/TaskController.php:494
+msgid "Task has been updated"
+msgstr "A tarefa foi atualizada"
+
+#: app/Services/TransStrings.php:328
+msgid "Task has no description"
+msgstr "A tarefa não tem descrição"
+
+#: app/Services/TransStrings.php:325
+msgid "Task Members"
+msgstr "Membros da tarefa"
+
+#: app/Http/Controllers/TaskController.php:178
+msgid "Task not found"
+msgstr "Tarefa não encontrada"
+
+#: app/Views/emails/daily.php:29
+msgid "task of board"
+msgstr "tarefa do board"
+
+#: app/Services/TransStrings.php:470
+msgid "Task Priority Chart:"
+msgstr "Prioridades de Tarefas:"
+
+#: app/Services/TransStrings.php:329
+msgid "Task status"
+msgstr "Status da tarefa"
+
+#: app/Http/Controllers/TaskController.php:312
+msgid "Task status has been updated"
+msgstr "O status da tarefa foi atualizado"
+
+#: app/Services/TransStrings.php:326
+msgid "Task Templates"
+msgstr "Modelos de Tarefas"
+
+#: app/Services/TransStrings.php:327
+#: app/Hooks/Handlers/FluentCrmIntegration.php:167
+#: app/Services/Intergrations/FluentCRM/Automations/TaskCreateAction.php:51
+#: app/Services/Intergrations/FluentCRM/Automations/TaskCreateAction.php:52
+msgid "Task Title"
+msgstr "Título da tarefa"
+
+#: app/Services/TransStrings.php:330
+msgid "Task title cannot be empty."
+msgstr "O título da tarefa não pode estar em branco."
+
+#: app/Services/TransStrings.php:331
+msgid "Tasks"
+msgstr "Tarefas"
+
+#: app/Services/TransStrings.php:332
+msgid "Tasks assigned to me"
+msgstr "Tarefas atribuídas a mim"
+
+#: app/Views/emails/daily.php:15
+msgid "Tasks Due Today:"
+msgstr "Tarefas com vencimento hoje:"
+
+#: app/Http/Controllers/BoardController.php:825
+msgid "Tasks has been archived"
+msgstr "As tarefas foram arquivadas"
+
+#: app/Http/Controllers/BoardController.php:815
+msgid "Tasks has been Moved"
+msgstr "As tarefas foram movidas"
+
+#: app/Http/Controllers/StageController.php:65
+msgid "Tasks has been sorted"
+msgstr "As tarefas foram classificadas"
+
+#: app/Services/TransStrings.php:373
+msgid "Tasks you are watching are archived."
+msgstr "As tarefas que você está monitorando são arquivadas."
+
+#: app/Services/TransStrings.php:333
+msgid "Template"
+msgstr "Modelo"
+
+#: app/Services/TransStrings.php:498
+msgid "Template Title"
+msgstr "Título do modelo"
+
+#: app/Services/TransStrings.php:334
+msgid "Text Color"
+msgstr "Cor do texto"
+
+#: app/Services/TransStrings.php:335
+msgid "Text to display"
+msgstr "Texto para exibir"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:494
+#, php-format
+msgid "Thank you for using <a href=\"%s\">FluentBoards</a>"
+msgstr "Obrigado por usar <a href=\"%s\">FluentBoards</a>"
+
+#: app/Models/Task.php:644
+msgid ""
+"The due date of the task in the format YYYY-MM-DD hh:mm. Example: 2099-12-31 "
+"23:59:59"
+msgstr ""
+"A data de vencimento da tarefa no formato AAAA-MM-DD hh:mm. Exemplo: 2099-12-"
+"31 23:59:59"
+
+#: app/Models/Task.php:674
+msgid ""
+"The email of the associated CRM contact. Example: \"john.doe@example.com\""
+msgstr "O e-mail do contato CRM associado. Exemplo: \"john.doe@example.com\""
+
+#: app/Http/Controllers/CommentController.php:269
+msgid "The file must be a image type."
+msgstr "O arquivo deve ser do tipo imagem."
+
+#: app/Models/Task.php:668
+msgid "The ID of the associated FluentCRM contact. Example: 6465"
+msgstr "O ID do contato FluentCRM associado. Exemplo: 6465"
+
+#: app/Services/TransStrings.php:400
+msgid "The person with this email is not an user of this site."
+msgstr "A pessoa com este e-mail não é usuária deste site."
+
+#: app/Models/Task.php:662
+msgid "The source Id of the task (if any). Example: \"bcy664fh177\""
+msgstr "O ID de origem da tarefa (se houver). Exemplo: \"bcy664fh177\""
+
+#: app/Models/Task.php:656
+msgid "The source of the task. Example: \"jira\""
+msgstr "A fonte da tarefa. Exemplo: \"jira\""
+
+#: app/Http/Controllers/BoardController.php:649
+msgid "The stage is made admin only!"
+msgstr "A etapa é exclusiva para administradores!"
+
+#: app/Http/Controllers/BoardController.php:643
+msgid "The stage is made public!"
+msgstr "A etapa é pública!"
+
+#: app/Models/Task.php:614
+msgid ""
+"The stage of the task, which can be an ID, title, or slug. Example: 1 | "
+"\"open\" | \"Open\""
+msgstr ""
+"A etapa da tarefa, pode ser um ID, título ou slug. Exemplo: 1 | \"aberto\" | "
+"\"Aberto\""
+
+#: app/Models/Task.php:650
+msgid ""
+"The start date of the task in the format YYYY-MM-DD. Example: 2099-12-31"
+msgstr "A data de início da tarefa no formato AAAA-MM-DD. Exemplo: 2099-12-31"
+
+#: app/Models/Task.php:626
+msgid "The status of the task (open | closed). Example: \"closed\""
+msgstr "O status da tarefa (aberta | fechada). Exemplo: \"fechada\""
+
+#: app/Http/Controllers/OptionsController.php:615
+msgid ""
+"The Ultimate SMTP and SES Plugin for WordPress. Connect with any SMTP, "
+"SendGrid, Mailgun, SES, Sendinblue, PepiPost, Google, Microsoft and more."
+msgstr ""
+"O plugin SMTP e SES definitivo para WordPress. Conecte-se com qualquer SMTP, "
+"SendGrid, Mailgun, SES, Sendinblue, PepiPost, Google, Microsoft e mais."
+
+#: app/Services/TransStrings.php:336
+msgid "This Board has no stage"
+msgstr "Este Board não tem uma etapa criada"
+
+#: app/Http/Controllers/OptionsController.php:639
+msgid "This feature is only available in Fluent Boards Pro"
+msgstr "Este recurso está disponível apenas no Fluent Boards Pro"
+
+#: app/Http/Controllers/OptionsController.php:890
+msgid "This feature is only available in Fluent Boards Pro. Please upgrade."
+msgstr ""
+"Este recurso está disponível somente no Fluent Boards Pro. Por favor, "
+"atualize."
+
+#: app/Services/Intergrations/FluentCRM/Automations/StageChangedTrigger.php:28
+msgid ""
+"This funnel will run when stage of a task(associated with crm contact) is "
+"changed"
+msgstr ""
+"Este funil será executado quando a etapa de uma tarefa (associada ao contato "
+"do CRM) for alterada"
+
+#: app/Services/TransStrings.php:456
+msgid "This is a pro feature"
+msgstr "Este é um recurso profissional"
+
+#: app/Services/TransStrings.php:338
+msgid "This is a template task"
+msgstr "Esta é uma tarefa de modelo"
+
+#: app/Services/TransStrings.php:339
+msgid "This is where your created boards will show up."
+msgstr "É aqui que os boards criados serão exibidos."
+
+#: app/Services/TransStrings.php:340
+msgid "This is where your created roadmaps will show up."
+msgstr "É aqui que os roadmaps criados serão exibidos."
+
+#: app/Services/TransStrings.php:341
+msgid "This is where your recently opened boards will show up"
+msgstr "É aqui que seus boards abertos recentemente aparecerão"
+
+#: app/Services/TransStrings.php:337
+msgid "This Month"
+msgstr "Este mês"
+
+#: app/Services/TransStrings.php:342
+msgid "This portal can be accessed from"
+msgstr "Este portal pode ser acessado a partir de"
+
+#: app/Services/TransStrings.php:343
+msgid "This quarter"
+msgstr "Este trimestre"
+
+#: app/Services/TransStrings.php:440
+msgid "This task has assignees, please select one of them."
+msgstr "Esta tarefa tem responsáveis, selecione um deles."
+
+#: app/Services/Intergrations/FluentCRM/Automations/ContactAddedBoardTrigger.php:27
+msgid "This will run when a contact will be added to a board"
+msgstr "Isso será executado quando um contato for adicionado a um board"
+
+#: app/Services/Intergrations/FluentCRM/Automations/ContactAddedTaskTrigger.php:28
+msgid "This will run when a contact will be added to a task"
+msgstr "Isso será executado quando um contato for adicionado a uma tarefa"
+
+#: app/Services/TransStrings.php:515
+msgid "Time"
+msgstr "Tempo"
+
+#: app/Services/TransStrings.php:344
+msgid "Time Tracking"
+msgstr "Rastreamento de tempo"
+
+#: app/Models/Task.php:592 app/Models/Task.php:605
+#: app/Services/TransStrings.php:345
+msgid "Title"
+msgstr "Título"
+
+#: app/Services/TransStrings.php:346
+msgid "Title is required"
+msgstr "Título é obrigatório"
+
+#: app/Models/Task.php:608
+msgid "Title of the task."
+msgstr "Título da tarefa."
+
+#: app/Services/TransStrings.php:397
+msgid "to"
+msgstr "para"
+
+#: app/Services/TransStrings.php:347
+msgid "Tomorrow"
+msgstr "Amanhã"
+
+#: app/Services/TransStrings.php:464
+msgid "Total Ideas"
+msgstr "Ideias totais"
+
+#: app/Services/TransStrings.php:460
+msgid "Total Tasks"
+msgstr "Total de tarefas"
+
+#: app/Services/TransStrings.php:348
+msgid ""
+"Track Time on each task and get detailed reports by boards, members, time "
+"range etc"
+msgstr ""
+"Acompanhe o tempo de cada tarefa e obtenha relatórios detalhados por boards, "
+"membros, intervalo de tempo, etc."
+
+#: app/Services/TransStrings.php:349
+msgid "Type anything to search"
+msgstr "Digite qualquer coisa para pesquisar"
+
+#: app/Services/TransStrings.php:350
+msgid "Type board title"
+msgstr "Título do tipo do board"
+
+#: app/Services/TransStrings.php:351
+msgid "Type name or email"
+msgstr "Digite o nome ou e-mail"
+
+#: app/Services/TransStrings.php:82
+msgid "Type Roadmap"
+msgstr "Tipo Roadmap"
+
+#: app/Http/Controllers/CommentController.php:166
+#: app/Http/Controllers/CommentController.php:210
+msgid "Unauthorized Action"
+msgstr "Ação não autorizada"
+
+#: app/Services/TransStrings.php:352
+msgid "Undo remove stage"
+msgstr "Desfazer remover etapa"
+
+#: app/Services/TransStrings.php:353
+msgid "Unread"
+msgstr "Não lido"
+
+#: app/Services/TransStrings.php:354
+msgid "Upcoming"
+msgstr "Pendentes"
+
+#: app/Services/TransStrings.php:355
+msgid "Update Estimation"
+msgstr "Atualizar estimativa"
+
+#: app/Services/TransStrings.php:415
+msgid "updated a task description"
+msgstr "atualizou uma descrição de tarefa"
+
+#: app/Services/TransStrings.php:414
+msgid "updated a task title"
+msgstr "atualizou o título de uma tarefa"
+
+#: app/Services/TransStrings.php:489
+msgid "Updated description"
+msgstr "Descrição atualizada"
+
+#: app/Services/TransStrings.php:408
+msgid "updated due date"
+msgstr "data de vencimento atualizada"
+
+#: app/Services/TransStrings.php:409
+msgid "updated start date"
+msgstr "data de início atualizada"
+
+#: app/Services/TransStrings.php:416
+msgid "updated task assignee"
+msgstr "atribuidor de tarefa atualizado"
+
+#: app/Services/TransStrings.php:356
+msgid "Upgrade to Pro"
+msgstr "Atualizar para Pro"
+
+#: app/Services/TransStrings.php:357
+msgid "Upload"
+msgstr "Carregar"
+
+#: app/Services/TransStrings.php:538
+msgid "Upload Error"
+msgstr "Erro de upload"
+
+#: app/Http/Controllers/BoardController.php:561
+msgid "User already a member"
+msgstr "Usuário já é membro"
+
+#: app/Http/Controllers/OptionsController.php:218
+msgid "User has been removed as super admin successfully!"
+msgstr "O usuário foi removido como superadministrador com sucesso!"
+
+#: app/Services/TransStrings.php:482
+msgid "User need to be logged in to add a comment"
+msgstr "O usuário precisa estar logado para adicionar um comentário"
+
+#: app/Services/TransStrings.php:480
+msgid "User need to be logged in to submit a new idea"
+msgstr "O usuário precisa estar logado para enviar uma nova ideia"
+
+#: app/Services/TransStrings.php:484
+msgid "User need to be logged in to vote for an idea"
+msgstr "O usuário precisa estar logado para votar em uma ideia"
+
+#: app/Http/Controllers/OptionsController.php:258
+msgid "User removed as super admin"
+msgstr "Usuário removido como superadministrador"
+
+#: app/Http/Controllers/OptionsController.php:278
+msgid "User Removed from Board successfully!"
+msgstr "Usuário removido do fórum com sucesso!"
+
+#: app/Services/TransStrings.php:358
+msgid "User Role:"
+msgstr "Cargo do Usuário:"
+
+#: app/Services/TransStrings.php:359
+msgid "Verify License"
+msgstr "Verificar licença"
+
+#: app/Services/TransStrings.php:445
+msgid "View FluentCRM Profile"
+msgstr "Ver perfil do FluentCRM"
+
+#: app/Services/TransStrings.php:360
+msgid "View Profile"
+msgstr "Ver perfil"
+
+#: app/Services/TransStrings.php:361
+msgid "View task activities"
+msgstr "Exibir atividades de tarefas"
+
+#: app/Services/TransStrings.php:362
+msgid "View task comments"
+msgstr "Ver comentários da tarefa"
+
+#: app/Services/TransStrings.php:447
+msgid "View WordPress Profile"
+msgstr "Ver perfil do WordPress"
+
+#: app/Services/TransStrings.php:363
+msgid "Votes Statistics"
+msgstr "Estatísticas de votos"
+
+#: app/Services/TransStrings.php:398
+msgid "voting and commenting"
+msgstr "votando e comentando"
+
+#: app/Services/TransStrings.php:364
+msgid "Watch"
+msgstr "Acompanhar"
+
+#: app/Services/TransStrings.php:448
+msgid "Watch created tasks"
+msgstr "Acompanhar tarefas criadas"
+
+#: app/Services/TransStrings.php:452
+msgid "Watch on assigning"
+msgstr "Acompanhar ao atribuir"
+
+#: app/Services/TransStrings.php:450
+msgid "Watch on commenting"
+msgstr "Acompanhar comentário"
+
+#: app/Services/TransStrings.php:365
+msgid "Watching"
+msgstr "Acompanhando"
+
+#: app/Views/notification.php:177
+msgid "We are here for you"
+msgstr "Estamos aqui para você"
+
+#: app/Services/TransStrings.php:435
+msgid ""
+"Webhooks are a way for one application to send data to another application "
+"in real-time. You can use this feature to send data to your own application "
+"or to third-party services."
+msgstr ""
+"Webhooks são uma maneira de um aplicativo enviar dados para outro aplicativo "
+"em tempo real. Você pode usar esse recurso para enviar dados para seu "
+"próprio aplicativo ou para serviços de terceiros."
+
+#: app/Services/TransStrings.php:518
+msgid "week(s) on"
+msgstr "semana(s) em"
+
+#: app/Services/TransStrings.php:512
+msgid "Weekly"
+msgstr "Semanalmente"
+
+#: app/Services/TransStrings.php:366
+msgid "Welcome"
+msgstr "Bem-vindo"
+
+#: app/Services/TransStrings.php:442
+msgid "WordPress Administrator"
+msgstr "Administrador do WordPress"
+
+#: app/Http/Controllers/OptionsController.php:606
+msgid ""
+"WordPress Helpdesk and Customer Support Ticket Plugin. Provide awesome "
+"support and manage customer queries right from your WordPress dashboard."
+msgstr ""
+"WordPress Helpdesk e Plugin de Ticket de Suporte ao Cliente. Forneça suporte "
+"incrível e gerencie consultas de clientes diretamente do seu painel do "
+"WordPress."
+
+#: app/Services/TransStrings.php:446
+msgid "WordPress Profile"
+msgstr "Perfil WordPress"
+
+#: app/Services/TransStrings.php:534
+msgid "Work Description"
+msgstr "Descrição do trabalho"
+
+#. Author of the plugin
+msgid "WPManageNinja"
+msgstr "WPManageNinja"
+
+#: app/Services/TransStrings.php:495
+msgid "Write a comment"
+msgstr "Escreva um comentário"
+
+#: app/Services/TransStrings.php:367
+msgid "Year to Date"
+msgstr "No acumulado do ano"
+
+#: app/Services/TransStrings.php:514
+msgid "Yearly"
+msgstr "Anual"
+
+#: app/Services/TransStrings.php:368
+msgid "Yes"
+msgstr "Sim"
+
+#: app/Services/TransStrings.php:369
+msgid "You are about to delete the label"
+msgstr "Você está prestes a excluir o rótulo"
+
+#: app/Services/TransStrings.php:374
+msgid "You are assigned to a new task."
+msgstr "Você foi designado para uma nova tarefa."
+
+#: app/Services/TransStrings.php:271
+msgid "You are removed from a task."
+msgstr "Você foi removido de uma tarefa."
+
+#: app/Services/TransStrings.php:539
+msgid "You can only upload a maximum of 10 images for a comment."
+msgstr "Você só pode enviar no máximo 10 imagens para um comentário."
+
+#: app/Http/Controllers/LabelController.php:126
+msgid "You can't delete. This label used in task."
+msgstr "Você não pode excluir. Este rótulo é usado na tarefa."
+
+#: app/Http/Controllers/OptionsController.php:371
+msgid "You do not have permission to access this route"
+msgstr "Você não tem permissão para acessar esta rota"
+
+#: app/Http/Controllers/BoardController.php:848
+msgid "You do not have permission to duplicate board"
+msgstr "Você não tem permissão para duplicar o board"
+
+#: app/Services/TransStrings.php:502
+msgid "Your board description goes here"
+msgstr "Descriçao do board"
+
+#: app/Services/TransStrings.php:370
+msgid "Your browser does not support the audio element."
+msgstr "Seu navegador não suporta o elemento de áudio."
+
+#: app/Services/TransStrings.php:371
+msgid "Your browser does not support the video tag."
+msgstr "Seu navegador não suporta a tag de vídeo."
+
+#: app/Services/TransStrings.php:497
+msgid "Your Task Title"
+msgstr "Título da Tarefa"

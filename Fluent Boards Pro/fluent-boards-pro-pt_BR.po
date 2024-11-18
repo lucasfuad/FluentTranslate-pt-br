@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fluent Boards Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-23 07:09+0000\n"
+"PO-Revision-Date: 2024-11-18 01:36+0000\n"
+"Last-Translator: Lucas Fuad\n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.13; wp-6.7\n"
+"X-Domain: fluent-boards-pro"
+
+#. This placeholder is for the type of board (e.g., "project" or "task").
+#: app/Http/Controllers/ProBoardController.php:50
+#, php-format
+msgid "%s board has been created"
+msgstr "O board %s foi criado"
+
+#: app/Hooks/Handlers/InstallationHandler.php:24
+msgid "Activate Fluent Roadmap"
+msgstr "Ativar Fluent Roadmap"
+
+#: app/Http/Controllers/ProBoardController.php:83
+msgid "Already a wordpress member"
+msgstr "Já é membro do WordPress"
+
+#: app/Http/Controllers/AttachmentController.php:86
+msgid "Attachment has been added to task"
+msgstr "Anexo foi adicionado à tarefa"
+
+#: app/Services/PluginManager/LicenseManager.php:44
+msgid "Check Update"
+msgstr "Verificar atualização"
+
+#: app/Services/PluginManager/LicenseManager.php:339
+msgid "Click Here to purchase another license"
+msgstr "Clique aqui para comprar outra licença"
+
+#: app/Services/PluginManager/LicenseManager.php:356
+msgid "Click Here to Renew Your License"
+msgstr "Clique aqui para renovar sua licença"
+
+#: app/Http/Controllers/CustomFieldController.php:67
+msgid "Custom field has been deleted successfully"
+msgstr "O campo personalizado foi excluído com sucesso"
+
+#: app/Http/Controllers/CustomFieldController.php:41
+msgid "Custom field has been successfully created"
+msgstr "O campo personalizado foi criado com sucesso"
+
+#: app/Http/Controllers/CustomFieldController.php:57
+msgid "Custom field has been updated successfully"
+msgstr "O campo personalizado foi atualizado com sucesso"
+
+#: app/Http/Controllers/CustomFieldController.php:35
+msgid "Custom Field with that title and type already exists"
+msgstr "Campo personalizado com esse título e tipo já existe"
+
+#: app/Services/PluginManager/LicenseManager.php:42
+msgid "Docs"
+msgstr "Documentação"
+
+#: app/Modules/TimeTracking/Controllers/TimeTrackController.php:30
+msgid "Estimated time has been updated"
+msgstr "O tempo estimado foi atualizado"
+
+#: app/Services/HelperInstaller.php:81 app/Services/HelperInstaller.php:82
+msgid "Fluent Boards"
+msgstr "Fluent Boards"
+
+#. Name of the plugin
+msgid "Fluent Boards Pro"
+msgstr "Fluent Boards Pro"
+
+#: app/Hooks/Handlers/InstallationHandler.php:19
+#: app/Hooks/Handlers/InstallationHandler.php:38
+msgid "Fluent Roadmap"
+msgstr "Fluent Roadmap"
+
+#: app/Services/PluginManager/LicenseManager.php:43
+msgid "Help & Support"
+msgstr "Ajuda e Suporte"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://fluentboards.com"
+msgstr "https://fluentboards.com"
+
+#: app/Hooks/Handlers/InstallationHandler.php:24
+msgid "Install Fluent Roadmap"
+msgstr "Instalar Fluent Roadmap"
+
+#: app/Services/HelperInstaller.php:93
+msgid "Install FluentBoards Core Plugin"
+msgstr "Instalar o plugin FluentBoards Core"
+
+#: app/Services/HelperInstaller.php:95
+msgid "Install FluentCRM & Core Plugin"
+msgstr "Instalar FluentCRM e plugin principal"
+
+#: app/Http/Controllers/ImportController.php:66
+msgid "Invalid JSON."
+msgstr "JSON inválido."
+
+#: app/Http/Controllers/ProBoardController.php:118
+msgid "Invitation deleted successfully!"
+msgstr "Convite excluído com sucesso!"
+
+#: app/Http/Controllers/ProBoardController.php:88
+msgid "Invitation sent successfully!"
+msgstr "Convite enviado com sucesso!"
+
+#: app/Hooks/Handlers/FrontendRenderer.php:178
+msgid "Please login to view the project"
+msgstr "Por favor, faça login para visualizar o projeto"
+
+#: app/Modules/TimeTracking/Controllers/TimeTrackController.php:72
+msgid "Please provide valid hours and minutes"
+msgstr "Por favor, forneça horas e minutos válidos"
+
+#. Description of the plugin
+msgid "Pro addon for FluentBoards Plugin"
+msgstr "Complemento Pro para o plugin FluentBoards"
+
+#: app/Http/Controllers/ImportController.php:75
+msgid "Processed and Imported successfully"
+msgstr "Processado e importado com sucesso"
+
+#: app/Http/Controllers/ProTaskController.php:61
+msgid "Repeat task created successfully"
+msgstr "Tarefa repetida criada com sucesso"
+
+#: app/Http/Controllers/ProTaskController.php:69
+msgid "Repeat task update successfully"
+msgstr "Repetir atualização da tarefa com sucesso"
+
+#: app/Http/Controllers/BoardUserController.php:223
+#: app/Http/Controllers/BoardUserController.php:236
+msgid "Role updated successfully"
+msgstr "Função atualizada com sucesso"
+
+#: app/Modules/TimeTracking/Controllers/TimeTrackController.php:51
+msgid "Selected time track has been deleted"
+msgstr "A trilha de tempo selecionada foi excluída"
+
+#: app/Modules/TimeTracking/Controllers/TimeTrackController.php:119
+msgid "Selected Time-track has been updated"
+msgstr "O cronograma selecionado foi atualizado"
+
+#: app/Http/Controllers/BoardUserController.php:58
+msgid "Selected users has been added as admin"
+msgstr "Usuários selecionados foram adicionados como administradores"
+
+#: app/Http/Controllers/BoardUserController.php:142
+msgid "Selected users has been added to selected boards"
+msgstr "Usuários selecionados foram adicionados aos boards selecionados"
+
+#: app/Http/Controllers/ProBoardController.php:134
+msgid "Stage updated successfully"
+msgstr "Estágio atualizado com sucesso"
+
+#: app/Http/Controllers/SubtaskController.php:48
+msgid "Subtask has been added"
+msgstr "Subtarefa foi adicionada"
+
+#: app/Http/Controllers/AttachmentController.php:107
+msgid "Task attachment has been added"
+msgstr "Anexo de tarefa foi adicionado"
+
+#: app/Http/Controllers/AttachmentController.php:42
+msgid "Task attachment has been deleted"
+msgstr "O anexo da tarefa foi excluído"
+
+#: app/Http/Controllers/AttachmentController.php:57
+msgid "Task attachment has been updated"
+msgstr "O anexo da tarefa foi atualizado"
+
+#: app/Services/AttachmentService.php:18
+msgid "Task doesn't exist"
+msgstr "A tarefa não existe"
+
+#: app/Http/Controllers/SubtaskController.php:148
+msgid "Task has been converted to subtask"
+msgstr "A tarefa foi convertida em subtarefa"
+
+#: app/Http/Controllers/SubtaskController.php:73
+msgid "Task has been deleted"
+msgstr "A tarefa foi excluída"
+
+#: app/Http/Controllers/ProBoardController.php:224
+msgid "Task has been successfully created"
+msgstr "A tarefa foi criada com sucesso"
+
+#: app/Http/Controllers/ProTaskController.php:103
+msgid "Task repeat stopped successfully"
+msgstr "Repetição de tarefa interrompida com sucesso"
+
+#: app/Services/HelperInstaller.php:112
+msgid ""
+"Thank you for installing Fluent Boards Pro Plugin. Fluent Boards require "
+"base plugin & FluentCRM to get you started."
+msgstr ""
+"Obrigado por instalar o Fluent Boards Pro Plugin. O Fluent Boards requer o "
+"plugin base e o FluentCRM para você começar."
+
+#: app/Services/PluginManager/LicenseManager.php:100
+#, php-format
+msgid "The %s license needs to be activated. %sActivate Now%s"
+msgstr "A licença %s precisa ser ativada. %sAtivar agora%s"
+
+#: app/Modules/TimeTracking/Controllers/TimeTrackController.php:43
+msgid "Time track not found"
+msgstr "Trilha do tempo não encontrada"
+
+#: app/Http/Controllers/BoardUserController.php:214
+msgid "User has been removed from all boards."
+msgstr "O usuário foi removido de todos os fóruns."
+
+#: app/Http/Controllers/BoardUserController.php:189
+msgid "User roles has been synced successfully."
+msgstr "As funções do usuário foram sincronizadas com sucesso."
+
+#: app/Services/PluginManager/LicenseManager.php:42
+msgid "View FluentCRM documentation"
+msgstr "Ver documentação do FluentCRM"
+
+#: app/Services/HelperInstaller.php:111
+msgid "Welcome to FluentBoards"
+msgstr "Bem-vindo ao FluentBoards"
+
+#. Author of the plugin
+msgid "WPManageNinja"
+msgstr "WPManageNinja"
+
+#: app/Hooks/Handlers/FrontendRenderer.php:125
+msgid "You do not have permission to view the projects"
+msgstr "Você não tem permissão para visualizar os projetos"
+
+#: app/Modules/TimeTracking/Controllers/TimeTrackController.php:94
+msgid "You have successfully submitted your working time"
+msgstr "Você enviou com sucesso seu tempo de trabalho"
+
+#: app/Http/Controllers/LicenseController.php:57
+msgid "Your license key has been successfully deactivated"
+msgstr "Sua chave de licença foi desativada com sucesso"
+
+#: app/Http/Controllers/LicenseController.php:39
+msgid "Your license key has been successfully updated"
+msgstr "Sua chave de licença foi atualizada com sucesso"
