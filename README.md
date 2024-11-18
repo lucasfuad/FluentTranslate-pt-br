@@ -1,6 +1,4 @@
-# Tradução para Português do Brasil do Fluent Community e Fluent Community Pro 🇧🇷
-
-Este repositório disponibiliza os arquivos de tradução para **Português do Brasil (pt-BR)** dos plugins **Fluent Community** e **Fluent Community Pro**. Essa é uma contribuição da comunidade para tornar esses plugins mais acessíveis aos usuários brasileiros.
+# Tradução para Português do Brasil de alguns plugins da WPmanageNinjaFluent
 
 ## 📋 Visão Geral
 
@@ -19,7 +17,7 @@ Para que as traduções sejam preservadas mesmo após atualizações dos plugins
 1. **Baixe os arquivos de tradução**
    - Clique em **Code > Download ZIP** ou clone o repositório:
      ```bash
-     git clone https://github.com/lucasfuad/FluentCommunity-pt-br.git
+     git clone https://github.com/lucasfuad/FluentTranslate-pt-br.git
      ```
 
 2. **Localize o diretório de traduções do WordPress**
