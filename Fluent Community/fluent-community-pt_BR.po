@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FluentCommunity - Community & LMS Plugin\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-08 17:57+0000\n"
-"PO-Revision-Date: 2024-11-15 16:13+0000\n"
+"PO-Revision-Date: 2024-11-18 13:13+0000\n"
 "Last-Translator: Lucas Fuad\n"
 "Language-Team: Português do Brasil\n"
 "Language: pt_BR\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Loco https://localise.biz/\n"
-"X-Loco-Version: 2.6.11; wp-6.7\n"
+"X-Loco-Version: 2.6.13; wp-6.7\n"
 "X-Domain: fluent-community"
 
 #: app/Services/TransStrings.php:12
@@ -81,7 +81,7 @@ msgstr "%1$s comentou em sua postagem: %2$s em %3$s"
 #: app/Hooks/Handlers/NotificationEventHandler.php:131
 #, php-format
 msgid "%1$s loved %2$s"
-msgstr "%1$s amou %2$s"
+msgstr "%1$s curtiu %2$s"
 
 #. %1$s is the user name, %2$s is the space title and %3$3s is the time
 #: app/Hooks/Handlers/EmailNotificationHandler.php:368
@@ -854,8 +854,7 @@ msgstr ""
 
 #: app/Services/TransStrings.php:924
 msgid "Any site member can see who's in the Space and what they post."
-msgstr ""
-"Qualquer membro do site pode ver quem está no Grupo e o que eles postam."
+msgstr "Todos podem ver o conteúdo do grupo."
 
 #: app/Services/TransStrings.php:108
 msgid "Anyone"
@@ -1163,7 +1162,7 @@ msgstr "Alterar Cargo"
 
 #: app/Services/TransStrings.php:165
 msgid "Chat"
-msgstr "Bater papo"
+msgstr "Chat"
 
 #: app/Services/TransStrings.php:166
 msgid "Choose a Space Type"
@@ -1470,7 +1469,7 @@ msgstr "O curso não está em estado publicado."
 
 #: app/Services/TransStrings.php:215
 msgid "Course Links"
-msgstr "Links do curso"
+msgstr "Botões da Barra Superior"
 
 #: app/Services/TransStrings.php:216
 msgid "Course Management"
@@ -1510,7 +1509,7 @@ msgstr "Configurações do módulo do cursos"
 #: Modules/Course/Http/Controllers/CourseAdminController.php:834
 #: Modules/Course/Http/Controllers/CourseAdminController.php:882
 msgid "Course not found or you do not have access to this course."
-msgstr "Curso não encontrado ou você não tem acesso a este curso."
+msgstr "Conteúdo não encontrado ou você não tem acesso a este curso."
 
 #: Modules/Course/Http/Controllers/CourseAdminController.php:249
 msgid "Course not found or you do not have permission to delete this course."
@@ -2138,7 +2137,7 @@ msgstr "Mídia em destaque"
 
 #: app/Services/TransStrings.php:351
 msgid "Featured Posts"
-msgstr "Postagens em destaque"
+msgstr "Destaque"
 
 #: app/Services/TransStrings.php:353
 msgid "Features & Addons"
@@ -2703,7 +2702,7 @@ msgstr "Sobrenome"
 #: app/Services/TransStrings.php:426
 #, php-format
 msgid "Last seen %s"
-msgstr "Último visto %s"
+msgstr "Visto online %s"
 
 #: app/Services/TransStrings.php:427
 #, php-format
@@ -2779,7 +2778,7 @@ msgstr "Não foi possível encontrar a aula."
 
 #: app/Services/TransStrings.php:443
 msgid "Lesson discussions"
-msgstr "Discussões de aulas"
+msgstr "Comentários"
 
 #: Modules/Course/Http/Controllers/CourseAdminController.php:765
 msgid "Lesson has been created successfully."
@@ -2906,7 +2905,7 @@ msgstr "Desconectado"
 #: app/Hooks/Handlers/PortalHandler.php:290 app/Views/auth/login_form.php:42
 #: app/Views/auth/user_invitation.php:36
 msgid "Login"
-msgstr "Conecte-se"
+msgstr "Entrar"
 
 #: app/Services/TransStrings.php:463
 msgid "Login / Signup"
@@ -2914,7 +2913,7 @@ msgstr "Entrar / Cadastro"
 
 #: app/Services/TransStrings.php:466
 msgid "Login or Signup"
-msgstr "Entrar ou Cadastrar-se"
+msgstr "Entre ou Cadastre-se"
 
 #: Modules/Auth/AuthModdule.php:98
 msgid "Login or Signup to join the community"
@@ -3044,11 +3043,11 @@ msgstr "Os membros podem habilitar/desabilitar seu próprio status de resumo"
 
 #: app/Services/TransStrings.php:491
 msgid "Members have to be invited to this course."
-msgstr "Os membros devem ser convidados para este curso."
+msgstr "Você não tem acesso a este curso."
 
 #: app/Services/TransStrings.php:492
 msgid "Members have to be invited to this space."
-msgstr "Somente os integrantes desse grupo podem ver seu conteúdo."
+msgstr "Você não tem acesso ao conteúdo do grupo."
 
 #: app/Services/TransStrings.php:489
 msgid "Members Only"
@@ -3116,7 +3115,7 @@ msgstr "Mês"
 
 #: app/Services/TransStrings.php:506
 msgid "Most Replied"
-msgstr "Mais respondido"
+msgstr "Mais respostas"
 
 #: app/Services/TransStrings.php:507
 msgid "Move Space"
@@ -3411,7 +3410,7 @@ msgstr "Somente membros logados"
 
 #: app/Services/TransStrings.php:927
 msgid "Only members can see who's in the space and what they post."
-msgstr "Somente os membros podem ver quem está no Grupo e o que eles publicam."
+msgstr "Somente os membros podem ver o conteúdo do grupo."
 
 #: app/Services/TransStrings.php:925
 msgid ""
@@ -3783,11 +3782,11 @@ msgstr "Usuários reagiram"
 
 #: app/Services/TransStrings.php:626
 msgid "Recent Activities"
-msgstr "Atividades recentes"
+msgstr "Atividades Recentes"
 
 #: app/Services/TransStrings.php:627
 msgid "Recent Space Activities"
-msgstr "Atividades espaciais recentes"
+msgstr "Atividades Recentes do Grupo"
 
 #: app/Services/TransStrings.php:630
 msgid "Recommended dimensions: 480 x 120, 4:1 aspect ratio."
@@ -4674,11 +4673,11 @@ msgstr ""
 
 #: app/Services/TransStrings.php:778
 msgid "This is a private course"
-msgstr "Este é um curso privado"
+msgstr "Conteúdo Restrito"
 
 #: app/Services/TransStrings.php:779
 msgid "This is a private space"
-msgstr "Este é um grupo privado"
+msgstr "Grupo Privado"
 
 #: app/Services/TransStrings.php:780
 msgid ""
@@ -4702,7 +4701,7 @@ msgstr "Esta aula estará disponível para você em %s"
 #: app/Services/TransStrings.php:783
 #, php-format
 msgid "This lesson will be unlocked on %s"
-msgstr "Esta aula será desbloqueada em %s"
+msgstr "Esta aula será liberada em %s"
 
 #: app/Services/TransStrings.php:923
 msgid ""
@@ -4851,7 +4850,7 @@ msgstr "Tópicos Configurações"
 
 #: app/Services/TransStrings.php:809 app/Services/Libs/DailyDigest.php:227
 msgid "Trending Posts"
-msgstr "Postagens em alta"
+msgstr "Em Alta"
 
 #: app/Services/TransStrings.php:810
 msgid "Try searching for keywords in posts"
@@ -5246,10 +5245,11 @@ msgid "Welcome banner settings has been updated successfully"
 msgstr ""
 "As configurações do banner de boas-vindas foram atualizadas com sucesso"
 
+# qqu
 #: app/Services/TransStrings.php:872
 #, php-format
 msgid "What's happening, %s"
-msgstr "Criar uma publicação"
+msgstr "O que temos pra hoje, %s?"
 
 #: app/Services/TransStrings.php:873
 msgid "When creating a new post, check if the post title is required or not"
@@ -5306,7 +5306,7 @@ msgstr ""
 #: app/Services/TransStrings.php:952
 #, php-format
 msgid "will unlock at %s"
-msgstr "será desbloqueado em %s"
+msgstr "será liberado em %s"
 
 #: app/Http/Controllers/SettingController.php:207
 msgid ""
@@ -5418,8 +5418,8 @@ msgid ""
 "You can not delete a group with spaces. Please move the spaces to a "
 "different group first."
 msgstr ""
-"Por favor, para excluir essa Categoria, exclua os Grupos ou mova para uma "
-"Categoria diferente."
+"Para excluir essa Categoria, exclua os Grupos ou mova-os para uma Categoria "
+"diferente."
 
 #: Modules/Auth/Classes/InvitationController.php:119
 msgid "You can not resend this invitation"
