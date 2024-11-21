@@ -1,0 +1,345 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fluent Roadmap\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-21 17:21+0000\n"
+"PO-Revision-Date: 2024-11-21 17:25+0000\n"
+"Last-Translator: Lucas Fuad\n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.14; wp-6.7.1\n"
+"X-Domain: fluent-roadmap"
+
+#: app/Services/TransStrings.php:60
+msgid "Add Idea"
+msgstr "Adicionar Ideia"
+
+#: app/Services/TransStrings.php:53
+msgid "Are you sure you want to delete?"
+msgstr "Tem certeza que deseja excluir?"
+
+#: app/Services/TransStrings.php:16
+msgid "Back to Ideas"
+msgstr "Voltar para Ideias"
+
+#: app/Services/TransStrings.php:18
+msgid ""
+"Before you submit a feature request, please make sure that you have checked "
+"the following:"
+msgstr ""
+"Antes de enviar uma solicitação de recurso, certifique-se de ter verificado "
+"o seguinte:"
+
+#: app/Services/TransStrings.php:30
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: app/Services/TransStrings.php:32
+msgid "cancel"
+msgstr "cancelar"
+
+#: fluent-roadmap.php:93
+msgid "Check Update"
+msgstr "Verificar Atualização"
+
+#: app/Services/TransStrings.php:47
+msgid "Comment"
+msgstr "Comentário"
+
+#: app/Http/Controllers/RoadmapController.php:276
+msgid "Comment has been created"
+msgstr "Comentário foi criado"
+
+#: app/Http/Controllers/RoadmapController.php:429
+msgid "Comment has been deleted"
+msgstr "O comentário foi excluído"
+
+#: app/Http/Controllers/RoadmapController.php:231
+msgid "Comment has been deleted successfully"
+msgstr "O comentário foi excluído com sucesso"
+
+#: app/Http/Controllers/RoadmapController.php:335
+msgid "Comment has been updated"
+msgstr "O comentário foi atualizado"
+
+#: app/Services/TransStrings.php:48
+msgid "Comments"
+msgstr "Comentários"
+
+#: app/Services/TransStrings.php:31
+msgid "Confirm"
+msgstr "Confirmar"
+
+#: app/Services/TransStrings.php:33
+msgid "confirm"
+msgstr "confirmar"
+
+#: app/Services/TransStrings.php:41
+msgid "Delete"
+msgstr "Excluir"
+
+#: app/Services/TransStrings.php:24
+msgid "Details of this feature *"
+msgstr "Detalhes deste recurso *"
+
+#: app/Services/TransStrings.php:72
+msgid "Email"
+msgstr "E-mail"
+
+#: app/Services/TransStrings.php:28
+msgid "Enter your email"
+msgstr "Insira seu e-mail"
+
+#: app/Services/TransStrings.php:23
+msgid "Enter your idea title"
+msgstr "Insira o título da sua ideia"
+
+#: app/Services/TransStrings.php:26
+msgid "Enter your name"
+msgstr "Digite seu nome"
+
+#. Author of the plugin
+msgid "Fluent Boards"
+msgstr "Fluent Boards"
+
+#. Name of the plugin
+msgid "Fluent Roadmap"
+msgstr "Fluent Roadmap"
+
+#. Description of the plugin
+msgid ""
+"FluentRoadmap is an add-on for FluentBoards that provides a clear view of "
+"user requests, project progress, and priorities."
+msgstr ""
+"O FluentRoadmap é um complemento para o FluentBoards que fornece uma visão "
+"clara das solicitações do usuário, do progresso do projeto e das prioridades."
+
+#: app/Services/TransStrings.php:40
+msgid "guest"
+msgstr "convidado"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://fluenboards.com"
+msgstr "https://fluenboards.com"
+
+#: app/Http/Controllers/RoadmapController.php:117
+msgid "Idea has been created"
+msgstr "A ideia foi criada"
+
+#: app/Services/TransStrings.php:51
+msgid "Last Updated"
+msgstr "Última atualização"
+
+#: app/Services/TransStrings.php:68
+msgid "Let us know what ideas you'd like to see on the Fluent Roadmap!"
+msgstr "Conte-nos quais ideias você gostaria de ver no Roteiro Fluente!"
+
+#: app/Services/TransStrings.php:70
+msgid "Let your words weave the magic..."
+msgstr "Deixe suas palavras tecerem a magia..."
+
+#: app/Services/TransStrings.php:66
+msgid "Loading"
+msgstr "Carregando"
+
+#: app/Services/TransStrings.php:64
+msgid "Login"
+msgstr "Conecte-se"
+
+#: app/Services/TransStrings.php:14
+msgid "Login / Signup"
+msgstr "Entrar / Cadastro"
+
+#: app/Services/TransStrings.php:20
+msgid "Make sure it's relevant"
+msgstr "Certifique-se de que é relevante"
+
+#: app/Services/TransStrings.php:19
+msgid ""
+"Make sure that the feature you are requesting is not already in the roadmap."
+msgstr ""
+"Certifique-se de que o recurso que você está solicitando ainda não esteja no "
+"roteiro."
+
+#: app/Services/TransStrings.php:71
+msgid "Name"
+msgstr "Nome"
+
+#: app/Services/TransStrings.php:42
+msgid "No Comments Found!"
+msgstr "Nenhum comentário encontrado!"
+
+#: app/Services/TransStrings.php:61
+msgid "No feedback Yet"
+msgstr "Nenhum feedback ainda"
+
+#: app/Services/TransStrings.php:38
+msgid "No stage found for this board"
+msgstr "Nenhum estágio encontrado para este board"
+
+#: app/Services/TransStrings.php:21
+msgid "Please do not spam"
+msgstr "Por favor, não envie spam"
+
+#: app/Services/TransStrings.php:12
+msgid "Please enter a keyword"
+msgstr "Por favor, insira uma palavra-chave"
+
+#: app/Services/TransStrings.php:43
+msgid "Please login/signup to add your comment to this idea"
+msgstr ""
+"Por favor, faça login/cadastre-se para adicionar seu comentário a esta ideia"
+
+#: app/Services/TransStrings.php:15
+msgid "Please login/signup to add your feature request"
+msgstr ""
+"Por favor, faça login/cadastre-se para adicionar sua solicitação de recurso"
+
+#: app/Services/TransStrings.php:17
+msgid "Please read before submit a feature request"
+msgstr "Leia antes de enviar uma solicitação de recurso"
+
+#: app/Services/TransStrings.php:52
+msgid "Posted by"
+msgstr "Postado por"
+
+#: app/Services/TransStrings.php:50
+msgid "Posted on"
+msgstr "Postado em"
+
+#: app/Http/Controllers/RoadmapController.php:415
+msgid "Reaction count"
+msgstr "Contagem de reações"
+
+#: app/Http/Controllers/RoadmapController.php:394
+msgid "Reaction has been added"
+msgstr "A reação foi adicionada"
+
+#: app/Services/TransStrings.php:34
+msgid "Registration Form"
+msgstr "Formulário de inscrição"
+
+#: app/Services/TransStrings.php:56 app/Services/TransStrings.php:57
+#: app/Services/TransStrings.php:58 app/Services/TransStrings.php:62
+msgid "Reply"
+msgstr "Responder"
+
+#: app/Http/Controllers/RoadmapController.php:372
+msgid "Reply has been added"
+msgstr "A resposta foi adicionada"
+
+#: app/Services/TransStrings.php:67
+msgid "Request Feature"
+msgstr "Solicitar recurso"
+
+#: app/Http/Controllers/RoadmapAdminController.php:69
+msgid "Roadmap Board & Page Mapping Updated Successfully"
+msgstr "Quadro de roteiro e mapeamento de página atualizados com sucesso"
+
+#: app/Http/Controllers/RoadmapController.php:258
+msgid "Roadmap has been created"
+msgstr "O roteiro foi criado"
+
+#: app/Services/TransStrings.php:55
+msgid "see less"
+msgstr "ver menos"
+
+#: app/Services/TransStrings.php:54
+msgid "see more"
+msgstr "ver mais"
+
+#: app/Services/TransStrings.php:69
+msgid "Short Title, Big Impact"
+msgstr "Título curto, grande impacto"
+
+#: app/Services/TransStrings.php:65
+msgid "Signup/Login"
+msgstr "Inscreva-se/Login"
+
+#: app/Services/TransStrings.php:39
+msgid "Sorry no feature request items found based on your filter"
+msgstr ""
+"Desculpe, nenhum item de solicitação de recurso foi encontrado com base no "
+"seu filtro"
+
+#: app/Services/TransStrings.php:49
+msgid "Stage"
+msgstr "Estágio"
+
+#: app/Services/TransStrings.php:63
+msgid "Submit a idea"
+msgstr "Envie uma ideia"
+
+#: app/Services/TransStrings.php:29
+msgid "Submit Feature Request"
+msgstr "Enviar solicitação de recurso"
+
+#: app/Services/TransStrings.php:11
+msgid "Submit Idea"
+msgstr "Enviar Ideia"
+
+#: app/Services/TransStrings.php:13
+msgid "Submit Your Feature Idea"
+msgstr "Envie sua ideia de destaque"
+
+#: app/Hooks/Handlers/EmailHandler.php:105
+msgid "Update on Your Comment: Idea Status Changed"
+msgstr "Atualização Sobre seu Comentário: Status da ideia alterado"
+
+#: app/Hooks/Handlers/EmailHandler.php:50
+msgid "Update on Your Idea: Idea Status Changed"
+msgstr "Atualização Sobre sua Ideia: Status da ideia alterado"
+
+#: app/Services/TransStrings.php:36
+msgid "Upvote for this idea"
+msgstr "Vote nesta ideia"
+
+#: app/Services/TransStrings.php:35
+msgid "Upvote Received"
+msgstr "Voto recebido"
+
+#: app/Services/TransStrings.php:44
+msgid "Write your thoughts?"
+msgstr "Escreva seus pensamentos?"
+
+#: app/Http/Controllers/RoadmapController.php:63
+msgid "You can not create idea in this board"
+msgstr "Você não pode criar ideias neste quadro"
+
+#: app/Services/TransStrings.php:37
+msgid "You need to login to vote for this idea."
+msgstr "Você precisa fazer login para votar nesta ideia."
+
+#: app/Services/TransStrings.php:59
+msgid "Your comment can ignite a revolution!"
+msgstr "Seu comentário pode desencadear uma revolução!"
+
+#: app/Http/Controllers/RoadmapController.php:221
+msgid "Your comment has been added"
+msgstr "Seu comentário foi adicionado"
+
+#: app/Services/TransStrings.php:27
+msgid "Your Email *"
+msgstr "Seu E-mail *"
+
+#: app/Services/TransStrings.php:46
+msgid "Your Email Address"
+msgstr "Seu Endereço de E-mail"
+
+#: app/Services/TransStrings.php:22
+msgid "Your Feature Title *"
+msgstr "Título do Artigo *"
+
+#: app/Services/TransStrings.php:45
+msgid "Your Full Name"
+msgstr "Seu Nome Completo"
+
+#: app/Services/TransStrings.php:25
+msgid "Your Name *"
+msgstr "Seu Nome *"

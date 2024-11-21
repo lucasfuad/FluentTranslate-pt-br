@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Fluent Boards Pro\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-23 07:09+0000\n"
-"PO-Revision-Date: 2024-11-18 01:36+0000\n"
+"PO-Revision-Date: 2024-11-18 01:31+0000\n"
 "Last-Translator: Lucas Fuad\n"
 "Language-Team: Português do Brasil\n"
 "Language: pt_BR\n"
@@ -93,7 +93,7 @@ msgstr "https://fluentboards.com"
 
 #: app/Hooks/Handlers/InstallationHandler.php:24
 msgid "Install Fluent Roadmap"
-msgstr "Instalar Fluent Roadmap"
+msgstr "Instalar o Roteiro Fluent"
 
 #: app/Services/HelperInstaller.php:93
 msgid "Install FluentBoards Core Plugin"

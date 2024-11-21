@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Fluent Community Pro\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-07 16:22+0000\n"
-"PO-Revision-Date: 2024-11-15 17:32+0000\n"
+"PO-Revision-Date: 2024-11-18 18:35+0000\n"
 "Last-Translator: Lucas Fuad\n"
 "Language-Team: Português do Brasil\n"
 "Language: pt_BR\n"
@@ -31,6 +31,15 @@ msgstr "[FluentCommunity] Remover de um espaço"
 msgid "[FluentCommunity] Remove from Course"
 msgstr "[FluentCommunity] Remover do curso"
 
+#: app/Services/Integrations/FluentCRM/AddToSpaceAction.php:51
+#: app/Services/Integrations/FluentCRM/AddToCourseAction.php:51
+msgid ""
+"A new WordPress user will be created if the contact does not have a connect "
+"WP User."
+msgstr ""
+"Um novo usuário do WordPress será criado se o contato não tiver um usuário "
+"WP conectado."
+
 #: app/Services/Integrations/FluentCRM/SpaceMembershipStatusChangeAction.php:25
 msgid "Activate or Block a user from a Space"
 msgstr "Ativar ou bloquear um usuário de um espaço"
@@ -47,31 +56,31 @@ msgstr "Adicionar ao Curso selecionado"
 msgid "Add to selected Space"
 msgstr "Adicionar ao Grupo selecionado"
 
-#: app/Services/Integrations/FluentCRM/AddToSpaceAction.php:24
-#: app/Services/Integrations/FluentCRM/AddToSpaceAction.php:39
+#: app/Services/Integrations/FluentCRM/AddToSpaceAction.php:25
+#: app/Services/Integrations/FluentCRM/AddToSpaceAction.php:41
 #: app/Services/Integrations/FluentCRM/SpaceMembershipStatusChangeAction.php:36
 msgid "Add to Space"
 msgstr "Adicionar ao Grupo"
 
-#: app/Services/Integrations/FluentCRM/AddToSpaceAction.php:25
+#: app/Services/Integrations/FluentCRM/AddToSpaceAction.php:26
 msgid "Add user to a space"
 msgstr "Adicionar usuário a um espaço"
 
-#: app/Services/Integrations/FluentCRM/AddToSpaceAction.php:40
-msgid "Add user to the selected community"
-msgstr "Adicionar usuário à comunidade selecionada"
-
-#: app/Services/Integrations/FluentCRM/AddToCourseAction.php:40
+#: app/Services/Integrations/FluentCRM/AddToCourseAction.php:42
 msgid "Add user to the selected Courses"
 msgstr "Adicionar usuário aos cursos selecionados"
 
-#: app/Services/Integrations/FluentCRM/AddToCourseAction.php:25
+#: app/Services/Integrations/FluentCRM/AddToCourseAction.php:26
 msgid "Add user to the selected courses"
 msgstr "Adicionar usuário aos cursos selecionados"
 
 #: app/Services/Integrations/FluentCRM/SpaceMembershipStatusChangeAction.php:37
 msgid "Add user to the selected Space"
 msgstr "Adicionar usuário ao Grupo selecionado"
+
+#: app/Services/Integrations/FluentCRM/AddToSpaceAction.php:42
+msgid "Add user to the selected spaces"
+msgstr "Adicionar usuário aos grupos selecionados"
 
 #: app/Modules/LeaderBoard/Http/Controllers/LeaderBoardController.php:88
 msgid "All time"
@@ -111,18 +120,22 @@ msgstr "Clique aqui para comprar outra licença"
 msgid "Click Here to Renew Your License"
 msgstr "Clique aqui para renovar sua licença"
 
+#: app/Http/Controllers/ProAdminController.php:320
+msgid "Color configuration has been updated successfully"
+msgstr "A configuração de cores foi atualizada com sucesso"
+
 #: app/Modules/LeaderBoard/UserLevelUpgradedTrigger.php:25
-#: app/Services/Integrations/FluentCRM/AddToSpaceAction.php:23
+#: app/Services/Integrations/FluentCRM/AddToSpaceAction.php:24
 #: app/Services/Integrations/FluentCRM/RemoveFromSpaceAction.php:23
 #: app/Services/Integrations/FluentCRM/RemoveFromCourseAction.php:23
 #: app/Services/Integrations/FluentCRM/SpaceMembershipStatusChangeAction.php:23
-#: app/Services/Integrations/FluentCRM/AddToCourseAction.php:23
+#: app/Services/Integrations/FluentCRM/AddToCourseAction.php:24
 msgid "Community"
 msgstr "Comunidade"
 
 #: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:60
 msgid "Course Enrollment"
-msgstr "Matrícula no curso"
+msgstr "Participar do Curso"
 
 #: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:344
 msgid "CRM Profile"
@@ -132,8 +145,8 @@ msgstr "Perfil CRM"
 msgid "Docs"
 msgstr "Documentação"
 
-#: app/Services/Integrations/FluentCRM/AddToCourseAction.php:24
-#: app/Services/Integrations/FluentCRM/AddToCourseAction.php:39
+#: app/Services/Integrations/FluentCRM/AddToCourseAction.php:25
+#: app/Services/Integrations/FluentCRM/AddToCourseAction.php:41
 msgid "Enroll to Courses"
 msgstr "Inscreva-se nos cursos"
 
@@ -153,13 +166,15 @@ msgstr ""
 msgid "expired at"
 msgstr "expirado em"
 
-#. Name of the plugin
-msgid "Fluent Community Pro"
-msgstr "Fluent Community Pro"
-
 #: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:42
 msgid "FluentCommunity"
 msgstr "FluentCommunity"
+
+#. Name of the plugin
+#, fuzzy
+#| msgid "Fluent Community Pro"
+msgid "FluentCommunity Pro"
+msgstr "Fluent Community Pro"
 
 #: app/Services/PluginManager/LicenseManager.php:44
 msgid "Help & Support"
@@ -174,6 +189,16 @@ msgstr "https://fluentcommunity.co"
 msgid "If Contact Already Exist?"
 msgstr "Se o contato já existe?"
 
+#: app/Services/Integrations/FluentCRM/AddToSpaceAction.php:57
+#: app/Services/Integrations/FluentCRM/AddToCourseAction.php:57
+msgid ""
+"If you enable this, . The newly created user will get the welcome email send "
+"by WordPress to with the login info & password reset link"
+msgstr ""
+"Se você habilitar isso, . O usuário recém-criado receberá o e-mail de boas-"
+"vindas enviado pelo WordPress para com as informações de login e o link de "
+"redefinição de senha"
+
 #: app/Modules/LeaderBoard/UserLevelUpgradedTrigger.php:98
 msgid ""
 "If you enable this, it will restart the automation for a contact even if "
@@ -183,6 +208,10 @@ msgstr ""
 "Se você habilitar isso, ele reiniciará a automação para um contato mesmo que "
 "ele já esteja na automação. Caso contrário, ele pulará se o contato já "
 "existir."
+
+#: app/Http/Controllers/ProAdminController.php:290
+msgid "Invalid color schema selected"
+msgstr "O Esquema de cores selecionado é inválido"
 
 #: app/Modules/LeaderBoard/Http/Controllers/LeaderBoardController.php:83
 msgid "Last 30 days"
@@ -298,7 +327,7 @@ msgstr ""
 "habilite isso se quiser reiniciar a automação para o mesmo contato)"
 
 #: app/Services/Integrations/FluentCRM/RemoveFromCourseAction.php:44
-#: app/Services/Integrations/FluentCRM/AddToCourseAction.php:44
+#: app/Services/Integrations/FluentCRM/AddToCourseAction.php:46
 msgid "Select Courses"
 msgstr "Selecione os cursos"
 
@@ -310,9 +339,13 @@ msgstr "Selecione para quais níveis a automação será executada"
 msgid "Select Level"
 msgstr "Selecione o nível"
 
+#: app/Services/Integrations/FluentCRM/AddToSpaceAction.php:46
+msgid "Select Spaces"
+msgstr "Selecionar Grupos"
+
 #: app/Modules/LeaderBoard/UserLevelUpgradedTrigger.php:43
 msgid "Select Status"
-msgstr "Selecione Status"
+msgstr "Selecionar Status"
 
 #: app/Services/Integrations/FluentCRM/ContactAdvancedFilter.php:283
 msgid "Selected registered users has been added to the course successfully"
@@ -331,11 +364,15 @@ msgstr "Usuários registrados selecionados foram removidos do curso com sucesso"
 msgid "Selected users has been removed from the space successfully"
 msgstr "Os usuários selecionados foram removidos do grupo com sucesso"
 
-#: app/Http/Controllers/ProAdminController.php:183
+#: app/Services/Integrations/FluentCRM/AddToSpaceAction.php:56
+#: app/Services/Integrations/FluentCRM/AddToCourseAction.php:56
+msgid "Send WordPress Welcome Email for new WP Users"
+msgstr "Enviar e-mail de boas-vindas do WordPress para novos usuários do WP"
+
+#: app/Http/Controllers/ProAdminController.php:194
 msgid "Slug already exist. Please use a different slug."
 msgstr "O slug já existe. Por favor, use um slug diferente."
 
-#: app/Services/Integrations/FluentCRM/AddToSpaceAction.php:44
 #: app/Services/Integrations/FluentCRM/RemoveFromSpaceAction.php:44
 msgid "Space"
 msgstr "Grupo"
@@ -429,12 +466,6 @@ msgstr ""
 "Ocorreu um erro ao desativar a licença, tente novamente ou faça login em "
 "wpmanageninja.com para desativar manualmente a licença"
 
-#: app/Services/Integrations/FluentCRM/AddToSpaceAction.php:49
-#: app/Services/Integrations/FluentCRM/AddToCourseAction.php:49
-msgid "This action will run only if the contact is already a WordPress user."
-msgstr ""
-"Esta ação será executada somente se o contato já for um usuário do WordPress."
-
 #: app/Modules/LeaderBoard/UserLevelUpgradedTrigger.php:27
 #: app/Modules/LeaderBoard/UserLevelUpgradedTrigger.php:36
 msgid ""
@@ -448,13 +479,17 @@ msgstr ""
 msgid "to renew your license"
 msgstr "para renovar sua licença"
 
-#: app/Http/Controllers/ProAdminController.php:246
+#: app/Http/Controllers/ProAdminController.php:258
 msgid "Topic has been deleted successfully"
 msgstr "O tópico foi excluído com sucesso"
 
-#: app/Http/Controllers/ProAdminController.php:228
+#: app/Http/Controllers/ProAdminController.php:240
 msgid "Topic has been saved successfully"
 msgstr "O tópico foi salvo com sucesso"
+
+#: app/Http/Controllers/ProAdminController.php:276
+msgid "Topics configuration has been updated successfully"
+msgstr "A configuração dos tópicos foi atualizada com sucesso"
 
 #: app/Modules/LeaderBoard/UserLevelUpgradedTrigger.php:26
 #: app/Modules/LeaderBoard/UserLevelUpgradedTrigger.php:35
