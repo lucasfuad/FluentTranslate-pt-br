@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FluentCRM Pro\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-16 12:21+0000\n"
-"PO-Revision-Date: 2024-11-17 17:56+0000\n"
+"PO-Revision-Date: 2024-12-04 21:33+0000\n"
 "Last-Translator: Lucas Fuad\n"
 "Language-Team: Português do Brasil\n"
 "Language: pt_BR\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Loco https://localise.biz/\n"
-"X-Loco-Version: 2.6.12; wp-6.7\n"
+"X-Loco-Version: 2.6.14; wp-6.7.1\n"
 "X-Domain: fluentcampaign-pro"
 
 #: app/Http/Controllers/RecurringCampaignController.php:120
@@ -56,7 +56,7 @@ msgstr "[Duplicado]"
 
 #: app/Services/Integrations/Edd/EddSubscriptionActiveBenchmark.php:24
 msgid "[EDD] Recurring Subscription Active"
-msgstr "[EDD] Assinatura recorrente ativa"
+msgstr "[EDD] Assinatura Recorrente Ativa"
 
 #: app/Services/Integrations/LearnDash/LdInit.php:161
 msgid "[FluentCRM] Apply Tags on course completion"
@@ -586,7 +586,7 @@ msgstr "Conclui um tópico"
 #: app/Services/Funnel/Triggers/TrackingEventRecordedTrigger.php:89
 #: app/Services/Funnel/Conditions/FunnelCondition.php:53
 msgid "Condition"
-msgstr "Condição"
+msgstr "Doença"
 
 #: app/Http/Controllers/DynamicSegmentController.php:130
 msgid "Conditions"
@@ -1134,7 +1134,7 @@ msgstr "Grupos de Inscrição"
 
 #: app/Services/Integrations/LifterLms/CourseEnrollTrigger.php:44
 msgid "Enrollment in a course in LifterLMS"
-msgstr "Matrícula em um curso no LifterLMS"
+msgstr "Inscrição em um curso no LifterLMS"
 
 #: app/Services/Integrations/TutorLms/CourseEnrollTrigger.php:40
 msgid "Enrollment in a course in TutorLMS"
@@ -1186,43 +1186,43 @@ msgstr "Erro ao criar novo usuário."
 #: app/Services/Funnel/Conditions/FunnelABTesting.php:27
 #: app/Services/Funnel/Conditions/FunnelABTesting.php:42
 msgid "Evenly split the contacts or choose how to distribute them"
-msgstr "Divida os contatos uniformemente ou escolha como distribuí-los"
+msgstr "Evenly split the contacts or choose how to distribute them"
 
 #: app/Services/Funnel/Actions/AddEventTrackerAction.php:43
 msgid "Event Tracking for Contact to the Contact Profile"
-msgstr "Rastreamento de eventos para contato no perfil de contato"
+msgstr "Event Tracking for Contact to the Contact Profile"
 
 #: app/Services/Funnel/Actions/AddEventTrackerAction.php:48
 msgid "Event Tracking Key"
-msgstr "Chave de rastreamento de eventos"
+msgstr "Event Tracking Key"
 
 #: app/Services/Funnel/Actions/AddEventTrackerAction.php:55
 msgid "Event Tracking Title"
-msgstr "Título de Rastreamento de Eventos"
+msgstr "Event Tracking Title"
 
 #: app/Services/Integrations/Edd/AdvancedReport.php:72
 msgid "Expired"
-msgstr "Expirado"
+msgstr "Expired"
 
 #: app/Services/Integrations/Edd/AdvancedReport.php:164
 msgid "Expired Licenses"
-msgstr "Licenças expiradas"
+msgstr "Expired Licenses"
 
 #: app/Hooks/Handlers/DataExporter.php:397
 msgid "Failed to import"
-msgstr "Falha ao importar"
+msgstr "Failed to import"
 
 #: app/Http/Controllers/DynamicSegmentController.php:223
 msgid "Filter By Email Activities"
-msgstr "Filtrar por atividades de e-mail"
+msgstr "Filter By Email Activities"
 
 #: app/Http/Controllers/DynamicSegmentController.php:224
 msgid ""
 "Filter your contacts by from email open or email link click metrics. Leave "
 "the values blank for not applying"
 msgstr ""
-"Filtre seus contatos por métricas de abertura de e-mail ou clique em link de "
-"e-mail. Deixe os valores em branco para não aplicar"
+"Filter your contacts by from email open or email link click metrics. Leave "
+"the values blank for not applying"
 
 #: app/Services/Integrations/LifterLms/AutomationConditions.php:65
 #: app/Services/Integrations/LifterLms/DeepIntegration.php:94
@@ -1230,21 +1230,21 @@ msgstr ""
 #: app/Services/Integrations/LearnDash/DeepIntegration.php:84
 #: app/Services/Integrations/TutorLms/DeepIntegration.php:422
 msgid "First Enrollment Date"
-msgstr "Primeira data de inscrição"
+msgstr "First Enrollment Date"
 
 #: app/Http/Controllers/DynamicSegmentController.php:141
 #: app/Hooks/Handlers/DataExporter.php:545
 #: app/Modules/AbandonCart/Woo/AbandonCartAutomationTrigger.php:140
 #: app/Services/Funnel/Conditions/FunnelCondition.php:72
 msgid "First Name"
-msgstr "Primeiro nome"
+msgstr "First Name"
 
 #: app/Services/Integrations/WooCommerce/AutomationConditions.php:83
 #: app/Services/Integrations/WooCommerce/DeepIntegration.php:226
 #: app/Services/Integrations/Edd/AutomationConditions.php:56
 #: app/Services/Integrations/Edd/DeepIntegration.php:303
 msgid "First Order Date"
-msgstr "Data do Primeiro Pedido"
+msgstr "First Order Date"
 
 #. Author of the plugin
 msgid "Fluent CRM"
@@ -1262,11 +1262,11 @@ msgstr "FluentCRM"
 
 #: app/Services/Integrations/TutorLms/TutorLmsInit.php:117
 msgid "FluentCRM - Course Tags"
-msgstr "FluentCRM - Etiquetas do curso"
+msgstr "FluentCRM - Course Tags"
 
 #: app/Services/Integrations/WooCommerce/WooProductAdmin.php:107
 msgid "FluentCRM Integration"
-msgstr "Integração FluentCRM"
+msgstr "FluentCRM Integration"
 
 #. Name of the plugin
 msgid "FluentCRM Pro"
@@ -1275,7 +1275,7 @@ msgstr "FluentCRM Pro"
 #: app/Services/Integrations/WooCommerce/WooInit.php:193
 #: app/Services/Integrations/Edd/EddInit.php:130
 msgid "FluentCRM Profile"
-msgstr "Perfil FluentCRM"
+msgstr "FluentCRM Profile"
 
 #: app/Services/Integrations/LearnPress/LearnPressInit.php:106
 #: app/Services/Integrations/LearnPress/LearnPressInit.php:110
@@ -1284,61 +1284,60 @@ msgstr "Perfil FluentCRM"
 #: app/Services/Integrations/Edd/EddMetaBoxes.php:29
 #: app/Services/Integrations/Edd/EddMetaBoxes.php:100
 msgid "FluentCRM Settings"
-msgstr "Configurações do FluentCRM"
+msgstr "FluentCRM Settings"
 
 #: app/Services/Integrations/WooCommerce/WooOrderCompletedTrigger.php:97
 #: app/Services/Integrations/WooCommerce/WooOrderSuccessTrigger.php:99
 #: app/Services/Integrations/Edd/EddPaymentSuccessTrigger.php:104
 #: app/Services/Integrations/Edd/EddPaymentRefundTrigger.php:104
 msgid "For what type of purchase you want to run this funnel"
-msgstr "Para que tipo de compra você deseja executar este funil"
+msgstr "For what type of purchase you want to run this funnel"
 
 #: app/Services/Integrations/WooCommerce/WooOrderSuccessBenchmark.php:76
 #: app/Services/Integrations/Edd/EddOrderSuccessBenchmark.php:75
 msgid "For what type of purchase you want to run this goal"
-msgstr "Para que tipo de compra você deseja executar esta meta"
+msgstr "For what type of purchase you want to run this goal"
 
 #: app/Services/Integrations/WooCommerce/Helper.php:59
 #: app/Services/Integrations/Edd/Helper.php:62
 msgid "From 2nd Purchase"
-msgstr "A partir da 2ª compra"
+msgstr "From 2nd Purchase"
 
 #: app/Services/Funnel/Actions/HTTPSendDataAction.php:100
 msgid "Full Subscriber Data (Raw)"
-msgstr "Dados completos do assinante (brutos)"
+msgstr "Full Subscriber Data (Raw)"
 
 #: app/Services/Funnel/Actions/ChangeUserRoleAction.php:69
 msgid ""
 "Funnel Skipped because administrator user role can not be set for security "
 "reason"
 msgstr ""
-"Funil ignorado porque a função de usuário administrador não pode ser "
-"definida por motivos de segurança"
+"Funnel Skipped because administrator user role can not be set for security "
+"reason"
 
 #: app/Services/Integrations/LifterLms/AddToCourseAction.php:89
 #: app/Services/Integrations/LearnDash/AddToCourseAction.php:89
 #: app/Services/Integrations/TutorLms/AddToCourseAction.php:89
 msgid "Funnel Skipped because no course found"
-msgstr "Funil ignorado porque nenhum curso foi encontrado"
+msgstr "Funnel Skipped because no course found"
 
 #: app/Services/Integrations/LifterLms/AddToMembershipAction.php:88
 #: app/Services/Integrations/LearnDash/AddToGroupAction.php:89
 msgid "Funnel Skipped because no group found"
-msgstr "Funil ignorado porque nenhum grupo foi encontrado"
+msgstr "Funnel Skipped because no group found"
 
 #: app/Services/Funnel/Actions/UpdateUserMetaAction.php:61
 #: app/Services/Funnel/Actions/ChangeUserRoleAction.php:59
 msgid "Funnel Skipped because no user found with the email address"
-msgstr ""
-"Funil ignorado porque nenhum usuário foi encontrado com o endereço de e-mail"
+msgstr "Funnel Skipped because no user found with the email address"
 
 #: app/Services/Funnel/Actions/HTTPSendDataAction.php:173
 msgid "Funnel Skipped because provided url is not valid"
-msgstr "Funil ignorado porque a URL fornecida não é válida"
+msgstr "Funnel Skipped because provided url is not valid"
 
 #: app/Services/Funnel/Actions/UserRegistrationAction.php:100
 msgid "Funnel Skipped because user already exist in the database"
-msgstr "Funil ignorado porque o usuário já existe no banco de dados"
+msgstr "Funnel Skipped because user already exist in the database"
 
 #: app/Services/Integrations/LifterLms/RemoveFromMembershipAction.php:57
 #: app/Services/Integrations/LifterLms/RemoveFromCourseAction.php:57
@@ -1349,65 +1348,65 @@ msgstr "Funil ignorado porque o usuário já existe no banco de dados"
 #: app/Services/Integrations/TutorLms/RemoveFromCourseAction.php:57
 #: app/Services/Integrations/TutorLms/AddToCourseAction.php:79
 msgid "Funnel Skipped because user could not be found"
-msgstr "Funil ignorado porque o usuário não pôde ser encontrado"
+msgstr "Funnel Skipped because user could not be found"
 
 #: app/Services/Integrations/LearnDash/RemoveFromCourseAction.php:59
 msgid "Funnel Skipped because user/course could not be found"
-msgstr "Funil ignorado porque usuário/curso não pôde ser encontrado"
+msgstr "Funnel Skipped because user/course could not be found"
 
 #: app/Services/Integrations/LearnDash/RemoveFromGroupAction.php:57
 msgid "Funnel Skipped because user/group could not be found"
-msgstr "Funil ignorado porque usuário/grupo não pôde ser encontrado"
+msgstr "Funnel Skipped because user/group could not be found"
 
 #: app/Services/Funnel/Triggers/ContactBirthDayTrigger.php:25
 #: app/Services/Funnel/Triggers/ContactBirthDayTrigger.php:34
 msgid "Funnel will be initiated on the day of contact's birthday"
-msgstr "O funil será iniciado no dia do aniversário do contato"
+msgstr "Funnel will be initiated on the day of contact's birthday"
 
 #: app/Services/Funnel/Actions/UserRegistrationAction.php:57
 msgid "Generate Password Automatically"
-msgstr "Gerar senha automaticamente"
+msgstr "Generate Password Automatically"
 
 #: app/Services/Funnel/Actions/HTTPSendDataAction.php:69
 msgid "GET Method"
-msgstr "Método GET"
+msgstr "GET Method"
 
 #: app/Services/Integrations/LifterLms/LifterInit.php:130
 msgid "Grade"
-msgstr "Nota"
+msgstr "Grade"
 
 #: app/Services/Integrations/LearnPress/LearnPressInit.php:95
 msgid "Graduation Status"
-msgstr "Status de graduação"
+msgstr "Graduation Status"
 
 #: app/Services/Integrations/WooCommerce/AdvancedReport.php:40
 #: app/Services/Integrations/Edd/AdvancedReport.php:32
 msgid "Gross Volume"
-msgstr "Volume Bruto"
+msgstr "Gross Volume"
 
 #: app/Services/Integrations/LearnDash/GroupEnrollTrigger.php:23
 msgid "Group Enrolled"
-msgstr "Grupo Inscrito"
+msgstr "Group Enrolled"
 
 #: app/Services/Integrations/BuddyPress/BBInit.php:106
 msgid "Group ID"
-msgstr "ID do grupo"
+msgstr "Group ID"
 
 #: app/Services/Integrations/BuddyPress/BBInit.php:107
 msgid "Group Name"
-msgstr "Nome do grupo"
+msgstr "Group Name"
 
 #: app/Services/Funnel/Actions/HTTPSendDataAction.php:140
 msgid "Header Key"
-msgstr "Chave de Cabeçalho"
+msgstr "Header Key"
 
 #: app/Services/Funnel/Actions/HTTPSendDataAction.php:141
 msgid "Header Value"
-msgstr "Valor do Cabeçalho"
+msgstr "Header Value"
 
 #: app/Services/PluginManager/LicenseManager.php:52
 msgid "Help & Support"
-msgstr "Ajuda e Suporte"
+msgstr "Help & Support"
 
 #. URI of the plugin
 #. Author URI of the plugin
@@ -1419,7 +1418,7 @@ msgstr "https://fluentcrm.com"
 #: app/Services/Integrations/LearnDash/LdInit.php:118
 #: app/Services/Integrations/TutorLms/TutorLmsInit.php:105
 msgid "ID"
-msgstr "EU IA"
+msgstr "ID"
 
 #: app/Services/Integrations/LifterLms/LessonCompletedTrigger.php:80
 #: app/Services/Integrations/LifterLms/CourseCompletedTrigger.php:76
@@ -1438,7 +1437,7 @@ msgstr "EU IA"
 #: app/Services/Integrations/AffiliateWP/AffiliateWPAffActiveTrigger.php:104
 #: app/Services/Funnel/Triggers/UserLoginTrigger.php:69
 msgid "If Contact Already Exist?"
-msgstr "Se o contato já existe?"
+msgstr "If Contact Already Exist?"
 
 #: app/Services/Integrations/SureCart/SureCartPaymentRefundTrigger.php:77
 #: app/Services/Integrations/SureCart/SureCartPaymentSuccessTrigger.php:78
@@ -1447,28 +1446,25 @@ msgstr "Se o contato já existe?"
 #: app/Services/Integrations/Edd/EddRecurringPaymentTrigger.php:78
 #: app/Services/Integrations/Edd/EddPaymentRefundTrigger.php:79
 msgid "If Contact Exist?"
-msgstr "Existe contato?"
+msgstr "If Contact Exist?"
 
 #: app/Services/Funnel/Actions/ChangeUserRoleAction.php:22
 msgid "If user exist with the contact email then you can change user role"
-msgstr ""
-"Se existir um usuário com o e-mail de contato, você poderá alterar a função "
-"do usuário"
+msgstr "If user exist with the contact email then you can change user role"
 
 #: app/Services/Funnel/Actions/ChangeUserRoleAction.php:49
 msgid ""
 "If you disable this then it will append the selected role with existing "
 "roles."
 msgstr ""
-"Se você desabilitar isso, a função selecionada será anexada às funções "
-"existentes."
+"If you disable this then it will append the selected role with existing "
+"roles."
 
 #: app/Modules/AbandonCart/Woo/AbandonCartAutomationTrigger.php:88
 msgid ""
 "If you enable, then it will only run this automation for subscribed contacts"
 msgstr ""
-"Se você habilitar, essa automação será executada apenas para contatos "
-"inscritos"
+"If you enable, then it will only run this automation for subscribed contacts"
 
 #: app/Services/FunnelMultiConditionTrait.php:21
 #: app/Services/Integrations/RCP/RCPMembershipTrigger.php:85
@@ -1515,8 +1511,9 @@ msgid ""
 "contact already in the automation. Otherwise, It will just skip if already "
 "exist"
 msgstr ""
-"Se você habilitar, ele reiniciará a automação para um contato se o contato "
-"já estiver na automação. Caso contrário, ele apenas pulará se já existir"
+"If you enable, then it will restart the automation for a contact if the "
+"contact already in the automation. Otherwise, It will just skip if already "
+"exist"
 
 #: app/Services/Funnel/Triggers/TrackingEventRecordedTrigger.php:100
 msgid ""
@@ -1524,9 +1521,9 @@ msgid ""
 "contact already in the automation. Please note that, if the automation "
 "status is active it will not restart."
 msgstr ""
-"Se você habilitar, ele reiniciará a automação para um contato se o contato "
-"já estiver na automação. Observe que, se o status da automação estiver ativo,"
-" ele não reiniciará."
+"If you enable, then it will restart the automation for a contact if the "
+"contact already in the automation. Please note that, if the automation "
+"status is active it will not restart."
 
 #: app/Modules/AbandonCart/Woo/AbandonCartAutomationTrigger.php:39
 msgid ""
@@ -1534,42 +1531,40 @@ msgid ""
 "The higher the priority means it will match earlier. Only one abandon cart "
 "automation will run per abandonment depends on your conditional logics."
 msgstr ""
-"Se você tiver várias automações para carrinho abandonado, você pode definir "
-"a prioridade. Quanto maior a prioridade, mais cedo ela corresponderá. Apenas "
-"uma automação de carrinho abandonado será executada por abandono, dependendo "
-"de suas lógicas condicionais."
+"If you have multiple automation for abandon cart, you can set the priority. "
+"The higher the priority means it will match earlier. Only one abandon cart "
+"automation will run per abandonment depends on your conditional logics."
 
 #: app/Services/Funnel/Actions/UserRegistrationAction.php:63
 msgid "If you leave blank then auto generated password will be set"
-msgstr "Se você deixar em branco, a senha gerada automaticamente será definida"
+msgstr "If you leave blank then auto generated password will be set"
 
 #: app/Services/Funnel/Actions/UserRegistrationAction.php:74
 msgid ""
 "If you leave blank then email will be used as username. If provided username "
 "is not available then email address will be used for username"
 msgstr ""
-"Se você deixar em branco, o e-mail será usado como nome de usuário. Se o "
-"nome de usuário fornecido não estiver disponível, o endereço de e-mail será "
-"usado como nome de usuário."
+"If you leave blank then email will be used as username. If provided username "
+"is not available then email address will be used for username"
 
 #: app/Services/Funnel/Actions/UserRegistrationAction.php:83
 msgid ""
 "If you want to map user meta properties you can add that here. This is "
 "totally optional"
 msgstr ""
-"Se você quiser mapear as meta propriedades do usuário, você pode adicionar "
-"isso aqui. Isso é totalmente opcional"
+"If you want to map user meta properties you can add that here. This is "
+"totally optional"
 
 #: app/Modules/AbandonCart/Views/AbandonCartItems.php:109
 #: app/Modules/AbandonCart/Views/AbandonCartItems.php:128
 msgid "Image"
-msgstr "Imagem"
+msgstr "Image"
 
 #: app/Services/Integrations/WooCommerce/WooImporter.php:120
 #: app/Services/Integrations/Edd/EddImporter.php:114
 #, php-format
 msgid "Import %s Customers Now"
-msgstr "Importar %s clientes agora"
+msgstr "Import %s Customers Now"
 
 #: app/Services/Integrations/RCP/RCPImporter.php:141
 #: app/Services/Integrations/PMPro/PMProImporter.php:139
@@ -1578,7 +1573,7 @@ msgstr "Importar %s clientes agora"
 #: app/Services/Integrations/MemberPress/MemberPressImporter.php:131
 #, php-format
 msgid "Import %s Members Now"
-msgstr "Importar %s membros agora"
+msgstr "Import %s Members Now"
 
 #: app/Services/Integrations/LifterLms/LifterImporter.php:181
 #: app/Services/Integrations/LearnPress/LearnPressImporter.php:131
@@ -1586,7 +1581,7 @@ msgstr "Importar %s membros agora"
 #: app/Services/Integrations/TutorLms/TutorImporter.php:137
 #, php-format
 msgid "Import %s Students Now"
-msgstr "Importar %s alunos agora"
+msgstr "Import %s Students Now"
 
 #: app/Services/Integrations/RCP/RCPImporter.php:110
 #: app/Services/Integrations/LifterLms/LifterImporter.php:134
@@ -1597,65 +1592,63 @@ msgstr "Importar %s alunos agora"
 #: app/Services/Integrations/TutorLms/TutorImporter.php:109
 #: app/Services/Integrations/MemberPress/MemberPressImporter.php:100
 msgid "Import by"
-msgstr "Importar por"
+msgstr "Import by"
 
 #: app/Services/Integrations/LifterLms/LifterImporter.php:140
 #: app/Services/Integrations/LearnDash/LearnDashImporter.php:143
 #: app/Services/Integrations/TutorLms/TutorImporter.php:115
 msgid "Import By Courses"
-msgstr "Importar por cursos"
+msgstr "Import By Courses"
 
 #: app/Services/Integrations/LearnDash/LearnDashImporter.php:147
 #: app/Services/Integrations/BuddyPress/BbImporter.php:165
 msgid "Import By Member Groups"
-msgstr "Importar por grupos de membros"
+msgstr "Import By Member Groups"
 
 #: app/Services/Integrations/BuddyPress/BbImporter.php:161
 msgid "Import By Member Type"
-msgstr "Importar por tipo de membro"
+msgstr "Import By Member Type"
 
 #: app/Services/Integrations/RCP/RCPImporter.php:116
 #: app/Services/Integrations/PMPro/PMProImporter.php:114
 #: app/Services/Integrations/WishlistMember/WishlistMemberImporter.php:115
 #: app/Services/Integrations/MemberPress/MemberPressImporter.php:106
 msgid "Import By Membership Level"
-msgstr "Importar por nível de associação"
+msgstr "Import By Membership Level"
 
 #: app/Services/Integrations/LifterLms/LifterImporter.php:144
 msgid "Import By Memberships"
-msgstr "Importar por Associações"
+msgstr "Import By Memberships"
 
 #: app/Http/Controllers/DynamicSegmentController.php:114
 #: app/Http/Controllers/DynamicSegmentController.php:201
 #: app/Http/Controllers/DynamicSegmentController.php:212
 msgid "In"
-msgstr "Em"
+msgstr "In"
 
 #: app/Services/Integrations/AffiliateWP/DeepIntegration.php:83
 msgid "Inactive"
-msgstr "Inativo"
+msgstr "Inactive"
 
 #: app/Services/Integrations/WooCommerce/AdvancedReport.php:85
 msgid "Individual Product Sales values are excluded Tax & Shipping amounts"
-msgstr ""
-"Os valores de vendas de produtos individuais são excluídos dos valores de "
-"impostos e frete"
+msgstr "Individual Product Sales values are excluded Tax & Shipping amounts"
 
 #: app/Http/Controllers/CampaignsProController.php:175
 msgid "invalid selection"
-msgstr "seleção inválida"
+msgstr "invalid selection"
 
 #: app/Hooks/Handlers/DataExporter.php:555
 msgid "IP Address"
-msgstr "Endereço IP"
+msgstr "IP Address"
 
 #: app/Services/Integrations/AffiliateWP/DeepIntegration.php:58
 msgid "Is Affiliate"
-msgstr "É afiliado"
+msgstr "Is Affiliate"
 
 #: app/Services/Integrations/WooCommerce/AutomationConditions.php:73
 msgid "Is guest?"
-msgstr "É convidado?"
+msgstr "Is guest?"
 
 #: app/Modules/AbandonCart/Views/AbandonCartItems.php:110
 #: app/Modules/AbandonCart/Views/AbandonCartItems.php:131
@@ -1664,12 +1657,12 @@ msgstr "Item"
 
 #: app/Services/Integrations/LifterLms/MembershipEnrollTrigger.php:28
 msgid "Joined Membership"
-msgstr "Membro associado"
+msgstr "Joined Membership"
 
 #: app/Http/Controllers/DynamicSegmentController.php:234
 #: app/Http/Controllers/DynamicSegmentController.php:240
 msgid "Keep days 0/Blank for disable"
-msgstr "Manter dias 0/Em branco para desabilitar"
+msgstr "Keep days 0/Blank for disable"
 
 #: app/Services/Integrations/WooCommerce/WooOrderCompletedTrigger.php:90
 #: app/Services/Integrations/WooCommerce/WooOrderSuccessBenchmark.php:69
@@ -1680,7 +1673,7 @@ msgstr "Manter dias 0/Em branco para desabilitar"
 #: app/Services/Integrations/Edd/EddRecurringPaymentTrigger.php:96
 #: app/Services/Integrations/Edd/EddPaymentRefundTrigger.php:97
 msgid "Keep it blank to run to any category products"
-msgstr "Mantenha em branco para executar em qualquer categoria de produtos"
+msgstr "Keep it blank to run to any category products"
 
 #: app/Services/Integrations/LifterLms/CourseEnrollTrigger.php:90
 #: app/Services/Integrations/LearnDash/CourseLeaveTrigger.php:90
@@ -1688,20 +1681,20 @@ msgstr "Mantenha em branco para executar em qualquer categoria de produtos"
 #: app/Services/Integrations/TutorLms/CourseCompletedTrigger.php:85
 #: app/Services/Integrations/TutorLms/CourseEnrollTrigger.php:86
 msgid "Keep it blank to run to any Course Enrollment"
-msgstr "Mantenha em branco para executar qualquer inscrição no curso"
+msgstr "Keep it blank to run to any Course Enrollment"
 
 #: app/Services/Integrations/LearnDash/CourseCompletedTrigger.php:86
 msgid "Keep it blank to run to any courses"
-msgstr "Mantenha em branco para executar qualquer curso"
+msgstr "Keep it blank to run to any courses"
 
 #: app/Services/Integrations/LearnDash/GroupEnrollTrigger.php:87
 msgid "Keep it blank to run to any group Enrollment"
-msgstr "Mantenha em branco para executar em qualquer grupo Inscrição"
+msgstr "Keep it blank to run to any group Enrollment"
 
 #: app/Services/Integrations/LifterLms/LessonCompletedTrigger.php:90
 #: app/Services/Integrations/LifterLms/CourseCompletedTrigger.php:86
 msgid "Keep it blank to run to any Lesson"
-msgstr "Mantenha em branco para executar qualquer lição"
+msgstr "Keep it blank to run to any Lesson"
 
 #: app/Services/Integrations/TutorLms/LessonCompletedTrigger.php:85
 msgid "Keep it blank to run to any Lesson Complete"
@@ -1709,7 +1702,7 @@ msgstr "Mantenha em branco para executar qualquer lição concluída"
 
 #: app/Services/Integrations/RCP/RCPMembershipCancelTrigger.php:79
 msgid "Keep it blank to run to any Level Cancellation"
-msgstr "Mantenha em branco para executar qualquer nível Cancelamento"
+msgstr "Mantenha em branco para executar qualquer cancelamento de nível"
 
 #: app/Services/Integrations/PMPro/PMProPMProExpiryLevelTrigger.php:79
 #: app/Services/Integrations/PMPro/PMProPMProCancelLevelTrigger.php:79
@@ -2639,7 +2632,7 @@ msgstr "Nota privada"
 #. Description of the plugin
 msgid "Pro Email Automation and Integration Addon for FluentCRM"
 msgstr ""
-"Complemento de integração e automação de e-mail profissional para FluentCRM"
+"Complemento de automação e integração de e-mail profissional para FluentCRM"
 
 #: app/Modules/AbandonCart/AbandonCartController.php:136
 msgid "Processing Revenue"
@@ -2681,16 +2674,16 @@ msgstr "Tipo de compra"
 #: app/Services/Integrations/Edd/AutomationConditions.php:62
 #: app/Services/Integrations/Edd/DeepIntegration.php:318
 msgid "Purchased Categories"
-msgstr "Categorias compradas"
+msgstr "Purchased Categories"
 
 #: app/Services/Integrations/WooCommerce/AutomationConditions.php:177
 msgid "Purchased From Categories"
-msgstr "Comprado de Categorias"
+msgstr "Purchased From Categories"
 
 #: app/Services/Integrations/WooCommerce/AutomationConditions.php:35
 #: app/Services/Integrations/WooCommerce/DeepIntegration.php:242
 msgid "Purchased Product Variations"
-msgstr "Variações do produto adquirido"
+msgstr "Purchased Product Variations"
 
 #: app/Services/Integrations/WooCommerce/AutomationConditions.php:26
 #: app/Services/Integrations/WooCommerce/DeepIntegration.php:115
@@ -2699,19 +2692,19 @@ msgstr "Variações do produto adquirido"
 #: app/Services/Integrations/Edd/DeepIntegration.php:166
 #: app/Services/Integrations/Edd/DeepIntegration.php:309
 msgid "Purchased Products"
-msgstr "Produtos comprados"
+msgstr "Purchased Products"
 
 #: app/Services/Integrations/WooCommerce/AutomationConditions.php:107
 #: app/Services/Integrations/WooCommerce/DeepIntegration.php:265
 #: app/Services/Integrations/Edd/AutomationConditions.php:71
 #: app/Services/Integrations/Edd/DeepIntegration.php:327
 msgid "Purchased Tags"
-msgstr "Etiquetas compradas"
+msgstr "Purchased Tags"
 
 #: app/Modules/AbandonCart/Views/AbandonCartItems.php:111
 #: app/Modules/AbandonCart/Views/AbandonCartItems.php:132
 msgid "Quantity"
-msgstr "Quantidade"
+msgstr "Quantity"
 
 #: app/Services/Integrations/RCP/AutomationConditions.php:19
 msgid "RCP"
@@ -2719,94 +2712,94 @@ msgstr "RCP"
 
 #: app/Services/Funnel/Actions/AddEmailSequenceAction.php:49
 msgid "Re-assign Sequence Emails?"
-msgstr "Reatribuir e-mails de sequência?"
+msgstr "Re-assign Sequence Emails?"
 
 #: app/Modules/AbandonCart/AbandonCartController.php:131
 msgid "Recovered Revenue"
-msgstr "Receita Recuperada"
+msgstr "Recovered Revenue"
 
 #: app/Modules/AbandonCart/AbandonCartController.php:156
 msgid "Recovery Rate"
-msgstr "Taxa de recuperação"
+msgstr "Recovery Rate"
 
 #: app/Services/Integrations/WooCommerce/AdvancedReport.php:61
 #: app/Services/Integrations/Edd/AdvancedReport.php:53
 msgid "Recurring (renew only)"
-msgstr "Recorrente (somente renovação)"
+msgstr "Recurring (renew only)"
 
 #: app/Http/Controllers/RecurringCampaignController.php:275
 msgid "Recurring Email campaign has been deleted"
-msgstr "A campanha de e-mail recorrente foi excluída"
+msgstr "Recurring Email campaign has been deleted"
 
 #: app/Services/Integrations/Edd/EddRecurringExpired.php:24
 #: app/Services/Integrations/Edd/EddRecurringExpired.php:40
 msgid "Recurring Subscription Expired"
-msgstr "Assinatura recorrente expirada"
+msgstr "Recurring Subscription Expired"
 
 #: app/Services/Funnel/Benchmarks/LinkClickBenchmark.php:64
 msgid "Redirect To"
-msgstr "Redirecionar para"
+msgstr "Redirect To"
 
 #: app/Services/Integrations/WooCommerce/WooProductAdmin.php:143
 msgid "Refund Actions"
-msgstr "Ações de Reembolso"
+msgstr "Refund Actions"
 
 #: app/Services/Integrations/AffiliateWP/DeepIntegration.php:101
 msgid "Registration Date"
-msgstr "Data de Registro"
+msgstr "Registration Date"
 
 #: app/Services/Funnel/Actions/HTTPSendDataAction.php:76
 #: app/Services/Funnel/Actions/HTTPSendDataAction.php:77
 msgid "Remote URL"
-msgstr "URL remoto"
+msgstr "Remote URL"
 
 #: app/Services/Funnel/Actions/RemoveFromEmailSequenceAction.php:34
 msgid "Remove Email Sequences"
-msgstr "Remover sequências de e-mail"
+msgstr "Remove Email Sequences"
 
 #: app/Services/Integrations/LifterLms/RemoveFromCourseAction.php:22
 #: app/Services/Integrations/LifterLms/RemoveFromCourseAction.php:34
 #: app/Services/Integrations/TutorLms/RemoveFromCourseAction.php:22
 #: app/Services/Integrations/TutorLms/RemoveFromCourseAction.php:34
 msgid "Remove From a Course"
-msgstr "Remover de um curso"
+msgstr "Remove From a Course"
 
 #: app/Services/Integrations/LearnDash/RemoveFromGroupAction.php:34
 msgid "Remove From a Group"
-msgstr "Remover de um grupo"
+msgstr "Remove From a Group"
 
 #: app/Services/Integrations/LifterLms/RemoveFromMembershipAction.php:22
 msgid "Remove From a LMS Membership"
-msgstr "Remover de uma assinatura LMS"
+msgstr "Remove From a LMS Membership"
 
 #: app/Services/Integrations/LifterLms/RemoveFromMembershipAction.php:34
 msgid "Remove From a Membership"
-msgstr "Remover de uma assinatura"
+msgstr "Remove From a Membership"
 
 #: app/Services/Integrations/CRM/RemoveFromCompanyTrigger.php:46
 msgid "Remove From Company"
-msgstr "Remover da empresa"
+msgstr "Remove From Company"
 
 #: app/Services/Integrations/LearnDash/RemoveFromCourseAction.php:22
 #: app/Services/Integrations/LearnDash/RemoveFromCourseAction.php:36
 msgid "Remove From Course"
-msgstr "Remover do curso"
+msgstr "Remove From Course"
 
 #: app/Services/Integrations/LearnDash/RemoveFromGroupAction.php:22
 msgid "Remove From Group"
-msgstr "Remover do grupo"
+msgstr "Remove From Group"
 
 #: app/Services/Integrations/CRM/RemoveFromListTrigger.php:46
 msgid "Remove From List"
-msgstr "Remover da lista"
+msgstr "Remove From List"
 
 #: app/Services/Integrations/CRM/RemoveFromTagTrigger.php:46
 msgid "Remove From Tags"
-msgstr "Remover das tags"
+msgstr "Remove From Tags"
 
 #: app/Services/Integrations/Edd/EddMetaBoxes.php:121
 msgid "Remove selected Tags on refund"
-msgstr "Remover tags selecionadas no reembolso"
+msgstr "Remove selected Tags on refund"
 
 #: app/Services/Integrations/LifterLms/LifterInit.php:191
 #: app/Services/Integrations/LifterLms/LifterInit.php:249
@@ -2816,16 +2809,16 @@ msgstr "Remover tags selecionadas no reembolso"
 #: app/Services/Integrations/WooCommerce/WooProductAdmin.php:236
 #: app/Services/Integrations/WooCommerce/WooProductAdmin.php:273
 msgid "Remove Tags"
-msgstr "Remover tags"
+msgstr "Remove Tags"
 
 #: app/Services/Integrations/BuddyPress/Group.php:55
 #: app/Services/Integrations/BuddyPress/BBMemberType.php:77
 msgid "Remove Tags on leave defined in \"Apply Tags\""
-msgstr "Remover tags em licença definida em \"Aplicar tags\""
+msgstr "Remove Tags on leave defined in \"Apply Tags\""
 
 #: app/Services/Integrations/Edd/EddMetaBoxes.php:68
 msgid "Remove Tags on refund defined in \"Apply Tags\""
-msgstr "Remover tags no reembolso definido em \"Aplicar tags\""
+msgstr "Remove Tags on refund defined in \"Apply Tags\""
 
 #: app/Services/Integrations/LifterLms/RemoveFromCourseAction.php:23
 #: app/Services/Integrations/LifterLms/RemoveFromCourseAction.php:35
@@ -2834,81 +2827,81 @@ msgstr "Remover tags no reembolso definido em \"Aplicar tags\""
 #: app/Services/Integrations/TutorLms/RemoveFromCourseAction.php:23
 #: app/Services/Integrations/TutorLms/RemoveFromCourseAction.php:35
 msgid "Remove the contact from a specific LMS Course"
-msgstr "Remover o contato de um curso LMS específico"
+msgstr "Remove the contact from a specific LMS Course"
 
 #: app/Services/Integrations/LearnDash/RemoveFromGroupAction.php:23
 #: app/Services/Integrations/LearnDash/RemoveFromGroupAction.php:35
 msgid "Remove the contact from a specific LMS Group"
-msgstr "Remover o contato de um grupo LMS específico"
+msgstr "Remove the contact from a specific LMS Group"
 
 #: app/Services/Integrations/LifterLms/RemoveFromMembershipAction.php:35
 msgid "Remove the contact from a specific LMS Membership"
-msgstr "Remover o contato de uma associação LMS específica"
+msgstr "Remove the contact from a specific LMS Membership"
 
 #: app/Services/Integrations/LifterLms/RemoveFromMembershipAction.php:23
 msgid "Remove the contact from a specific LMS Membership Group"
-msgstr "Remover o contato de um grupo de membros LMS específico"
+msgstr "Remove the contact from a specific LMS Membership Group"
 
 #: app/Services/Funnel/Actions/UserRoleRemoveAction.php:22
 #: app/Services/Funnel/Actions/UserRoleRemoveAction.php:33
 msgid "Remove the Selected Role of User"
-msgstr "Remover a função selecionada do usuário"
+msgstr "Remove the Selected Role of User"
 
 #: app/Services/Funnel/Actions/UserRoleRemoveAction.php:21
 msgid "Remove WP User Role"
-msgstr "Remover função de usuário WP"
+msgstr "Remove WP User Role"
 
 #: app/Services/Integrations/WooCommerce/WooSubscriptionRenewalFailedTrigger.php:25
 msgid "Renewal Payment Failed"
-msgstr "Falha no pagamento da renovação"
+msgstr "Renewal Payment Failed"
 
 #: app/Services/Integrations/WooCommerce/WooProductAdmin.php:180
 msgid "Renewal Payment Failed Actions"
-msgstr "Ações de pagamento de renovação com falha"
+msgstr "Renewal Payment Failed Actions"
 
 #: app/Services/Integrations/WooCommerce/WooSubscriptionRenewalPaymentTrigger.php:25
 #: app/Services/Integrations/Edd/EddRecurringPaymentTrigger.php:24
 #: app/Services/Integrations/Edd/EddRecurringPaymentTrigger.php:40
 msgid "Renewal Payment Received"
-msgstr "Pagamento de renovação recebido"
+msgstr "Renewal Payment Received"
 
 #: app/Services/Integrations/WooCommerce/WooSubscriptionExpiredTrigger.php:25
 #: app/Services/Integrations/WooCommerce/WooSubscriptionExpiredTrigger.php:71
 msgid "Renewal Subscription Expired"
-msgstr "Assinatura de renovação expirada"
+msgstr "Renewal Subscription Expired"
 
 #: app/Services/Integrations/WooCommerce/AdvancedReport.php:76
 #: app/Services/Integrations/Edd/AdvancedReport.php:69
 msgid "Renews"
-msgstr "Renova"
+msgstr "Renews"
 
 #: app/Services/Funnel/Actions/ChangeUserRoleAction.php:47
 msgid "Replace Existing Role"
-msgstr "Substituir função existente"
+msgstr "Replace Existing Role"
 
 #: app/Services/Funnel/Actions/ChangeUserRoleAction.php:48
 msgid "Replace user role "
-msgstr "Substituir função de usuário"
+msgstr "Replace user role "
 
 #: app/Services/Funnel/Actions/HTTPSendDataAction.php:96
 msgid "Request Body"
-msgstr "Corpo da solicitação"
+msgstr "Request Body"
 
 #: app/Services/Funnel/Actions/HTTPSendDataAction.php:109
 msgid "Request Body Data"
-msgstr "Dados do corpo da solicitação"
+msgstr "Request Body Data"
 
 #: app/Services/Funnel/Actions/HTTPSendDataAction.php:82
 msgid "Request Format"
-msgstr "Formato de solicitação"
+msgstr "Request Format"
 
 #: app/Services/Funnel/Actions/HTTPSendDataAction.php:125
 msgid "Request Header"
-msgstr "Cabeçalho da solicitação"
+msgstr "Request Header"
 
 #: app/Services/Funnel/Actions/HTTPSendDataAction.php:138
 msgid "Request Headers Data"
-msgstr "Dados de cabeçalhos de solicitação"
+msgstr "Request Headers Data"
 
 #: app/Services/FunnelMultiConditionTrait.php:20
 #: app/Services/Integrations/RCP/RCPMembershipTrigger.php:84
@@ -2955,51 +2948,50 @@ msgid ""
 "Restart the Automation Multiple times for a contact for this event. (Only "
 "enable if you want to restart automation for the same contact)"
 msgstr ""
-"Reinicie a automação várias vezes para um contato para este evento. (Ative "
-"somente se desejar reiniciar a automação para o mesmo contato)"
+"Restart the Automation Multiple times for a contact for this event. (Only "
+"enable if you want to restart automation for the same contact)"
 
 #: app/Services/Funnel/Actions/AddEmailSequenceAction.php:50
 msgid ""
 "Restart the sequence emails if the contact already in the email sequence"
 msgstr ""
-"Reinicie a sequência de e-mails se o contato já estiver na sequência de e-"
-"mails"
+"Restart the sequence emails if the contact already in the email sequence"
 
 #: app/Services/Integrations/RCP/RCPMembershipTrigger.php:23
 #: app/Services/Integrations/RCP/RCPMembershipCancelTrigger.php:23
 #: app/Services/Integrations/RCP/RCPMembershipExpireTrigger.php:23
 msgid "Restrict Content Pro"
-msgstr "Restringir conteúdo Pro"
+msgstr "Restrict Content Pro"
 
 #: app/Services/Integrations/CRM/ListAppliedTrigger.php:57
 #: app/Services/Integrations/CRM/TagAppliedTrigger.php:57
 #: app/Services/Integrations/CRM/CompanyAppliedTrigger.php:56
 msgid "Run When"
-msgstr "Correr quando"
+msgstr "Run When"
 
 #: app/Services/Integrations/WooCommerce/WooInit.php:114
 msgid "Sales (This Month)"
-msgstr "Vendas (este mês)"
+msgstr "Sales (This Month)"
 
 #: app/Services/Integrations/WooCommerce/WooInit.php:110
 msgid "Sales (Today)"
-msgstr "Vendas (hoje)"
+msgstr "Sales (Today)"
 
 #: app/Services/Funnel/Actions/SendCampaignEmailAction.php:35
 msgid "Schedule Campaign Email"
-msgstr "Agendar e-mail de campanha"
+msgstr "Schedule Campaign Email"
 
 #: app/Http/Controllers/DynamicSegmentController.php:306
 msgid "Segment has been created"
-msgstr "O segmento foi criado"
+msgstr "Segment has been created"
 
 #: app/Http/Controllers/DynamicSegmentController.php:352
 msgid "Segment has been updated"
-msgstr "O segmento foi atualizado"
+msgstr "Segment has been updated"
 
 #: app/Http/Controllers/DynamicSegmentController.php:322
 msgid "Segment successfully duplicated"
-msgstr "Segmento duplicado com sucesso"
+msgstr "Segment successfully duplicated"
 
 #: app/Services/Integrations/LifterLms/LifterImporter.php:151
 #: app/Services/Integrations/LifterLms/LifterImporter.php:153
@@ -3011,7 +3003,7 @@ msgstr "Segmento duplicado com sucesso"
 #: app/Services/Integrations/TutorLms/TutorImporter.php:124
 #, php-format
 msgid "Select %s Course"
-msgstr "Selecione %s Curso"
+msgstr "Select %s Course"
 
 #: app/Services/Integrations/LifterLms/LifterImporter.php:166
 #: app/Services/Integrations/LearnDash/LearnDashImporter.php:169
@@ -3020,18 +3012,18 @@ msgstr "Selecione %s Curso"
 #: app/Services/Integrations/BuddyPress/BbImporter.php:189
 #, php-format
 msgid "Select %s Group"
-msgstr "Selecione %s Grupo"
+msgstr "Select %s Group"
 
 #: app/Services/Integrations/BuddyPress/BbImporter.php:155
 #, php-format
 msgid "Select %s Import Type"
-msgstr "Selecione %s Tipo de importação"
+msgstr "Select %s Import Type"
 
 #: app/Services/Integrations/BuddyPress/BbImporter.php:172
 #: app/Services/Integrations/BuddyPress/BbImporter.php:174
 #, php-format
 msgid "Select %s Member Type"
-msgstr "Selecione %s Tipo de Membro"
+msgstr "Select %s Member Type"
 
 #: app/Services/Integrations/RCP/RCPImporter.php:123
 #: app/Services/Integrations/RCP/RCPImporter.php:125
@@ -3044,7 +3036,7 @@ msgstr "Selecione %s Tipo de Membro"
 #: app/Services/Integrations/MemberPress/MemberPressImporter.php:115
 #, php-format
 msgid "Select %s Membership"
-msgstr "Selecione %s Associação"
+msgstr "Select %s Membership"
 
 #: app/Services/Integrations/WooCommerce/WooImporter.php:137
 #: app/Services/Integrations/WooCommerce/WooImporter.php:139
@@ -3052,54 +3044,54 @@ msgstr "Selecione %s Associação"
 #: app/Services/Integrations/Edd/EddImporter.php:133
 #, php-format
 msgid "Select %s Product"
-msgstr "Selecione %s Produto"
+msgstr "Select %s Product"
 
 #: app/Services/Integrations/LifterLms/RemoveFromCourseAction.php:42
 #: app/Services/Integrations/TutorLms/RemoveFromCourseAction.php:42
 msgid "Select a course that you want to remove from"
-msgstr "Selecione um curso que você deseja remover"
+msgstr "Select a course that you want to remove from"
 
 #: app/Services/Integrations/LifterLms/RemoveFromMembershipAction.php:42
 msgid "Select a Membership Group that you want to remove from"
-msgstr "Selecione um Grupo de Membros do qual você deseja remover"
+msgstr "Select a Membership Group that you want to remove from"
 
 #: app/Services/Funnel/Actions/AddActivityAction.php:49
 msgid "Select Activity Type"
-msgstr "Selecione o tipo de atividade"
+msgstr "Select Activity Type"
 
 #: app/Services/Funnel/Actions/RemoveFromFunnelAction.php:42
 msgid "Select Automations"
-msgstr "Selecione Automações"
+msgstr "Select Automations"
 
 #: app/Services/Funnel/Actions/RemoveFromFunnelAction.php:40
 msgid "Select Automations that you want to cancel"
-msgstr "Selecione as automações que você deseja cancelar"
+msgstr "Select Automations that you want to cancel"
 
 #: app/Services/Funnel/Actions/SendCampaignEmailAction.php:42
 msgid "Select Campaign"
-msgstr "Selecione a campanha"
+msgstr "Select Campaign"
 
 #: app/Services/Funnel/Actions/SendCampaignEmailAction.php:43
 msgid "Select Campaign Email"
-msgstr "Selecione o e-mail da campanha"
+msgstr "Select Campaign Email"
 
 #: app/Services/Integrations/CRM/RemoveFromCompanyTrigger.php:53
 #: app/Services/Integrations/CRM/CompanyAppliedTrigger.php:52
 msgid "Select Companies"
-msgstr "Selecione Empresas"
+msgstr "Select Companies"
 
 #: app/Services/Integrations/CRM/RemoveFromCompanyTrigger.php:54
 #: app/Services/Integrations/CRM/CompanyAppliedTrigger.php:53
 msgid "Select Company"
-msgstr "Selecione a empresa"
+msgstr "Select Company"
 
 #: app/Http/Controllers/DynamicSegmentController.php:131
 msgid ""
 "Select conditions which will define this segment. All Conditions will be "
 "applied to filter"
 msgstr ""
-"Selecione as condições que definirão este segmento. Todas as condições serão "
-"aplicadas ao filtro"
+"Select conditions which will define this segment. All Conditions will be "
+"applied to filter"
 
 #: app/Services/Integrations/LifterLms/RemoveFromCourseAction.php:43
 #: app/Services/Integrations/LifterLms/AddToCourseAction.php:46
@@ -3108,23 +3100,23 @@ msgstr ""
 #: app/Services/Integrations/TutorLms/RemoveFromCourseAction.php:43
 #: app/Services/Integrations/TutorLms/AddToCourseAction.php:45
 msgid "Select Course"
-msgstr "Selecione o curso"
+msgstr "Select Course"
 
 #: app/Services/Integrations/LifterLms/AddToCourseAction.php:45
 #: app/Services/Integrations/LearnDash/RemoveFromCourseAction.php:45
 #: app/Services/Integrations/LearnDash/AddToCourseAction.php:45
 #: app/Services/Integrations/TutorLms/AddToCourseAction.php:44
 msgid "Select Course to Enroll"
-msgstr "Selecione o curso para se inscrever"
+msgstr "Select Course to Enroll"
 
 #: app/Services/Integrations/LearnDash/TopicCompletedTrigger.php:85
 #: app/Services/Integrations/LearnDash/LessonCompletedTrigger.php:85
 msgid "Select Course to find out Lesson"
-msgstr "Selecione o curso para descobrir a lição"
+msgstr "Select Course to find out Lesson"
 
 #: app/Services/Funnel/Actions/AddEmailSequenceAction.php:44
 msgid "Select Email Sequence"
-msgstr "Selecionar sequência de e-mail"
+msgstr "Select Email Sequence"
 
 #: app/Services/Integrations/RCP/RCPImporter.php:126
 #: app/Services/Integrations/LifterLms/LifterImporter.php:154
@@ -3141,7 +3133,7 @@ msgstr "Selecionar sequência de e-mail"
 #: app/Services/Integrations/TutorLms/TutorImporter.php:125
 #: app/Services/Integrations/MemberPress/MemberPressImporter.php:116
 msgid "Select FluentCRM Tag"
-msgstr "Selecione a tag FluentCRM"
+msgstr "Select FluentCRM Tag"
 
 #: app/Services/Integrations/RCP/RCPImporter.php:124
 #: app/Services/Integrations/LifterLms/LifterImporter.php:152
@@ -3157,7 +3149,7 @@ msgstr "Selecione a tag FluentCRM"
 #: app/Services/Integrations/TutorLms/TutorImporter.php:123
 #: app/Services/Integrations/MemberPress/MemberPressImporter.php:114
 msgid "Select FluentCRM Tag that will be applied"
-msgstr "Selecione a tag FluentCRM que será aplicada"
+msgstr "Select FluentCRM Tag that will be applied"
 
 #: app/Services/Integrations/LifterLms/CourseCompletedTrigger.php:83
 #: app/Services/Integrations/LifterLms/CourseEnrollTrigger.php:88
@@ -3167,16 +3159,16 @@ msgstr "Selecione a tag FluentCRM que será aplicada"
 #: app/Services/Integrations/TutorLms/CourseCompletedTrigger.php:83
 #: app/Services/Integrations/TutorLms/CourseEnrollTrigger.php:84
 msgid "Select for which Courses this automation will run"
-msgstr "Selecione para quais cursos esta automação será executada"
+msgstr "Select for which Courses this automation will run"
 
 #: app/Services/Integrations/LearnDash/GroupEnrollTrigger.php:86
 msgid "Select for which groups this automation will run"
-msgstr "Selecione para quais grupos esta automação será executada"
+msgstr "Select for which groups this automation will run"
 
 #: app/Services/Integrations/LifterLms/LessonCompletedTrigger.php:87
 #: app/Services/Integrations/TutorLms/LessonCompletedTrigger.php:83
 msgid "Select for which Lessons this automation will run"
-msgstr "Selecione para quais Lições esta automação será executada"
+msgstr "Select for which Lessons this automation will run"
 
 #: app/Services/Integrations/RCP/RCPMembershipTrigger.php:77
 #: app/Services/Integrations/RCP/RCPMembershipCancelTrigger.php:77
@@ -3188,12 +3180,11 @@ msgstr "Selecione para quais Lições esta automação será executada"
 #: app/Services/Integrations/MemberPress/MembershipTrigger.php:77
 #: app/Services/Integrations/MemberPress/SubscriptionExpiredTrigger.php:76
 msgid "Select for which Membership Levels this automation will run"
-msgstr ""
-"Selecione para quais níveis de associação esta automação será executada"
+msgstr "Select for which Membership Levels this automation will run"
 
 #: app/Services/Integrations/LifterLms/MembershipEnrollTrigger.php:91
 msgid "Select for which Memberships this automation will run"
-msgstr "Selecione para quais associações esta automação será executada"
+msgstr "Select for which Memberships this automation will run"
 
 #: app/Services/Integrations/WooCommerce/WooOrderCompletedTrigger.php:89
 #: app/Services/Integrations/WooCommerce/WooOrderRefundedTrigger.php:88
@@ -3202,16 +3193,16 @@ msgstr "Selecione para quais associações esta automação será executada"
 #: app/Services/Integrations/Edd/EddRecurringPaymentTrigger.php:95
 #: app/Services/Integrations/Edd/EddPaymentRefundTrigger.php:96
 msgid "Select for which product category the automation will run"
-msgstr "Selecione para qual categoria de produto a automação será executada"
+msgstr "Select for which product category the automation will run"
 
 #: app/Services/Integrations/WooCommerce/WooOrderSuccessBenchmark.php:68
 #: app/Services/Integrations/Edd/EddOrderSuccessBenchmark.php:67
 msgid "Select for which product category the goal will run"
-msgstr "Selecione para qual categoria de produto a meta será executada"
+msgstr "Select for which product category the goal will run"
 
 #: app/Services/Integrations/Edd/EddLicenseExpiredTrigger.php:78
 msgid "Select for which product this automation will run"
-msgstr "Selecione para qual produto esta automação será executada"
+msgstr "Select for which product this automation will run"
 
 #: app/Services/Integrations/WooCommerce/WooOrderCompletedTrigger.php:81
 #: app/Services/Integrations/WooCommerce/WooOrderRefundedTrigger.php:80
@@ -3224,66 +3215,65 @@ msgstr "Selecione para qual produto esta automação será executada"
 #: app/Services/Integrations/Edd/EddRecurringPaymentTrigger.php:87
 #: app/Services/Integrations/Edd/EddPaymentRefundTrigger.php:88
 msgid "Select for which products this automation will run"
-msgstr "Selecione para quais produtos esta automação será executada"
+msgstr "Select for which products this automation will run"
 
 #: app/Services/Integrations/WooCommerce/WooOrderSuccessBenchmark.php:60
 #: app/Services/Integrations/Edd/EddOrderSuccessBenchmark.php:59
 #: app/Services/Integrations/Edd/EddSubscriptionActiveBenchmark.php:55
 #: app/Services/Funnel/Benchmarks/LinkClickBenchmark.php:59
 msgid "Select for which products this goal will run"
-msgstr "Selecione para quais produtos esta meta será executada"
+msgstr "Select for which products this goal will run"
 
 #: app/Services/Integrations/WooCommerce/WooSubscriptionStartedTrigger.php:56
 #: app/Services/Integrations/WooCommerce/WooSubscriptionRenewalFailedTrigger.php:56
 #: app/Services/Integrations/WooCommerce/WooSubscriptionExpiredTrigger.php:56
 #: app/Services/Integrations/WooCommerce/WooSubscriptionRenewalPaymentTrigger.php:56
 msgid "Select for which subscription products this automation will run"
-msgstr ""
-"Selecione para quais produtos de assinatura esta automação será executada"
+msgstr "Select for which subscription products this automation will run"
 
 #: app/Services/Integrations/LearnDash/TopicCompletedTrigger.php:98
 msgid "Select for which Topics this automation will run"
-msgstr "Selecione para quais tópicos esta automação será executada"
+msgstr "Select for which Topics this automation will run"
 
 #: app/Services/Integrations/LearnDash/AddToGroupAction.php:46
 #: app/Services/Integrations/LearnDash/RemoveFromGroupAction.php:44
 msgid "Select LearnDash Group"
-msgstr "Selecione o grupo LearnDash"
+msgstr "Select LearnDash Group"
 
 #: app/Services/Integrations/LearnDash/AddToGroupAction.php:45
 msgid "Select LearnDash Group to Enroll"
-msgstr "Selecione o LearnDash Group para se inscrever"
+msgstr "Select LearnDash Group to Enroll"
 
 #: app/Services/Integrations/LearnDash/RemoveFromGroupAction.php:43
 msgid "Select LearnDash Group to un-enroll contact"
-msgstr "Selecione o Grupo LearnDash para cancelar a inscrição do contato"
+msgstr "Select LearnDash Group to un-enroll contact"
 
 #: app/Services/Integrations/LearnDash/TopicCompletedTrigger.php:91
 msgid "Select Lesson to find out the available topics"
-msgstr "Selecione a lição para descobrir os tópicos disponíveis"
+msgstr "Select Lesson to find out the available topics"
 
 #: app/Services/Integrations/LearnDash/LessonCompletedTrigger.php:92
 msgid "Select Lesson to find out Topic"
-msgstr "Selecione a lição para descobrir o tópico"
+msgstr "Select Lesson to find out Topic"
 
 #: app/Services/Integrations/LifterLms/AddToMembershipAction.php:45
 msgid "Select LifterLMS Membership Group"
-msgstr "Selecione o grupo de membros do LifterLMS"
+msgstr "Select LifterLMS Membership Group"
 
 #: app/Services/Integrations/LifterLms/AddToMembershipAction.php:44
 msgid "Select LifterLMS Membership Group to Enroll"
-msgstr "Selecione o grupo de membros LifterLMS para se inscrever"
+msgstr "Select LifterLMS Membership Group to Enroll"
 
 #: app/Services/Integrations/CRM/ListAppliedTrigger.php:53
 #: app/Services/Integrations/CRM/RemoveFromListTrigger.php:54
 msgid "Select List"
-msgstr "Selecionar lista"
+msgstr "Select List"
 
 #: app/Services/Integrations/CRM/ListAppliedTrigger.php:52
 #: app/Services/Integrations/CRM/RemoveFromListTrigger.php:53
 #: app/Services/Integrations/ElementorFormIntegration/FormWidget.php:62
 msgid "Select Lists"
-msgstr "Selecionar listas"
+msgstr "Select Lists"
 
 #: app/Services/Integrations/LifterLms/RemoveFromMembershipAction.php:43
 msgid "Select Membership"

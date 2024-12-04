@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FluentCRM - Marketing Automation For WordPress\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-16 12:21+0000\n"
-"PO-Revision-Date: 2024-11-17 19:15+0000\n"
+"PO-Revision-Date: 2024-12-04 21:34+0000\n"
 "Last-Translator: Lucas Fuad\n"
 "Language-Team: Português do Brasil\n"
 "Language: pt_BR\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Loco https://localise.biz/\n"
-"X-Loco-Version: 2.6.12; wp-6.7\n"
+"X-Loco-Version: 2.6.14; wp-6.7.1\n"
 "X-Domain: fluent-crm"
 
 #: app/Services/ExternalIntegrations/MailComplaince/Webhook.php:58
@@ -91,7 +91,7 @@ msgstr " %d assinantes foram anexados à empresa selecionada "
 
 #: app/Http/Controllers/SubscriberController.php:983
 msgid "%d subscribers has been attached to the selected email sequence"
-msgstr " %d assinantes foram anexados à sequência de e-mails selecionada "
+msgstr " %d assinantes foram anexados à sequência de Emails selecionada "
 
 #: app/Http/Controllers/SubscriberController.php:1077
 msgid "%d subscribers has been detached from the selected company"
@@ -109,7 +109,7 @@ msgstr ""
 
 #: app/Http/Controllers/CampaignController.php:727
 msgid ", The dynamic tags may not replaced in test email"
-msgstr " As tags dinâmicas não podem ser substituídas no e-mail de teste "
+msgstr " As tags dinâmicas não podem ser substituídas no Email de teste "
 
 #: app/Services/ExternalIntegrations/MailComplaince/Webhook.php:92
 #: app/Services/ExternalIntegrations/MailComplaince/Webhook.php:128
@@ -145,7 +145,7 @@ msgid ""
 "A confirmation email has been sent to %s. Please confirm your email address "
 "to resubscribe"
 msgstr ""
-" Um e-mail de confirmação foi enviado para %s. Confirme seu endereço de e-"
+" Um Email de confirmação foi enviado para %s. Confirme seu endereço de e-"
 "mail para se inscrever novamente "
 
 #: app/Hooks/Handlers/ExternalPages.php:1048
@@ -154,8 +154,8 @@ msgid ""
 "A confirmation email has been sent to %s. Please confirm your email address "
 "to resubscribe with changed email address"
 msgstr ""
-" Um e-mail de confirmação foi enviado para %s. Por favor, confirme seu "
-"endereço de e-mail para se inscrever novamente com o endereço de e-mail "
+" Um Email de confirmação foi enviado para %s. Por favor, confirme seu "
+"endereço de Email para se inscrever novamente com o endereço de Email "
 "alterado "
 
 #: app/Services/CrmMigrator/MailerLiteMigrator.php:33
@@ -193,7 +193,7 @@ msgstr " Active Fluent Connect "
 
 #: app/Http/Controllers/DocsController.php:67
 msgid "Active Fluent Forms"
-msgstr "Fluent Forms ativo"
+msgstr "Fluent Forms Ativo"
 
 #: app/Http/Controllers/DocsController.php:76
 msgid "Active Fluent SMTP"
@@ -201,7 +201,7 @@ msgstr " Active Fluent SMTP "
 
 #: app/Http/Controllers/DocsController.php:85
 msgid "Active Fluent Support"
-msgstr "Fluent Support ativo "
+msgstr "Fluent Support Ativo"
 
 #: app/Services/CrmMigrator/ActiveCampaignMigrator.php:31
 msgid "ActiveCampaign API Token"
@@ -257,7 +257,7 @@ msgstr " Linha de endereço 2 "
 
 #: app/Services/Helper.php:207
 msgid "Admin Email"
-msgstr " E-mail do administrador "
+msgstr " Email do administrador "
 
 #: app/Services/Helper.php:1320
 msgid "Affiliate ID (Pro Required)"
@@ -310,7 +310,7 @@ msgstr " Todos os contatos foram processados "
 
 #: app/Hooks/CLI/Commands.php:42 app/Hooks/Handlers/AdminMenu.php:380
 msgid "All Emails"
-msgstr " Todos os e-mails "
+msgstr " Todos os Emails "
 
 #: app/Http/Controllers/SettingsController.php:306
 msgid "All FluentCRM Database Tables have been resetted"
@@ -342,7 +342,7 @@ msgstr " Samoa Americana "
 #: app/Services/Funnel/Triggers/UserRegistrationTrigger.php:51
 msgid "An Automated double-optin email will be sent for new subscribers"
 msgstr ""
-" Um e-mail automatizado de duplo opt-in será enviado para novos assinantes "
+" Um Email automatizado de duplo opt-in será enviado para novos assinantes "
 
 #: app/Hooks/Handlers/CountryNames.php:45
 msgid "Andorra"
@@ -398,27 +398,27 @@ msgstr " API_Error "
 
 #: app/Services/Funnel/Actions/ApplyCompanyAction.php:22
 msgid "Apply Company"
-msgstr "Aplicar empresa "
+msgstr " Candidatar-se à empresa "
 
 #: app/Services/Funnel/Actions/ApplyCompanyAction.php:34
 msgid "Apply Company to the contact"
-msgstr " Aplicar Empresa ao contato "
+msgstr " Aplicar a empresa ao contato "
 
 #: app/Services/Funnel/Actions/ApplyListAction.php:22
 msgid "Apply List"
-msgstr " Aplicar Lista "
+msgstr " Aplicar lista "
 
 #: app/Services/Funnel/Actions/ApplyListAction.php:34
 msgid "Apply List to the contact"
-msgstr " Aplicar Lista ao contato "
+msgstr " Aplicar lista ao contato "
 
 #: app/Services/Funnel/Actions/ApplyTagAction.php:22
 msgid "Apply Tag"
-msgstr " Aplicar Etiqueta "
+msgstr " Aplicar etiqueta "
 
 #: app/Services/Funnel/Actions/ApplyTagAction.php:34
 msgid "Apply Tag to the contact"
-msgstr " Aplicar Etiqueta ao contato "
+msgstr " Aplicar tag ao contato "
 
 #: app/Hooks/Handlers/CountryNames.php:65
 msgid "Argentina"
@@ -669,7 +669,7 @@ msgstr " Camarões "
 
 #: app/Services/Helper.php:1067
 msgid "Campaign Email -"
-msgstr " E-mail da campanha - "
+msgstr " Email da campanha - "
 
 #: app/Http/Controllers/CampaignController.php:1197
 msgid "Campaign has been successfully duplicated"
@@ -831,7 +831,7 @@ msgstr " Descrição da empresa "
 
 #: app/Models/Company.php:58
 msgid "Company Email"
-msgstr " E-mail da empresa "
+msgstr " Email da empresa "
 
 #: app/Http/Controllers/CompanyController.php:232
 msgid "Company has been created successfully"
@@ -963,7 +963,7 @@ msgstr ""
 
 #: app/Services/Helper.php:164
 msgid "Contact Email"
-msgstr " E-mail de contato "
+msgstr " Email de contato "
 
 #: app/Services/Funnel/Triggers/FluentFormSubmissionTrigger.php:85
 msgid "Contact Field (CRM)"
@@ -1098,12 +1098,12 @@ msgstr " Criar uma automação "
 #: app/Hooks/Handlers/AdminMenu.php:376
 msgid "Create email templates to use as a starting point in your emails"
 msgstr ""
-" Crie modelos de e-mail para usar como ponto de partida em seus e-mails "
+" Criar modelos de Email para usar como ponto de partida em seus Emails "
 
 #: app/Hooks/Handlers/AdminMenu.php:370
 msgid "Create Multiple Emails and Send in order as a Drip Email Campaign"
 msgstr ""
-" Criar vários e-mails e enviar em ordem como uma campanha de e-mail de "
+" Criar vários Emails e enviar em ordem como uma campanha de Email de "
 "gotejamento "
 
 #: app/Services/Helper.php:984
@@ -1123,7 +1123,7 @@ msgstr " CRM "
 
 #. Description of the plugin
 msgid "CRM and Email Newsletter Plugin for WordPress"
-msgstr " Plugin de CRM e boletim informativo por e-mail para WordPress "
+msgstr " Plugin de CRM e boletim informativo por Email para WordPress "
 
 #: app/Services/PermissionManager.php:11
 msgid "CRM Dashboard"
@@ -1155,19 +1155,19 @@ msgstr " Formato de data personalizado (qualquer formato de data PHP) "
 
 #: app/Models/CustomEmailCampaign.php:26
 msgid "Custom Email"
-msgstr " E-mail personalizado "
+msgstr " Email personalizado "
 
 #: app/Services/Funnel/Actions/SendEmailAction.php:75
 msgid "Custom Email Addresses"
-msgstr " Endereços de e-mail personalizados "
+msgstr " Endereços de Email personalizados "
 
 #: app/Http/Controllers/SubscriberController.php:815
 msgid "Custom Email has been successfully sent"
-msgstr " O e-mail personalizado foi enviado com sucesso "
+msgstr " O Email personalizado foi enviado com sucesso "
 
 #: app/Http/Controllers/SubscriberController.php:779
 msgid "Custom Email to Contact"
-msgstr " E-mail personalizado para o contato "
+msgstr " Email personalizado para o contato "
 
 #: app/Services/Helper.php:196 app/Services/Helper.php:1200
 msgid "Custom Fields"
@@ -1314,7 +1314,7 @@ msgstr " As configurações de Double Opt-in foram atualizadas "
 
 #: app/Http/Controllers/SubscriberController.php:772
 msgid "Double OptIn email has been sent"
-msgstr " O e-mail Double OptIn foi enviado "
+msgstr " O Email Double OptIn foi enviado "
 
 #: app/Http/Controllers/SubscriberController.php:940
 msgid "Double optin sent to selected contacts"
@@ -1322,7 +1322,7 @@ msgstr " Double optin enviado para contatos selecionados "
 
 #: app/Http/Controllers/SettingsController.php:120
 msgid "Double-Optin Email Body"
-msgstr " Corpo de e-mail de dupla opção "
+msgstr " Corpo de Email de dupla opção "
 
 #: app/Services/CrmMigrator/DripMigrator.php:37
 msgid "Drip Account ID"
@@ -1354,7 +1354,7 @@ msgstr " EDD "
 
 #: app/Services/Helper.php:459
 msgid "EDD Purchase History"
-msgstr " Histórico de compras do EDD "
+msgstr " Histórico de compras de EDD "
 
 #: app/Hooks/Handlers/CountryNames.php:285
 msgid "Egypt"
@@ -1366,11 +1366,11 @@ msgstr " El Salvador "
 
 #: app/Http/Controllers/SettingsController.php:363
 msgid "Elastic Email"
-msgstr " E-mail da Elastic "
+msgstr " Email da Elastic "
 
 #: app/Http/Controllers/SettingsController.php:366
 msgid "Elastic Email Bounce Handler Webhook URL"
-msgstr " URL do webhook do manipulador de rejeição de e-mail da Elastic "
+msgstr " URL do webhook do manipulador de rejeição de Email da Elastic "
 
 #: app/Models/Subscriber.php:723 app/Functions/helpers.php:613
 #: app/Services/Helper.php:914 app/Hooks/Handlers/PrefFormHandler.php:45
@@ -1378,120 +1378,119 @@ msgstr " URL do webhook do manipulador de rejeição de e-mail da Elastic "
 #: app/Services/Funnel/FunnelHelper.php:138
 #: app/Services/Funnel/Actions/SendEmailAction.php:27
 msgid "Email"
-msgstr " E-mail "
+msgstr " Email "
 
 #: app/Services/ExternalIntegrations/FluentForm/Bootstrap.php:142
 msgid "Email Address"
-msgstr " Endereço de e-mail "
+msgstr " Endereço de Email "
 
 #: app/Services/CrmMigrator/MailerLiteMigrator.php:22
 #: app/Services/CrmMigrator/ConvertKitMigrator.php:22
 msgid "Email Address and First name will be mapped automatically"
-msgstr ""
-" O endereço de e-mail e o primeiro nome serão mapeados automaticamente "
+msgstr " O endereço de Email e o primeiro nome serão mapeados automaticamente "
 
 #: app/Services/CrmMigrator/ActiveCampaignMigrator.php:27
 #: app/Services/CrmMigrator/DripMigrator.php:26
 msgid "Email and main contact fields will be mapped automatically"
 msgstr ""
-" Os campos de e-mail e contato principal serão mapeados automaticamente "
+" Os campos de Email e contato principal serão mapeados automaticamente "
 
 #: app/Http/Controllers/SettingsController.php:121
 msgid "Email Body"
-msgstr " Corpo do e-mail "
+msgstr " Corpo do Email "
 
 #: app/Http/Controllers/SettingsController.php:218
 msgid "Email Body is required"
-msgstr " O corpo do e-mail é obrigatório "
+msgstr " O corpo do Email é obrigatório "
 
 #: app/Http/Controllers/SettingsController.php:230
 msgid "Email Body need to contains activation link"
-msgstr " O corpo do e-mail precisa conter o link de ativação "
+msgstr " O corpo do Email precisa conter o link de ativação "
 
 #: app/Services/Stats.php:92
 msgid "Email Campaigns"
-msgstr " Campanhas de e-mail "
+msgstr " Campanhas de Email "
 
 #: app/Http/Controllers/SettingsController.php:555
 #: app/Http/Controllers/SettingsController.php:564
 msgid "Email clicks"
-msgstr " Cliques em e-mails "
+msgstr " Cliques em Emails "
 
 #: app/views/external/confirmation.php:8
 msgid "Email Confirmation"
-msgstr " Confirmação por e-mail "
+msgstr " Confirmação por Email "
 
 #: app/Http/Controllers/SettingsController.php:128
 msgid "Email Design Template for this double-optin email"
-msgstr " Modelo de design de e-mail para este e-mail de duplo opt-in "
+msgstr " Modelo de design de Email para este Email de duplo opt-in "
 
 #: app/Http/Controllers/SettingsController.php:546
 msgid "Email History Logs"
-msgstr " Registros do histórico de e-mail "
+msgstr " Registros do histórico de Email "
 
 #: app/Hooks/Handlers/ExternalPages.php:1021
 msgid "Email is not valid. Please provide a valid email"
-msgstr " O e-mail não é válido. Forneça um e-mail válido "
+msgstr " O Email não é válido. Forneça um Email válido "
 
 #: app/views/external/manage_subscription_request_form.php:43
 #: app/views/external/unsubscribe_request_form.php:43
 msgid "Email me the link"
-msgstr " Envie-me o link por e-mail "
+msgstr " Envie-me o link por Email "
 
 #: app/Http/Controllers/SettingsController.php:115
 msgid "Email Pre Header"
-msgstr " Pré-cabeçalho de e-mail "
+msgstr " Pré-cabeçalho de Email "
 
 #: app/Services/Libs/Parser/ShortcodeParser.php:239
 msgid "Email Preference"
-msgstr " Preferência de e-mail "
+msgstr " Preferência de Email "
 
 #: app/Http/Controllers/CampaignController.php:522
 msgid "Email Sending will be started soon"
-msgstr " O envio de e-mails será iniciado em breve "
+msgstr " O envio de Emails será iniciado em breve "
 
 #: app/Models/FunnelCampaign.php:91
 msgid "Email Sent From Funnel"
-msgstr " E-mail enviado do funil "
+msgstr " Email enviado do funil "
 
 #: app/Services/Funnel/Actions/SendEmailAction.php:238
 msgid "Email Sent From Funnel: "
-msgstr " E-mail enviado do funil:  "
+msgstr " Email enviado do funil:  "
 
 #: app/Services/Helper.php:1103
 msgid "Email Sequence Activity -"
-msgstr " Atividade de sequência de e-mail - "
+msgstr " Atividade de sequência de Email - "
 
 #: app/Services/Stats.php:97 app/Hooks/Handlers/AdminMenu.php:136
 #: app/Hooks/Handlers/AdminMenu.php:137 app/Hooks/Handlers/AdminMenu.php:368
 msgid "Email Sequences"
-msgstr " Sequências de e-mail "
+msgstr " Sequências de Email "
 
 #: app/Http/Controllers/SettingsController.php:109
 msgid "Email Subject"
-msgstr " Assunto do e-mail "
+msgstr " Assunto do Email "
 
 #: app/Http/Controllers/SettingsController.php:217
 msgid "Email Subject is required"
-msgstr " O assunto do e-mail é obrigatório "
+msgstr " O assunto do Email é obrigatório "
 
 #: app/Services/Stats.php:46 app/Hooks/Handlers/AdminMenu.php:145
 #: app/Hooks/Handlers/AdminMenu.php:146 app/Hooks/Handlers/AdminMenu.php:374
 msgid "Email Templates"
-msgstr " Modelos de e-mail "
+msgstr " Modelos de Email "
 
 #: app/Services/PermissionManager.php:68
 msgid "Email Templates Manage"
-msgstr " Gerenciamento de modelos de e-mail "
+msgstr " Gerenciamento de modelos de Email "
 
 #: app/Services/Helper.php:110 app/Hooks/Handlers/AdminMenu.php:348
 #: app/Hooks/Handlers/AdminMenu.php:1247 app/Hooks/Handlers/AdminMenu.php:1248
 msgid "Emails"
-msgstr " E-mails "
+msgstr " Emails "
 
 #: app/Services/PermissionManager.php:73
 msgid "Emails Delete"
-msgstr " Excluir e-mails "
+msgstr " Excluir Emails "
 
 #: app/Services/PermissionManager.php:56
 msgid "Emails Read"
@@ -1499,11 +1498,11 @@ msgstr " Emails lidos "
 
 #: app/Services/Stats.php:32
 msgid "Emails Sent"
-msgstr " E-mails enviados "
+msgstr " Emails enviados "
 
 #: app/Services/PermissionManager.php:61
 msgid "Emails Write/Send"
-msgstr " Escrever/enviar e-mails "
+msgstr " Escrever/enviar Emails "
 
 #: app/Models/Company.php:66
 msgid "Employees Number"
@@ -1543,7 +1542,7 @@ msgstr " Habilite o Double opt-in para novos contatos "
 #: app/Services/AutoSubscribe.php:69 app/Services/AutoSubscribe.php:179
 #: app/Services/AutoSubscribe.php:337
 msgid "Enable Double-Optin Email Confirmation"
-msgstr " Ativar a confirmação por e-mail do Double-Optin "
+msgstr " Ativar a confirmação por Email do Double-Optin "
 
 #: app/Services/ExternalIntegrations/FluentForm/Bootstrap.php:183
 msgid "Enable Dynamic Tag Selection"
@@ -1692,7 +1691,7 @@ msgstr " Fiji "
 #: app/Hooks/Handlers/AdminMenu.php:382
 msgid "Find all the emails that are being sent or scheduled by FluentCRM"
 msgstr ""
-" Encontre todos os e-mails que estão sendo enviados ou programados pelo "
+" Encontre todos os Emails que estão sendo enviados ou programados pelo "
 "FluentCRM "
 
 #: app/Hooks/Handlers/CountryNames.php:321
@@ -1743,7 +1742,7 @@ msgstr " O Fluent Forms foi instalado e ativado "
 
 #: app/Http/Controllers/DocsController.php:71
 msgid "Fluent SMTP"
-msgstr "Fluent SMTP"
+msgstr "Fluent Forms"
 
 #: app/Http/Controllers/SetupController.php:112
 #: app/Http/Controllers/DocsController.php:80
@@ -1780,7 +1779,7 @@ msgstr " FluentCRM - Assistente de configuração "
 #: app/Services/ExternalIntegrations/FluentForm/Bootstrap.php:354
 msgid "FluentCRM API called skipped because no valid email available"
 msgstr ""
-" Chamada da API do FluentCRM ignorada porque não há e-mail válido disponível "
+" Chamada da API do FluentCRM ignorada porque não há Email válido disponível "
 
 #: app/Hooks/Handlers/Cleanup.php:168
 msgid "FluentCRM Data"
@@ -1944,11 +1943,11 @@ msgstr " Alemanha "
 
 #: app/views/external/manage_subscription_request_form.php:32
 msgid "Get Email Subscription Management Link"
-msgstr " Obter link de gerenciamento de assinatura de e-mail "
+msgstr " Obter link de gerenciamento de assinatura de Email "
 
 #: app/Hooks/Handlers/AdminMenu.php:425
 msgid "Get Pro"
-msgstr " Obter um profissional "
+msgstr " Obter Pro"
 
 #: fluent-crm.php:45
 msgid "Get Support"
@@ -2046,11 +2045,11 @@ msgstr " Hungria "
 
 #: app/Hooks/Handlers/ExternalPages.php:488
 msgid "I never signed up for this email list"
-msgstr " Nunca me inscrevi nessa lista de e-mails "
+msgstr " Nunca me inscrevi nessa lista de Emails "
 
 #: app/Hooks/Handlers/ExternalPages.php:487
 msgid "I no longer want to receive these emails"
-msgstr " Não quero mais receber esses e-mails "
+msgstr " Não quero mais receber esses Emails "
 
 #: app/Hooks/Handlers/CountryNames.php:425
 msgid "Iceland"
@@ -2085,7 +2084,7 @@ msgstr ""
 msgid ""
 "If schedule date is past in the runtime then email will be sent immediately"
 msgstr ""
-" Se a data do agendamento for ultrapassada no tempo de execução, o e-mail "
+" Se a data do agendamento for ultrapassada no tempo de execução, o Email "
 "será enviado imediatamente "
 
 #: app/Services/ExternalIntegrations/FluentForm/Bootstrap.php:244
@@ -2101,7 +2100,7 @@ msgid ""
 "If you enable this then contact will forcefully subscribed no matter in "
 "which status that contact had"
 msgstr ""
-" Se você ativar essa opção, o contato será assinado à força, "
+" Se você ativar essa opção, o contato será inscrito à força, "
 "independentemente do status em que se encontrava "
 
 #: app/Services/Funnel/Triggers/FluentFormSubmissionTrigger.php:181
@@ -2129,8 +2128,8 @@ msgid ""
 "feature"
 msgstr ""
 " Importar %s membros por grupos de membros e tipos de membros e, em seguida, "
-"segmentar por tags associadas. Esse é um recurso profissional. Faça upgrade "
-"para ativar esse recurso "
+"segmentar por tags associadas. Esse é um recurso Pro. Faça upgrade para "
+"ativar esse recurso "
 
 #: app/Services/Stats.php:166
 msgid "Import Contacts"
@@ -2142,8 +2141,8 @@ msgid ""
 "tags. This is a pro feature. Please upgrade to activate this feature"
 msgstr ""
 " Importar alunos do LearnDash por curso e grupos e, em seguida, segmentar "
-"por tags associadas. Esse é um recurso profissional. Faça upgrade para "
-"ativar esse recurso "
+"por tags associadas. Esse é um recurso Pro. Faça upgrade para ativar esse "
+"recurso "
 
 #: app/Http/Controllers/ImporterController.php:309
 msgid ""
@@ -2151,8 +2150,7 @@ msgid ""
 "a pro feature. Please upgrade to activate this feature"
 msgstr ""
 " Importar alunos do LearnPress por curso e depois segmentar por tags "
-"associadas. Esse é um recurso profissional. Faça upgrade para ativar esse "
-"recurso "
+"associadas. Esse é um recurso Pro. Faça upgrade para ativar esse recurso "
 
 #: app/Http/Controllers/ImporterController.php:237
 msgid ""
@@ -2160,8 +2158,8 @@ msgid ""
 "tags. This is a pro feature. Please upgrade to activate this feature"
 msgstr ""
 " Importar alunos do LifterLMS por curso e grupos e, em seguida, segmentar "
-"por tags associadas. Esse é um recurso profissional. Faça upgrade para "
-"ativar esse recurso "
+"por tags associadas. Esse é um recurso Pro. Faça upgrade para ativar esse "
+"recurso "
 
 #: app/Http/Controllers/ImporterController.php:264
 msgid ""
@@ -2170,8 +2168,8 @@ msgid ""
 "feature"
 msgstr ""
 " Importar membros do Paid Membership Pro por níveis de associação e, em "
-"seguida, segmentar por tags de associado. Esse é um recurso profissional. "
-"Faça upgrade para ativar esse recurso "
+"seguida, segmentar por tags de associados. Esse é um recurso Pro. Faça "
+"upgrade para ativar esse recurso "
 
 #: app/Http/Controllers/ImporterController.php:282
 msgid ""
@@ -2180,8 +2178,8 @@ msgid ""
 "feature"
 msgstr ""
 " Importar membros do Restrict Content Pro por níveis de associação e, em "
-"seguida, segmentar por tags de associados. Esse é um recurso profissional. "
-"Faça upgrade para ativar esse recurso "
+"seguida, segmentar por tags de associados. Esse é um recurso Pro. Faça "
+"upgrade para ativar esse recurso "
 
 #: app/Http/Controllers/ImporterController.php:255
 msgid ""
@@ -2189,8 +2187,7 @@ msgid ""
 "pro feature. Please upgrade to activate this feature"
 msgstr ""
 " Importar alunos do TutorLMS por curso e depois segmentar por tags "
-"associadas. Esse é um recurso profissional. Faça upgrade para ativar esse "
-"recurso "
+"associadas. Esse é um recurso Pro. Faça upgrade para ativar esse recurso "
 
 #: app/Http/Controllers/ImporterController.php:158
 msgid "Import Users Now"
@@ -2202,8 +2199,8 @@ msgid ""
 "This is a pro feature. Please upgrade to activate this feature"
 msgstr ""
 " Importar membros da lista de desejos por níveis de associação e, em seguida,"
-" segmentar por tags de associados. Esse é um recurso profissional. Faça "
-"upgrade para ativar esse recurso "
+" segmentar por tags de associados. Esse é um recurso Pro. Faça upgrade para "
+"ativar esse recurso "
 
 #: app/Services/CrmMigrator/MailerLiteMigrator.php:271
 #: app/Services/CrmMigrator/ConvertKitMigrator.php:257
@@ -2283,7 +2280,7 @@ msgstr " Dados ou código de segurança inválidos "
 
 #: app/Http/Controllers/SubscriberController.php:953
 msgid "Invalid Email Sequence ID"
-msgstr " ID de sequência de e-mail inválida "
+msgstr " ID de sequência de Email inválida "
 
 #: app/Http/Controllers/CampaignController.php:501
 msgid "Invalid schedule date"
@@ -2376,7 +2373,7 @@ msgstr " Cazaquistão "
 
 #: app/Services/Helper.php:1875
 msgid "keep blank for current time"
-msgstr " manter em branco a hora atual "
+msgstr " manter em branco para a hora atual "
 
 #: app/Hooks/Handlers/CountryNames.php:485
 msgid "Kenya"
@@ -2416,15 +2413,15 @@ msgstr " Última atividade "
 
 #: app/Services/Helper.php:1062
 msgid "Last Email Clicked"
-msgstr " Último e-mail clicado "
+msgstr " Último Email clicado "
 
 #: app/Services/Helper.php:1056
 msgid "Last Email Open"
-msgstr " Último e-mail aberto "
+msgstr " Último Email aberto "
 
 #: app/Services/Helper.php:1051
 msgid "Last Email Sent"
-msgstr " Último e-mail enviado "
+msgstr " Último Email enviado "
 
 #: app/Services/Helper.php:1376 app/Services/Helper.php:1433
 msgid "Last Enrollment Date (Pro Required)"
@@ -2548,7 +2545,7 @@ msgid ""
 "unsubscribe link via email."
 msgstr ""
 " Parece que não foi possível determinar suas informações. Preencha o "
-"formulário e receba o link de cancelamento da assinatura por e-mail. "
+"formulário e receba o link de cancelamento da assinatura por Email. "
 
 #: app/views/external/manage_subscription_request_form.php:33
 msgid ""
@@ -2556,7 +2553,7 @@ msgid ""
 "your email subscription form link via email."
 msgstr ""
 " Parece que não foi possível determinar suas informações. Preencha o "
-"formulário e receba o link do formulário de assinatura por e-mail. "
+"formulário e receba o link do formulário de assinatura por Email. "
 
 #: app/Hooks/Handlers/ExternalPages.php:398
 msgid "Looks like you are already unsubscribed"
@@ -2958,11 +2955,11 @@ msgstr " Taxa de abertura (%d) "
 
 #: app/Http/Controllers/SettingsController.php:114
 msgid "Optin Email Pre Header"
-msgstr " Pré-cabeçalho de e-mail Optin "
+msgstr " Pré-cabeçalho de Email Optin "
 
 #: app/Http/Controllers/SettingsController.php:108
 msgid "Optin Email Subject"
-msgstr " Assunto do e-mail de opt-in "
+msgstr " Assunto do Email de opt-in "
 
 #: app/views/external/manage_subscription_form.php:39
 msgid "or"
@@ -2987,7 +2984,7 @@ msgstr " Visão geral "
 
 #: app/Models/Company.php:52
 msgid "Owner Email"
-msgstr " E-mail do proprietário "
+msgstr " Email do proprietário "
 
 #: app/Models/Company.php:53
 msgid "Owner Name"
@@ -3040,7 +3037,7 @@ msgstr " Pendente "
 
 #: app/Services/Stats.php:65
 msgid "Pending Emails"
-msgstr " E-mails pendentes "
+msgstr " Emails pendentes "
 
 #: app/Http/Controllers/SettingsController.php:335
 msgid "PepiPost"
@@ -3177,7 +3174,7 @@ msgstr ""
 #: app/Hooks/Handlers/ExternalPages.php:384
 #: app/Hooks/Handlers/ExternalPages.php:438
 msgid "Please provide a valid email address"
-msgstr " Forneça um endereço de e-mail válido "
+msgstr " Forneça um endereço de Email válido "
 
 #: app/Http/Controllers/SubscriberController.php:1210
 msgid "Please provide bulk options"
@@ -3189,11 +3186,11 @@ msgstr " Forneça os IDs das campanhas "
 
 #: app/Http/Controllers/SettingsController.php:134
 msgid "Please provide details after a contact confirm double option from email"
-msgstr " Forneça detalhes após um contato confirmar a opção dupla do e-mail "
+msgstr " Forneça detalhes após um contato confirmar a opção dupla do Email "
 
 #: app/Services/Funnel/Actions/SendEmailAction.php:54
 msgid "Please provide email details that you want to send"
-msgstr " Forneça os detalhes do e-mail que você deseja enviar "
+msgstr " Forneça os detalhes do Email que você deseja enviar "
 
 #: app/Http/Controllers/FunnelController.php:476
 msgid "Please provide funnel IDs"
@@ -3289,7 +3286,7 @@ msgstr " Campos primários "
 
 #: app/views/admin/menu_page.php:15
 msgid "Pro"
-msgstr " Profissional "
+msgstr "Pro"
 
 #: app/Http/Controllers/UsersController.php:79 app/Hooks/CLI/Commands.php:136
 msgid "Processing"
@@ -3297,12 +3294,12 @@ msgstr " Processamento "
 
 #: app/Http/Controllers/SettingsController.php:122
 msgid "Provide Email Body for the double-optin"
-msgstr " Fornecer corpo de e-mail para a dupla optin "
+msgstr " Fornecer corpo de Email para a dupla optin "
 
 #: app/Http/Controllers/SubscriberController.php:292
 #: app/Http/Controllers/SubscriberController.php:373
 msgid "Provided email already assigned to another subscriber."
-msgstr " E-mail fornecido já atribuído a outro assinante. "
+msgstr " Email fornecido já atribuído a outro assinante. "
 
 #: app/Http/Controllers/ListsController.php:199
 msgid "Provided Lists have been successfully created"
@@ -3536,7 +3533,7 @@ msgstr " Data e hora da programação "
 
 #: app/Services/Funnel/Actions/SendEmailAction.php:90
 msgid "Schedule this email to a specific date"
-msgstr " Agendar esse e-mail para uma data específica "
+msgstr " Agendar esse Email para uma data específica "
 
 #: app/Http/Controllers/SettingsController.php:491
 #: app/Http/Controllers/SettingsController.php:513
@@ -3546,19 +3543,19 @@ msgstr " Tarefas de automação programadas "
 #: app/Http/Controllers/SettingsController.php:482
 #: app/Http/Controllers/SettingsController.php:514
 msgid "Scheduled Email Processing"
-msgstr " Processamento de e-mail programado "
+msgstr " Processamento de Email programado "
 
 #: app/Http/Controllers/SettingsController.php:512
 msgid "Scheduled Email Sending"
-msgstr " Envio programado de e-mails "
+msgstr " Envio programado de Emails "
 
 #: app/Http/Controllers/SettingsController.php:473
 msgid "Scheduled Email Sending Tasks"
-msgstr " Tarefas de envio de e-mail programado "
+msgstr " Tarefas de envio de Email programado "
 
 #: app/Hooks/CLI/Commands.php:50
 msgid "Scheduled Emails"
-msgstr " E-mails programados "
+msgstr " Emails programados "
 
 #: app/Hooks/Handlers/AdminBar.php:72 app/Hooks/Handlers/AdminBar.php:84
 msgid "Search Contacts"
@@ -3684,7 +3681,7 @@ msgstr " Selecione as Tags que você deseja remover do contato-alvo "
 #: app/Services/ExternalIntegrations/FluentForm/Bootstrap.php:126
 msgid "Select the FluentCRM List you would like to add your contacts to."
 msgstr ""
-" Selecione a lista do FluentCRM à qual deseja adicionar seus contatos. "
+" Selecione a lista do FluentCRM à qual gostaria de adicionar seus contatos. "
 
 #: app/Services/AutoSubscribe.php:132
 msgid ""
@@ -3789,12 +3786,12 @@ msgstr " O evento CRON selecionado foi executado com sucesso "
 
 #: app/Http/Controllers/CampaignController.php:434
 msgid "Selected emails are deleted"
-msgstr " Os e-mails selecionados são excluídos "
+msgstr " Os Emails selecionados são excluídos "
 
 #: app/Http/Controllers/ReportingController.php:90
 #: app/Http/Controllers/SubscriberController.php:579
 msgid "Selected emails has been deleted"
-msgstr " Os e-mails selecionados foram excluídos "
+msgstr " Os Emails selecionados foram excluídos "
 
 #: app/Http/Controllers/FunnelController.php:522
 msgid "Selected Funnels has been deleted permanently"
@@ -3827,7 +3824,7 @@ msgstr " Os modelos selecionados foram excluídos permanentemente "
 #: app/Services/Funnel/Actions/SendEmailAction.php:29
 msgid "Send a custom Email to your subscriber or custom email address"
 msgstr ""
-" Envie um e-mail personalizado para seu assinante ou endereço de e-mail "
+" Envie um Email personalizado para seu assinante ou endereço de Email "
 "personalizado "
 
 #: app/Hooks/Handlers/AdminMenu.php:364
@@ -3835,13 +3832,13 @@ msgid ""
 "Send automated daily or weekly emails of your dynamic data like new blog "
 "posts"
 msgstr ""
-" Envie e-mails automáticos diários ou semanais com seus dados dinâmicos, "
-"como novas postagens de blog "
+" Envie Emails automáticos diários ou semanais com seus dados dinâmicos, como "
+"novas postagens de blog "
 
 #: app/Services/Funnel/Actions/SendEmailAction.php:28
 #: app/Services/Funnel/Actions/SendEmailAction.php:53
 msgid "Send Custom Email"
-msgstr " Enviar e-mail personalizado "
+msgstr " Enviar Email personalizado "
 
 #: app/Hooks/Handlers/AdminMenu.php:358
 msgid ""
@@ -3852,19 +3849,19 @@ msgstr ""
 
 #: app/Services/Funnel/Actions/SendEmailAction.php:59
 msgid "Send Email to"
-msgstr " Enviar e-mail para "
+msgstr " Enviar Email para "
 
 #: app/Hooks/CLI/Commands.php:46
 msgid "Send Emails"
-msgstr " Enviar e-mails "
+msgstr " Enviar Emails "
 
 #: app/Services/Funnel/Actions/SendEmailAction.php:67
 msgid "Send to Custom Email Address"
-msgstr " Enviar para endereço de e-mail personalizado "
+msgstr " Enviar para endereço de Email personalizado "
 
 #: app/Services/Funnel/Actions/SendEmailAction.php:74
 msgid "Send To Email Addresses (If Custom)"
-msgstr " Enviar para endereços de e-mail (se personalizado) "
+msgstr " Enviar para endereços de Email (se personalizado) "
 
 #: app/Services/Funnel/Actions/SendEmailAction.php:63
 msgid "Send To the contact"
@@ -3900,7 +3897,7 @@ msgstr ""
 
 #: app/Services/Funnel/Actions/SendEmailAction.php:117
 msgid "Set Custom From Name and Email"
-msgstr " Definir nome e e-mail personalizados de remetente "
+msgstr " Definir nome e Email personalizados de remetente "
 
 #: app/Services/ExternalIntegrations/FluentForm/Bootstrap.php:55
 msgid "Set FluentCRM"
@@ -3973,7 +3970,7 @@ msgstr ""
 
 #: app/Services/Funnel/Actions/SendEmailAction.php:96
 msgid "Skip sending email if date is overdued"
-msgstr " Ignorar o envio de e-mail se a data estiver atrasada "
+msgstr " Ignorar o envio de Email se a data estiver atrasada "
 
 #: app/Services/Funnel/FunnelHelper.php:35
 msgid "Skip this automation if contact already exist"
@@ -4038,7 +4035,7 @@ msgstr " Desculpe! Nenhum assinante encontrado com base em sua seleção "
 #: app/Hooks/Handlers/ExternalPages.php:392
 #: app/Hooks/Handlers/ExternalPages.php:446
 msgid "Sorry! We could not verify your email address"
-msgstr " Desculpe! Não foi possível verificar seu endereço de e-mail "
+msgstr " Desculpe! Não foi possível verificar seu endereço de Email "
 
 #: app/Http/Controllers/SetupController.php:65
 #: app/Http/Controllers/SetupController.php:83
@@ -4052,7 +4049,7 @@ msgstr " Desculpe! Sua url de confirmação não é válida "
 
 #: app/Hooks/Handlers/ExternalPages.php:508
 msgid "Sorry, No email found based on your data"
-msgstr " Desculpe, nenhum e-mail foi encontrado com base em seus dados "
+msgstr " Desculpe, nenhum Email foi encontrado com base em seus dados "
 
 #: app/Http/Controllers/CampaignController.php:353
 #: app/Http/Controllers/CampaignController.php:381
@@ -4216,7 +4213,7 @@ msgstr " Assinante atualizado com sucesso "
 #: app/Hooks/Handlers/ExternalPages.php:575
 #, php-format
 msgid "Subscriber unsubscribed from IP Address: %1s <br />Reason: %2s"
-msgstr "Assinante cancelou a inscrição - IP: %1s <br />Motivo: %2s"
+msgstr "Assinante cancelou a inscrição do endereço IP: %1s <br />Motivo: %2s"
 
 #: app/Http/Controllers/SubscriberController.php:790
 msgid "Subscriber's status need to be subscribed."
@@ -4292,7 +4289,7 @@ msgstr " A tag foi salva com sucesso. "
 
 #: app/Http/Controllers/TagsController.php:203
 msgid "Successfully saved the tags."
-msgstr " Salvou as tags com sucesso. "
+msgstr " As tags foram salvas com sucesso. "
 
 #: app/Http/Controllers/SubscriberController.php:273
 msgid "Successfully updated the "
@@ -4336,7 +4333,7 @@ msgstr " Suíça "
 
 #: app/Http/Controllers/FunnelController.php:854
 msgid "Synced successfully"
-msgstr " Sincronizado com sucesso "
+msgstr " Sincronização bem-sucedida "
 
 #: app/Hooks/Handlers/CountryNames.php:885
 msgid "Syria"
@@ -4405,7 +4402,7 @@ msgstr " Modelo atualizado com sucesso "
 
 #: app/Http/Controllers/CampaignController.php:727
 msgid "Test email successfully sent to "
-msgstr " E-mail de teste enviado com sucesso para  "
+msgstr " Email de teste enviado com sucesso para  "
 
 #: app/Hooks/Handlers/CountryNames.php:901
 msgid "Thailand"
@@ -4438,11 +4435,11 @@ msgstr ""
 
 #: app/Hooks/Handlers/ExternalPages.php:489
 msgid "The emails are inappropriate"
-msgstr " Os e-mails são inadequados "
+msgstr " Os Emails são inadequados "
 
 #: app/Hooks/Handlers/ExternalPages.php:490
 msgid "The emails are spam"
-msgstr " Os e-mails são spam "
+msgstr " Os Emails são spam "
 
 #: app/Http/Controllers/CsvController.php:44
 msgid "The file must be a valid CSV."
@@ -4453,8 +4450,8 @@ msgid ""
 "The new email has been used to another account. Please use a new email "
 "address"
 msgstr ""
-" O novo e-mail foi usado em outra conta. Por favor, use um novo endereço de "
-"e-mail "
+" O novo Email foi usado em outra conta. Por favor, use um novo endereço de "
+"Email "
 
 #: app/Http/Controllers/SettingsController.php:519
 msgid "The provided hook name is not valid"
@@ -4725,7 +4722,7 @@ msgstr " Cancelamento da inscrição "
 
 #: app/Services/Funnel/FunnelHelper.php:31
 msgid "Update if Exist"
-msgstr " Atualizar se houver "
+msgstr " Atualizar se existir "
 
 #: app/Hooks/Handlers/PrefFormHandler.php:54
 #: app/Hooks/Handlers/PrefFormHandler.php:124
@@ -4890,7 +4887,7 @@ msgstr " Esperar até a data "
 #: app/Services/Funnel/Actions/WaitTimeAction.php:23
 #: app/Services/Funnel/Actions/WaitTimeAction.php:72
 msgid "Wait X Days/Hours"
-msgstr " Aguardar X dias/horas "
+msgstr " Esperar X dias/horas "
 
 #: app/Hooks/Handlers/CountryNames.php:1001
 msgid "Wallis and Futuna"
@@ -4905,17 +4902,17 @@ msgid ""
 "We've sent an email to your inbox that contains a link to email management "
 "from. Please check your email address to get the link."
 msgstr ""
-" Enviamos um e-mail para sua caixa de entrada que contém um link para o "
-"gerenciamento de e-mail. Verifique seu endereço de e-mail para obter o link. "
+" Enviamos um Email para sua caixa de entrada que contém um link para o "
+"gerenciamento de Email. Verifique seu endereço de Email para obter o link. "
 
 #: app/Hooks/Handlers/ExternalPages.php:427
 msgid ""
 "We've sent an email to your inbox that contains a link to unsubscribe from "
 "our mailing list. Please check your email address and unsubscribe."
 msgstr ""
-" Enviamos um e-mail para sua caixa de entrada que contém um link para "
+" Enviamos um Email para sua caixa de entrada que contém um link para "
 "cancelar a inscrição em nossa lista de correspondência. Verifique seu "
-"endereço de e-mail e cancele sua inscrição. "
+"endereço de Email e cancele sua inscrição. "
 
 #: app/Hooks/Handlers/ExternalPages.php:748
 msgid "Webhook must need to be as POST Method"
@@ -4955,7 +4952,7 @@ msgid ""
 "support and manage customer queries right from your WordPress dashboard."
 msgstr ""
 " Plugin de Helpdesk e Ticket de Suporte ao Cliente para WordPress. Ofereça "
-"um suporte incrível e gerencie as consultas dos clientes diretamente do seu "
+"um suporte incrível e gerencie as consultas dos clientes diretamente do "
 "painel do WordPress. "
 
 #: app/Services/Funnel/Triggers/UserRegistrationTrigger.php:22
@@ -4968,7 +4965,7 @@ msgstr " Usuários do WordPress "
 
 #. Author of the plugin
 msgid "WP Email Newsletter Team - FluentCRM"
-msgstr " Equipe do boletim informativo por e-mail do WP - FluentCRM "
+msgstr " Equipe do boletim informativo por Email do WP - FluentCRM "
 
 #: app/Services/Helper.php:957
 msgid "WP User ID"
@@ -4992,12 +4989,12 @@ msgstr " Sim "
 
 #: app/Http/Controllers/FormsController.php:186
 msgid "You are successfully subscribed to our email list"
-msgstr " Você se inscreveu com sucesso em nossa lista de e-mails "
+msgstr " Você se inscreveu com sucesso em nossa lista de Emails "
 
 #: app/Hooks/Handlers/ExternalPages.php:288
 #: app/Hooks/Handlers/ExternalPages.php:578
 msgid "You are successfully unsubscribed from the email list"
-msgstr " Sua inscrição na lista de e-mails foi cancelada com sucesso "
+msgstr " Sua inscrição na lista de Emails foi cancelada com sucesso "
 
 #: app/Services/CrmMigrator/ActiveCampaignMigrator.php:41
 msgid "You can find Account ID Settings -> Developer -> API Access"
@@ -5072,26 +5069,26 @@ msgstr ""
 
 #: app/Http/Controllers/CampaignController.php:517
 msgid "Your campaign email has been scheduled"
-msgstr " Seu e-mail de campanha foi agendado "
+msgstr " Seu Email de campanha foi agendado "
 
 #: app/Http/Controllers/SettingsController.php:116
 msgid "Your double-optin email pre header"
-msgstr " Seu pré-cabeçalho de e-mail de dupla entrada "
+msgstr " Seu pré-cabeçalho de Email de dupla entrada "
 
 #: app/Http/Controllers/SettingsController.php:110
 msgid "Your double-optin email subject"
-msgstr " O assunto de seu e-mail de dupla ocultação "
+msgstr " O assunto de seu Email de dupla ocultação "
 
 #: app/Hooks/Handlers/ExternalPages.php:323
 #: app/views/external/manage_subscription_form.php:9
 #: app/views/external/manage_subscription_request_form.php:38
 #: app/views/external/unsubscribe_request_form.php:38
 msgid "Your Email Address"
-msgstr " Seu endereço de e-mail "
+msgstr " Seu endereço de Email "
 
 #: app/Hooks/Handlers/ExternalPages.php:463
 msgid "Your Email preferences URL"
-msgstr " URL de suas preferências de e-mail "
+msgstr " URL de suas preferências de Email "
 
 #: app/Services/ExternalIntegrations/FluentForm/Bootstrap.php:119
 msgid "Your Feed Name"
