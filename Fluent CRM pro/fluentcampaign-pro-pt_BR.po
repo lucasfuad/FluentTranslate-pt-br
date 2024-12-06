@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FluentCRM Pro\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-16 12:21+0000\n"
-"PO-Revision-Date: 2024-12-04 21:33+0000\n"
+"PO-Revision-Date: 2024-12-06 13:58+0000\n"
 "Last-Translator: Lucas Fuad\n"
 "Language-Team: Português do Brasil\n"
 "Language: pt_BR\n"
@@ -60,19 +60,19 @@ msgstr "[EDD] Assinatura Recorrente Ativa"
 
 #: app/Services/Integrations/LearnDash/LdInit.php:161
 msgid "[FluentCRM] Apply Tags on course completion"
-msgstr "[FluentCRM] Aplicar tags na conclusão do curso"
+msgstr "[FluentCRM] Aplicar etiquetas na conclusão do curso"
 
 #: app/Services/Integrations/LearnDash/LdInit.php:150
 msgid "[FluentCRM] Apply Tags on course enrollment"
-msgstr "[FluentCRM] Aplicar tags na inscrição do curso"
+msgstr "[FluentCRM] Aplicar etiquetas na inscrição do curso"
 
 #: app/Services/Integrations/LearnDash/LdInit.php:190
 msgid "[FluentCRM] Apply Tags on group enrollment"
-msgstr "[FluentCRM] Aplicar tags na inscrição de grupo"
+msgstr "[FluentCRM] Aplicar etiquetas na inscrição de grupo"
 
 #: app/Services/Integrations/LearnDash/LdInit.php:201
 msgid "[FluentCRM] Remove Tags on group leave"
-msgstr "[FluentCRM] Remover tags em caso de saída em grupo"
+msgstr "[FluentCRM] Remover etiquetas em caso de saída em grupo"
 
 #: app/Services/Integrations/RCP/RCPMembershipTrigger.php:40
 #: app/Services/Integrations/WishlistMember/WishlistMembershipTrigger.php:40
@@ -181,7 +181,7 @@ msgstr "Adicionar nota de pedido"
 #: app/Services/Integrations/WooCommerce/WooProductAdmin.php:221
 #: app/Services/Integrations/WooCommerce/WooProductAdmin.php:258
 msgid "Add Tags"
-msgstr "Adicionar tags"
+msgstr "Adicionar Etiquetas "
 
 #: app/Http/Controllers/CampaignsProController.php:29
 msgid "Added to resend from failed"
@@ -232,8 +232,8 @@ msgid ""
 "After this sync you can import by product by product and provide appropriate "
 "tags"
 msgstr ""
-"Após essa sincronização você pode importar por produto e fornecer as tags "
-"apropriadas"
+"Após essa sincronização você pode importar por produto e fornecer as "
+"etiquetas apropriadas"
 
 #: app/Services/Integrations/LifterLms/AdvancedReport.php:40
 #: app/Services/Integrations/WooCommerce/AdvancedReport.php:52
@@ -318,53 +318,53 @@ msgstr "AOV"
 #: app/Services/Integrations/Edd/EddMetaBoxes.php:49
 #: app/Services/Integrations/Edd/EddMetaBoxes.php:103
 msgid "Apply Tags"
-msgstr "Aplicar tags"
+msgstr "Aplicar Etiquetas "
 
 #: app/Services/Integrations/LifterLms/LifterInit.php:375
 msgid "Apply Tags on Course Completed"
-msgstr "Aplicar tags no curso concluído"
+msgstr "Aplicar etiquetas no curso concluído"
 
 #: app/Services/Integrations/LearnPress/LearnPressInit.php:152
 msgid "Apply Tags on Course Completion"
-msgstr "Aplicar tags na conclusão do curso"
+msgstr "Aplicar etiquetas na conclusão do curso"
 
 #: app/Services/Integrations/LifterLms/LifterInit.php:183
 #: app/Services/Integrations/TutorLms/TutorLmsInit.php:154
 msgid "Apply Tags on course completion"
-msgstr "Aplicar tags na conclusão do curso"
+msgstr "Aplicar etiquetas na conclusão do curso"
 
 #: app/Services/Integrations/LearnPress/LearnPressInit.php:131
 msgid "Apply Tags on Course Enrollment"
-msgstr "Aplicar tags na inscrição do curso"
+msgstr "Aplicar etiquetas na inscrição do curso"
 
 #: app/Services/Integrations/LifterLms/LifterInit.php:170
 #: app/Services/Integrations/TutorLms/TutorLmsInit.php:140
 msgid "Apply Tags on course enrollment"
-msgstr "Aplicar tags na inscrição do curso"
+msgstr "Aplicar etiquetas na inscrição do curso"
 
 #: app/Services/Integrations/LearnPress/LearnPressInit.php:191
 msgid "Apply Tags on Lesson Completion"
-msgstr "Aplicar tags na conclusão da lição"
+msgstr "Aplicar etiquetas na conclusão da lição"
 
 #: app/Services/Integrations/LifterLms/LifterInit.php:241
 msgid "Apply Tags on Membership enrollment"
-msgstr "Aplicar tags na inscrição de membros"
+msgstr "Aplicar etiquetas na inscrição de membros"
 
 #: app/Services/Integrations/LearnPress/LearnPressInit.php:167
 msgid "Apply these tags on course completion"
-msgstr "Aplique essas tags na conclusão do curso"
+msgstr "Aplique essas etiquetas na conclusão do curso"
 
 #: app/Services/Integrations/LearnPress/LearnPressInit.php:147
 msgid "Apply these tags on course enrollment"
-msgstr "Aplique essas tags na inscrição do curso"
+msgstr "Aplique essas etiquetas na inscrição do curso"
 
 #: app/Services/Integrations/Edd/EddMetaBoxes.php:115
 msgid "Apply these tags when purchase this variation"
-msgstr "Aplique essas tags ao comprar esta variação"
+msgstr "Aplique essas etiquetas ao comprar esta variação"
 
 #: app/Services/Integrations/Edd/EddMetaBoxes.php:63
 msgid "Apply these tags when purchased"
-msgstr "Aplique essas tags quando comprar"
+msgstr "Aplique essas etiquetas quando comprar"
 
 #: app/Http/Controllers/ManagerController.php:135
 msgid "Associate user could not be found"
@@ -388,16 +388,16 @@ msgid ""
 "Automatically remove tags defined in \"Apply Tags\" if course enrollment is "
 "cancelled."
 msgstr ""
-"Remover automaticamente as tags definidas em \"Aplicar tags\" se a inscrição "
-"no curso for cancelada."
+"Remover automaticamente as etiquetas definidas em \"Aplicar Etiquetas \" se "
+"a inscrição no curso for cancelada."
 
 #: app/Services/Integrations/LifterLms/LifterInit.php:250
 msgid ""
 "Automatically remove tags defined in \"Apply Tags\" if membership is "
 "cancelled."
 msgstr ""
-"Remover automaticamente as tags definidas em \"Aplicar tags\" se a "
-"assinatura for cancelada."
+"Remover automaticamente as etiquetas definidas em \"Aplicar Etiquetas \" se "
+"a assinatura for cancelada."
 
 #: app/Modules/AbandonCart/Woo/AbandonCartAutomationTrigger.php:38
 msgid "Automation Priority"
@@ -488,7 +488,7 @@ msgstr "Total do carrinho"
 
 #: app/Services/Funnel/Actions/ChangeUserRoleAction.php:37
 msgid "Change connected user role"
-msgstr "Alterar função de usuário conectado"
+msgstr "Alterar cargo do usuário conectado"
 
 #: app/Services/Integrations/WooCommerce/OrderStatusChangeAction.php:20
 #: app/Services/Integrations/WooCommerce/OrderStatusChangeAction.php:42
@@ -502,11 +502,11 @@ msgstr "Alterar status do pedido atual no WooCommerce"
 
 #: app/Services/Funnel/Actions/ChangeUserRoleAction.php:36
 msgid "Change User Role"
-msgstr "Alterar função do usuário"
+msgstr "Alterar Cargo do Usuário"
 
 #: app/Services/Funnel/Actions/ChangeUserRoleAction.php:21
 msgid "Change WP User Role"
-msgstr "Alterar função de usuário WP"
+msgstr "Alterar Cargo do Usuário WP"
 
 #: app/Services/Funnel/Conditions/FunnelCondition.php:28
 #: app/Services/Funnel/Conditions/FunnelCondition.php:42
@@ -620,7 +620,7 @@ msgstr "contato adicionado em todas as listas selecionadas"
 
 #: app/Services/Integrations/CRM/TagAppliedTrigger.php:66
 msgid "contact added in all of the selected tags"
-msgstr "contato adicionado em todas as tags selecionadas"
+msgstr "contato adicionado em todas as etiquetas selecionadas"
 
 #: app/Services/Integrations/CRM/CompanyAppliedTrigger.php:61
 msgid "contact added in any of the selected companies"
@@ -632,7 +632,7 @@ msgstr "contato adicionado em qualquer uma das listas selecionadas"
 
 #: app/Services/Integrations/CRM/TagAppliedTrigger.php:62
 msgid "contact added in any of the selected tags"
-msgstr "contato adicionado em qualquer uma das tags selecionadas"
+msgstr "contato adicionado em qualquer uma das etiquetas selecionadas"
 
 #: app/Services/Integrations/CRM/ContactCreatedTrigger.php:28
 #: app/Services/Integrations/CRM/ContactCreatedTrigger.php:42
@@ -647,7 +647,7 @@ msgstr "Dados de contato"
 
 #: app/Http/Controllers/DynamicSegmentController.php:135
 msgid "Contact Email"
-msgstr "E-mail de contato"
+msgstr "E-mail de Contato"
 
 #: app/Services/Integrations/CRM/AdvancedReport.php:42
 msgid "Contact Growth"
@@ -683,7 +683,7 @@ msgstr "Tipo de contato"
 #: app/Services/Funnel/Triggers/ContactBirthDayTrigger.php:24
 #: app/Services/Funnel/Triggers/ContactBirthDayTrigger.php:33
 msgid "Contact's Birthday"
-msgstr "Aniversário do contato"
+msgstr "Aniversário do Contato"
 
 #: app/Services/Integrations/WooCommerce/WooOrderSuccessBenchmark.php:91
 #: app/Services/Integrations/SureCart/SureCartPaymentSuccessBenchmark.php:71
@@ -789,7 +789,7 @@ msgid ""
 "Create WP User with a role if user is not already registered with contact "
 "email"
 msgstr ""
-"Crie um usuário WP com uma função se o usuário ainda não estiver registrado "
+"Crie um usuário WP com um Cargo se o usuário ainda não estiver registrado "
 "com e-mail de contato"
 
 #: app/Hooks/Handlers/DataExporter.php:562
@@ -888,7 +888,7 @@ msgstr "Valor dos dados"
 
 #: app/Hooks/Handlers/DataExporter.php:560
 msgid "Date Of Birth"
-msgstr "Data de nascimento"
+msgstr "Data de Nascimento"
 
 #: app/Modules/AbandonCart/Woo/AbandonCartAutomationTrigger.php:216
 #: app/Services/Funnel/Conditions/FunnelCondition.php:148
@@ -1015,7 +1015,7 @@ msgstr "O e-mail foi reenviado"
 
 #: app/Services/Funnel/Actions/SendCampaignEmailAction.php:76
 msgid "Email has been triggered by Automation Funnel ID: "
-msgstr "O e-mail foi acionado pelo ID do funil de automação:"
+msgstr "O email foi acionado pelo ID do funil de automação:"
 
 #: app/Hooks/Handlers/CampaignArchiveFront.php:22
 msgid "Email Newsletter Archive features is not enabled"
@@ -1061,7 +1061,7 @@ msgstr ""
 #: app/Services/Funnel/Actions/EndFunnel.php:21
 #: app/Services/Funnel/Actions/EndFunnel.php:33
 msgid "End This Funnel Here"
-msgstr "Termine este funil aqui"
+msgstr "Termine o Funil Aqui"
 
 #: app/Services/Integrations/LifterLms/AddToCourseAction.php:24
 #: app/Services/Integrations/LifterLms/AddToCourseAction.php:38
@@ -1159,7 +1159,7 @@ msgstr "Inscrição Associações"
 #: app/Services/Integrations/LearnDash/DeepIntegration.php:119
 #: app/Services/Integrations/TutorLms/DeepIntegration.php:446
 msgid "Enrollment Tags"
-msgstr "Etiquetas de inscrição"
+msgstr "Etiquetas de Inscrição"
 
 #: app/Services/Integrations/LifterLms/AdvancedReport.php:36
 #: app/Services/Integrations/LearnDash/AdvancedReport.php:36
@@ -1262,7 +1262,7 @@ msgstr "FluentCRM"
 
 #: app/Services/Integrations/TutorLms/TutorLmsInit.php:117
 msgid "FluentCRM - Course Tags"
-msgstr "FluentCRM - Course Tags"
+msgstr "FluentCRM - Etiquetas do Curso"
 
 #: app/Services/Integrations/WooCommerce/WooProductAdmin.php:107
 msgid "FluentCRM Integration"
@@ -1291,7 +1291,7 @@ msgstr "FluentCRM Settings"
 #: app/Services/Integrations/Edd/EddPaymentSuccessTrigger.php:104
 #: app/Services/Integrations/Edd/EddPaymentRefundTrigger.php:104
 msgid "For what type of purchase you want to run this funnel"
-msgstr "For what type of purchase you want to run this funnel"
+msgstr "Para qual tipo de compra você deseja executar este funil?"
 
 #: app/Services/Integrations/WooCommerce/WooOrderSuccessBenchmark.php:76
 #: app/Services/Integrations/Edd/EddOrderSuccessBenchmark.php:75
@@ -1312,32 +1312,33 @@ msgid ""
 "Funnel Skipped because administrator user role can not be set for security "
 "reason"
 msgstr ""
-"Funnel Skipped because administrator user role can not be set for security "
-"reason"
+"Funil Ignorado porque o papel de usuário administrador não pode ser "
+"configurado por motivos de segurança"
 
 #: app/Services/Integrations/LifterLms/AddToCourseAction.php:89
 #: app/Services/Integrations/LearnDash/AddToCourseAction.php:89
 #: app/Services/Integrations/TutorLms/AddToCourseAction.php:89
 msgid "Funnel Skipped because no course found"
-msgstr "Funnel Skipped because no course found"
+msgstr "Funil Ignorado porque nenhum curso foi encontrado"
 
 #: app/Services/Integrations/LifterLms/AddToMembershipAction.php:88
 #: app/Services/Integrations/LearnDash/AddToGroupAction.php:89
 msgid "Funnel Skipped because no group found"
-msgstr "Funnel Skipped because no group found"
+msgstr "Funil Ignorado porque nenhum grupo foi encontrado"
 
 #: app/Services/Funnel/Actions/UpdateUserMetaAction.php:61
 #: app/Services/Funnel/Actions/ChangeUserRoleAction.php:59
 msgid "Funnel Skipped because no user found with the email address"
-msgstr "Funnel Skipped because no user found with the email address"
+msgstr ""
+"Funil Ignorado porque nenhum usuário foi encontrado com o endereço de email"
 
 #: app/Services/Funnel/Actions/HTTPSendDataAction.php:173
 msgid "Funnel Skipped because provided url is not valid"
-msgstr "Funnel Skipped because provided url is not valid"
+msgstr "Funil Ignorado porque a URL fornecida não é válida"
 
 #: app/Services/Funnel/Actions/UserRegistrationAction.php:100
 msgid "Funnel Skipped because user already exist in the database"
-msgstr "Funnel Skipped because user already exist in the database"
+msgstr "Funil Ignorado porque o usuário já existe no banco de dados"
 
 #: app/Services/Integrations/LifterLms/RemoveFromMembershipAction.php:57
 #: app/Services/Integrations/LifterLms/RemoveFromCourseAction.php:57
@@ -1348,20 +1349,20 @@ msgstr "Funnel Skipped because user already exist in the database"
 #: app/Services/Integrations/TutorLms/RemoveFromCourseAction.php:57
 #: app/Services/Integrations/TutorLms/AddToCourseAction.php:79
 msgid "Funnel Skipped because user could not be found"
-msgstr "Funnel Skipped because user could not be found"
+msgstr "Funil Ignorado porque o usuário não pôde ser encontrado"
 
 #: app/Services/Integrations/LearnDash/RemoveFromCourseAction.php:59
 msgid "Funnel Skipped because user/course could not be found"
-msgstr "Funnel Skipped because user/course could not be found"
+msgstr "Funil Ignorado porque o usuário/curso não pôde ser encontrado"
 
 #: app/Services/Integrations/LearnDash/RemoveFromGroupAction.php:57
 msgid "Funnel Skipped because user/group could not be found"
-msgstr "Funnel Skipped because user/group could not be found"
+msgstr "Funil Ignorado porque o usuário/grupo não pôde ser encontrado"
 
 #: app/Services/Funnel/Triggers/ContactBirthDayTrigger.php:25
 #: app/Services/Funnel/Triggers/ContactBirthDayTrigger.php:34
 msgid "Funnel will be initiated on the day of contact's birthday"
-msgstr "Funnel will be initiated on the day of contact's birthday"
+msgstr "O funil será iniciado no dia do aniversário de contato"
 
 #: app/Services/Funnel/Actions/UserRegistrationAction.php:57
 msgid "Generate Password Automatically"
@@ -2265,9 +2266,9 @@ msgid ""
 "applied. After removing the role, if user does not have any role then "
 "subscriber role will be added."
 msgstr ""
-"Somente se o usuário não for Administrador, a função selecionada será "
-"aplicada. Após remover a função, se o usuário não tiver nenhuma função, a "
-"função de assinante será adicionada."
+"O cargo selecionado será aplicado somente se o usuário não for Administrador."
+" Após a remoção, caso o usuário não tenha nenhuma função, o cargo de "
+"'Assinante' será adicionado automaticamente."
 
 #: app/Modules/AbandonCart/Woo/AbandonCartAutomationTrigger.php:87
 msgid "Only run this automation for subscribed contacts"
@@ -2411,8 +2412,8 @@ msgid ""
 "Please add at least one member to this Member type to add FluentCRM Tag "
 "Settings"
 msgstr ""
-"Adicione pelo menos um membro a este tipo de membro para adicionar as "
-"configurações de tag do FluentCRM"
+"Adicione pelo menos um membro a este tipo para configurar as Etiquetas do "
+"FluentCRM"
 
 #: app/Services/Integrations/LifterLms/AdvancedReport.php:63
 #: app/Services/Integrations/WooCommerce/AdvancedReport.php:92
@@ -2435,33 +2436,32 @@ msgstr "Por favor, mapeie os dados para os cabeçalhos de solicitação"
 #: app/Services/Integrations/LearnDash/LearnDashImporter.php:152
 #: app/Services/Integrations/TutorLms/TutorImporter.php:120
 msgid "Please map your Courses and associate FluentCRM Tags"
-msgstr "Por favor, mapeie seus cursos e associe as tags FluentCRM"
+msgstr "Por favor, mapeie seus cursos e associe as etiquetas FluentCRM"
 
 #: app/Services/Integrations/BuddyPress/BbImporter.php:185
 msgid "Please map your Group and associate FluentCRM Tags"
-msgstr "Por favor, mapeie seu grupo e associe as tags FluentCRM"
+msgstr "Mapeie seu grupo e associe as etiquetas do FluentCRM"
 
 #: app/Services/Integrations/LifterLms/LifterImporter.php:164
 #: app/Services/Integrations/LearnDash/LearnDashImporter.php:167
 msgid "Please map your LearnDash Group and associate FluentCRM Tags"
-msgstr "Mapeie seu grupo LearnDash e associe as tags FluentCRM"
+msgstr "Mapeie seu grupo LearnDash e associe as etiquetas do FluentCRM"
 
 #: app/Services/Integrations/BuddyPress/BbImporter.php:170
 msgid "Please map your Member Type and associate FluentCRM Tags"
-msgstr "Mapeie seu tipo de membro e associe as tags FluentCRM"
+msgstr "Mapeie seu tipo de membro e associe as etiquetas do FluentCRM"
 
 #: app/Services/Integrations/RCP/RCPImporter.php:121
 #: app/Services/Integrations/PMPro/PMProImporter.php:119
 #: app/Services/Integrations/WishlistMember/WishlistMemberImporter.php:120
 #: app/Services/Integrations/MemberPress/MemberPressImporter.php:111
 msgid "Please map your Membership Levels and associate FluentCRM Tags"
-msgstr ""
-"Por favor, mapeie seus níveis de associação e associe as tags FluentCRM"
+msgstr "Mapeie seus níveis de associação e associe as etiquetas do FluentCRM"
 
 #: app/Services/Integrations/WooCommerce/WooImporter.php:135
 #: app/Services/Integrations/Edd/EddImporter.php:129
 msgid "Please map your Product and associate FluentCRM Tags"
-msgstr "Mapeie seu produto e associe as tags FluentCRM"
+msgstr "Mapeie seu produto e associe as etiquetas do FluentCRM"
 
 #: app/Services/Funnel/Triggers/TrackingEventRecordedTrigger.php:64
 msgid ""
@@ -2487,7 +2487,7 @@ msgstr "Por favor, forneça sequence_id"
 #: app/Services/Funnel/Actions/UpdateUserMetaAction.php:50
 msgid "Please provide the meta key and meta value. You can use smart tags too"
 msgstr ""
-"Por favor, forneça a meta key e o meta value. Você pode usar smart tags "
+"Forneça a meta key e o meta value. Você pode usar etiquetas inteligentes "
 "também"
 
 #: app/Services/Funnel/Benchmarks/LinkClickBenchmark.php:67
@@ -2564,39 +2564,39 @@ msgstr ""
 msgid ""
 "Please specify which tags will be added/removed to the contact when purchase"
 msgstr ""
-"Por favor, especifique quais tags serão adicionadas/removidas do contato "
-"quando da compra"
+"Especifique quais etiquetas serão adicionadas/removidas do contato quando da "
+"compra"
 
 #: app/Services/Integrations/WooCommerce/WooProductAdmin.php:144
 msgid ""
 "Please specify which tags will be added/removed to the contact when refunded"
 msgstr ""
-"Por favor, especifique quais tags serão adicionadas/removidas do contato "
-"quando reembolsado"
+"Especifique quais etiquetas serão adicionadas/removidas do contato quando "
+"reembolsado"
 
 #: app/Services/Integrations/WooCommerce/WooProductAdmin.php:181
 msgid ""
 "Please specify which tags will be added/removed to the contact when renewal "
 "payment failed"
 msgstr ""
-"Por favor, especifique quais tags serão adicionadas/removidas do contato "
-"quando o pagamento da renovação falhar"
+"Especifique quais etiquetas serão adicionadas/removidas do contato quando o "
+"pagamento da renovação falhar"
 
 #: app/Services/Integrations/WooCommerce/WooProductAdmin.php:218
 msgid ""
 "Please specify which tags will be added/removed to the contact when "
 "subscription is cancelled"
 msgstr ""
-"Por favor, especifique quais tags serão adicionadas/removidas do contato "
-"quando a assinatura for cancelada"
+"Especifique quais etiquetas serão adicionadas/removidas do contato quando a "
+"assinatura for cancelada"
 
 #: app/Services/Integrations/WooCommerce/WooProductAdmin.php:255
 msgid ""
 "Please specify which tags will be added/removed to the contact when "
 "subscription is expired"
 msgstr ""
-"Por favor, especifique quais tags serão adicionadas/removidas do contato "
-"quando a assinatura expirar"
+"Especifique quais etiquetas serão adicionadas/removidas do contato quando a "
+"assinatura expirar"
 
 #: fluentcampaign-pro.php:31
 msgid "Please update FluentCRM to latest version"
@@ -2699,7 +2699,7 @@ msgstr "Purchased Products"
 #: app/Services/Integrations/Edd/AutomationConditions.php:71
 #: app/Services/Integrations/Edd/DeepIntegration.php:327
 msgid "Purchased Tags"
-msgstr "Purchased Tags"
+msgstr "Etiquetas de Compra"
 
 #: app/Modules/AbandonCart/Views/AbandonCartItems.php:111
 #: app/Modules/AbandonCart/Views/AbandonCartItems.php:132
@@ -2795,11 +2795,11 @@ msgstr "Remove From List"
 
 #: app/Services/Integrations/CRM/RemoveFromTagTrigger.php:46
 msgid "Remove From Tags"
-msgstr "Remove From Tags"
+msgstr "Remover Etiquetas"
 
 #: app/Services/Integrations/Edd/EddMetaBoxes.php:121
 msgid "Remove selected Tags on refund"
-msgstr "Remove selected Tags on refund"
+msgstr "Remover Etiquetas selecionadas em caso de reembolso"
 
 #: app/Services/Integrations/LifterLms/LifterInit.php:191
 #: app/Services/Integrations/LifterLms/LifterInit.php:249
@@ -2809,16 +2809,18 @@ msgstr "Remove selected Tags on refund"
 #: app/Services/Integrations/WooCommerce/WooProductAdmin.php:236
 #: app/Services/Integrations/WooCommerce/WooProductAdmin.php:273
 msgid "Remove Tags"
-msgstr "Remove Tags"
+msgstr "Remover Etiquetas"
 
 #: app/Services/Integrations/BuddyPress/Group.php:55
 #: app/Services/Integrations/BuddyPress/BBMemberType.php:77
 msgid "Remove Tags on leave defined in \"Apply Tags\""
-msgstr "Remove Tags on leave defined in \"Apply Tags\""
+msgstr "Remover Etiquetas ao sair conforme definido em \"Aplicar Etiquetas\""
 
 #: app/Services/Integrations/Edd/EddMetaBoxes.php:68
 msgid "Remove Tags on refund defined in \"Apply Tags\""
-msgstr "Remove Tags on refund defined in \"Apply Tags\""
+msgstr ""
+"Remover Etiquetas em caso de reembolso conforme definido em \"Aplicar "
+"Etiquetas\""
 
 #: app/Services/Integrations/LifterLms/RemoveFromCourseAction.php:23
 #: app/Services/Integrations/LifterLms/RemoveFromCourseAction.php:35
@@ -3133,7 +3135,7 @@ msgstr "Select Email Sequence"
 #: app/Services/Integrations/TutorLms/TutorImporter.php:125
 #: app/Services/Integrations/MemberPress/MemberPressImporter.php:116
 msgid "Select FluentCRM Tag"
-msgstr "Select FluentCRM Tag"
+msgstr "Selecionar Etiqueta do FluentCRM"
 
 #: app/Services/Integrations/RCP/RCPImporter.php:124
 #: app/Services/Integrations/LifterLms/LifterImporter.php:152
@@ -3149,7 +3151,7 @@ msgstr "Select FluentCRM Tag"
 #: app/Services/Integrations/TutorLms/TutorImporter.php:123
 #: app/Services/Integrations/MemberPress/MemberPressImporter.php:114
 msgid "Select FluentCRM Tag that will be applied"
-msgstr "Select FluentCRM Tag that will be applied"
+msgstr "Selecionar a Etiqueta do FluentCRM que será aplicada"
 
 #: app/Services/Integrations/LifterLms/CourseCompletedTrigger.php:83
 #: app/Services/Integrations/LifterLms/CourseEnrollTrigger.php:88
@@ -3285,7 +3287,7 @@ msgstr "Selecione o Tipo de Nota para o Pedido de referência."
 
 #: app/Services/Funnel/Actions/UserRoleRemoveAction.php:34
 msgid "Select Role that you want to remove from targeted Contact"
-msgstr "Selecione a função que você deseja remover do contato alvo"
+msgstr "Selecione o Cargo que você deseja remover do contato alvo"
 
 #: app/Services/Funnel/Triggers/UserLoginTrigger.php:78
 msgid "Select Roles"
@@ -3345,7 +3347,7 @@ msgstr "Selecione Status"
 #: app/Services/Integrations/CRM/TagAppliedTrigger.php:53
 #: app/Services/Integrations/CRM/RemoveFromTagTrigger.php:54
 msgid "Select Tag"
-msgstr "Selecionar Tag"
+msgstr "Selecionar Etiqueta"
 
 #: app/Services/Integrations/LifterLms/LifterInit.php:166
 #: app/Services/Integrations/LifterLms/LifterInit.php:179
@@ -3374,11 +3376,11 @@ msgstr "Selecionar Tag"
 #: app/Services/Integrations/TutorLms/TutorLmsInit.php:136
 #: app/Services/Integrations/TutorLms/TutorLmsInit.php:150
 msgid "Select Tags"
-msgstr "Selecionar tags"
+msgstr "Selecionar Etiquetas"
 
 #: app/Services/Integrations/ElementorFormIntegration/FormWidget.php:79
 msgid "Select tags"
-msgstr "Selecionar tags"
+msgstr "Selecionar etiquetas"
 
 #: app/Services/Integrations/WooCommerce/WooOrderCompletedTrigger.php:95
 #: app/Services/Integrations/WooCommerce/WooOrderSuccessBenchmark.php:74
@@ -3427,7 +3429,7 @@ msgid ""
 "selected contact tags (defined in previous field) will be removed when user "
 "leave this group"
 msgstr ""
-"as tags de contato selecionadas (definidas no campo anterior) serão "
+"as etiquetas de contato selecionadas (definidas no campo anterior) serão "
 "removidas quando o usuário sair deste grupo"
 
 #: app/Services/Integrations/LearnDash/LdInit.php:204
@@ -3441,7 +3443,7 @@ msgid ""
 "Selected Role will be applied if there has a user with contact's email "
 "address"
 msgstr ""
-"A função selecionada será aplicada se houver um usuário com o endereço de e-"
+"O Cargo selecionado será aplicado se houver um usuário com o endereço de e-"
 "mail do contato"
 
 #: app/Http/Controllers/DynamicSegmentController.php:370
@@ -3927,11 +3929,11 @@ msgstr ""
 #: app/Services/Integrations/CRM/TagAppliedTrigger.php:28
 #: app/Services/Integrations/CRM/TagAppliedTrigger.php:45
 msgid "Tag Applied"
-msgstr "Marca aplicada"
+msgstr "Etiqueta Aplicada"
 
 #: app/Services/Integrations/CRM/RemoveFromTagTrigger.php:29
 msgid "Tag Removed"
-msgstr "Etiqueta removida"
+msgstr "Etiqueta Removida"
 
 #: app/Http/Controllers/DynamicSegmentController.php:199
 #: app/Hooks/Handlers/DataExporter.php:565
@@ -4561,8 +4563,8 @@ msgstr ""
 msgid ""
 "This will run when any of the selected tags have been removed from a contact"
 msgstr ""
-"Isso será executado quando qualquer uma das tags selecionadas for removida "
-"de um contato"
+"Isso será executado quando qualquer uma das etiquetas selecionadas for "
+"removida de um contato"
 
 #: app/Services/Integrations/CRM/CompanyAppliedTrigger.php:29
 #: app/Services/Integrations/CRM/CompanyAppliedTrigger.php:46
@@ -4591,12 +4593,14 @@ msgstr ""
 #: app/Services/Integrations/CRM/TagAppliedTrigger.php:46
 msgid "This will run when selected tags have been applied to a contact"
 msgstr ""
-"Isso será executado quando as tags selecionadas forem aplicadas a um contato"
+"Isso será executado quando as etiquetas selecionadas forem aplicadas a um "
+"contato"
 
 #: app/Services/Integrations/CRM/RemoveFromTagTrigger.php:30
 msgid "This will run when selected Tags have been removed from a contact"
 msgstr ""
-"Isso será executado quando as tags selecionadas forem removidas de um contato"
+"Isso será executado quando as etiquetas selecionadas forem removidas de um "
+"contato"
 
 #: app/Hooks/Handlers/DataExporter.php:548
 msgid "Timezone"
@@ -4677,34 +4681,34 @@ msgstr "Total"
 
 #: app/Services/Integrations/Edd/AdvancedReport.php:155
 msgid "Total Activated Sites (Licenses)"
-msgstr "Total de sites ativados (licenças)"
+msgstr "Total de Sites Ativados (Licenças)"
 
 #: app/Services/Integrations/LifterLms/AdvancedReport.php:73
 #: app/Services/Integrations/LearnDash/AdvancedReport.php:73
 #: app/Services/Integrations/TutorLms/AdvancedReport.php:70
 msgid "Total Course Enrollments"
-msgstr "Total de matrículas no curso"
+msgstr "Total de Matrículas no Curso"
 
 #: app/Services/Integrations/WooCommerce/AdvancedReport.php:117
 #: app/Services/Integrations/Edd/AdvancedReport.php:119
 msgid "Total Customers"
-msgstr "Total de clientes"
+msgstr "Total de Clientes"
 
 #: app/Services/Integrations/Edd/EddCommerceHelper.php:182
 msgid "Total Lifetime Licenses"
-msgstr "Total de licenças vitalícias"
+msgstr "Total de Licenças Vitalícias"
 
 #: app/Services/Integrations/LifterLms/AdvancedReport.php:78
 #: app/Services/Integrations/LearnDash/AdvancedReport.php:78
 msgid "Total Membership Enrollments"
-msgstr "Total de inscrições de membros"
+msgstr "Total de Inscrições de Membros"
 
 #: app/Services/Integrations/WooCommerce/AutomationConditions.php:48
 #: app/Services/Integrations/WooCommerce/DeepIntegration.php:203
 #: app/Services/Integrations/Edd/AutomationConditions.php:36
 #: app/Services/Integrations/Edd/DeepIntegration.php:283
 msgid "Total Order Count"
-msgstr "Contagem total de pedidos"
+msgstr "Número Total de Pedidos"
 
 #: app/Services/Integrations/WooCommerce/AutomationConditions.php:56
 #: app/Services/Integrations/WooCommerce/AutomationConditions.php:163
@@ -4712,41 +4716,41 @@ msgstr "Contagem total de pedidos"
 #: app/Services/Integrations/Edd/AutomationConditions.php:43
 #: app/Services/Integrations/Edd/DeepIntegration.php:290
 msgid "Total Order Value"
-msgstr "Valor total do pedido"
+msgstr "Valor Total do Pedido"
 
 #: app/Services/Integrations/WooCommerce/AdvancedReport.php:113
 #: app/Services/Integrations/Edd/AdvancedReport.php:115
 #: app/Services/Integrations/Edd/EddCommerceHelper.php:34
 msgid "Total Orders"
-msgstr "Total de pedidos"
+msgstr "Total de Pedidos"
 
 #: app/Services/Integrations/Edd/EddCommerceHelper.php:187
 msgid "Total Recurring Licenses"
-msgstr "Total de licenças recorrentes"
+msgstr "Total de Licenças Recorrentes"
 
 #: app/Services/Integrations/AffiliateWP/DeepIntegration.php:73
 msgid "Total Referrals"
-msgstr "Total de referências"
+msgstr "Total de Referências"
 
 #: app/Services/Integrations/WooCommerce/AdvancedReport.php:108
 #: app/Services/Integrations/Edd/AdvancedReport.php:110
 msgid "Total Revenue"
-msgstr "Receita total"
+msgstr "Receita Total"
 
 #: app/Services/Integrations/Edd/EddCommerceHelper.php:26
 msgid "Total Sales"
-msgstr "Vendas totais"
+msgstr "Vendas Totais"
 
 #: app/Services/Integrations/LifterLms/AdvancedReport.php:68
 #: app/Services/Integrations/LearnDash/AdvancedReport.php:68
 #: app/Services/Integrations/TutorLms/AdvancedReport.php:65
 msgid "Total Students"
-msgstr "Total de alunos"
+msgstr "Total de Alunos"
 
 #: app/Services/Funnel/Triggers/TrackingEventRecordedTrigger.php:31
 #: app/Services/Funnel/Triggers/TrackingEventRecordedTrigger.php:40
 msgid "Tracking Event Recorded"
-msgstr "Evento de rastreamento registrado"
+msgstr "Evento de Rastreamento Registrado"
 
 #: app/Modules/AbandonCart/Woo/AbandonCartAutomationTrigger.php:69
 #: app/Services/Funnel/Triggers/TrackingEventRecordedTrigger.php:86
@@ -4904,11 +4908,11 @@ msgstr "Notificação do usuário"
 #: app/Services/Funnel/Actions/ChangeUserRoleAction.php:41
 #: app/Services/Funnel/Actions/UserRoleRemoveAction.php:38
 msgid "User Role"
-msgstr "Função do usuário"
+msgstr "Cargo do Usuário"
 
 #: app/Services/Integrations/Edd/AutomationConditions.php:106
 msgid "Valid License"
-msgstr "Licença válida"
+msgstr "Licença Válida"
 
 #: app/Services/PluginManager/LicenseManager.php:51
 msgid "View FluentCRM documentation"
@@ -5094,7 +5098,7 @@ msgstr "ID do usuário WP"
 #: app/Modules/AbandonCart/Woo/AbandonCartAutomationTrigger.php:253
 #: app/Services/Funnel/Conditions/FunnelCondition.php:185
 msgid "WP User Role"
-msgstr "Função de usuário WP"
+msgstr "Cargo de Usuário WP"
 
 #: app/Services/Integrations/AffiliateWP/DeepIntegration.php:61
 msgid "Yes"

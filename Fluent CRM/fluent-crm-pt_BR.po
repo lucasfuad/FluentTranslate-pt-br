@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FluentCRM - Marketing Automation For WordPress\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-16 12:21+0000\n"
-"PO-Revision-Date: 2024-12-04 21:34+0000\n"
+"PO-Revision-Date: 2024-12-06 13:59+0000\n"
 "Last-Translator: Lucas Fuad\n"
 "Language-Team: Português do Brasil\n"
 "Language: pt_BR\n"
@@ -52,12 +52,12 @@ msgstr "  O status foi definido pela API do Webhook do Sparkpost. Motivo:  "
 
 #: app/Services/CrmMigrator/ConvertKitMigrator.php:148
 msgid " tags and associate contacts will be imported from ConvertKit"
-msgstr "  As tags e os contatos associados serão importados do ConvertKit "
+msgstr " as etiquetas e os contatos associados serão importados do ConvertKit "
 
 #: app/Services/CrmMigrator/MailerLiteMigrator.php:271
 #: app/Services/CrmMigrator/ConvertKitMigrator.php:257
 msgid " tags have been imported so far"
-msgstr "  As tags foram importadas até o momento "
+msgstr " as etiquetas foram importadas até o momento"
 
 #: app/Services/ExternalIntegrations/MailComplaince/Webhook.php:58
 msgid " was set by mailgun webhook api with event name: "
@@ -105,11 +105,11 @@ msgstr " (Contagem de contatos  "
 msgid ""
 "(Optional) The selected tags will be removed from the contact (if exist)"
 msgstr ""
-" (Opcional) As tags selecionadas serão removidas do contato (se houver) "
+" (Opcional) As etiquetas selecionadas serão removidas do contato (se houver) "
 
 #: app/Http/Controllers/CampaignController.php:727
 msgid ", The dynamic tags may not replaced in test email"
-msgstr " As tags dinâmicas não podem ser substituídas no Email de teste "
+msgstr " As etiquetas dinâmicas não podem ser substituídas no Email de teste "
 
 #: app/Services/ExternalIntegrations/MailComplaince/Webhook.php:92
 #: app/Services/ExternalIntegrations/MailComplaince/Webhook.php:128
@@ -120,7 +120,7 @@ msgstr " . Gravado em:  "
 
 #: app/Http/Controllers/FunnelController.php:537
 msgid "[Copy] "
-msgstr " [Copy]  "
+msgstr " [Copiar]  "
 
 #: app/Http/Controllers/CampaignController.php:1171
 #: app/Http/Controllers/TemplateController.php:175
@@ -209,7 +209,7 @@ msgstr " Token da API da ActiveCampaign "
 
 #: app/Http/Controllers/SettingsController.php:573
 msgid "Activity Logs"
-msgstr " Registros de atividades "
+msgstr " Registros de Logs"
 
 #: app/Services/AutoSubscribe.php:258
 msgid "Add a subscription box to WooCommerce Checkout Form"
@@ -226,7 +226,7 @@ msgstr " Adicionar contato às listas selecionadas "
 
 #: app/Services/Funnel/Actions/ApplyTagAction.php:23
 msgid "Add this contact to the selected Tags"
-msgstr " Adicione esse contato às Tags selecionadas "
+msgstr " Adicione esse contato às Etiquetas selecionadas "
 
 #: app/Hooks/Handlers/AdminMenu.php:199 app/Hooks/Handlers/AdminMenu.php:200
 #: app/Hooks/Handlers/AdminMenu.php:1308 app/Hooks/Handlers/AdminMenu.php:1309
@@ -244,7 +244,7 @@ msgstr " Informações de endereço "
 #: app/Services/CrmMigrator/BaseMigrator.php:36
 #: app/Services/Funnel/FunnelHelper.php:152
 msgid "Address Line 1"
-msgstr " Linha de endereço 1 "
+msgstr " Linha de Endereço 1 "
 
 #: app/Models/Company.php:61 app/Models/Subscriber.php:726
 #: app/Services/Helper.php:168 app/Services/Helper.php:923
@@ -253,7 +253,7 @@ msgstr " Linha de endereço 1 "
 #: app/Services/CrmMigrator/BaseMigrator.php:37
 #: app/Services/Funnel/FunnelHelper.php:156
 msgid "Address Line 2"
-msgstr " Linha de endereço 2 "
+msgstr " Linha de Endereço 2 "
 
 #: app/Services/Helper.php:207
 msgid "Admin Email"
@@ -282,7 +282,7 @@ msgstr " Depois que a mensagem de confirmação for necessária "
 
 #: app/Http/Controllers/SettingsController.php:138
 msgid "After Confirmation Type"
-msgstr " Após o tipo de confirmação "
+msgstr " Após o Tipo de Confirmação "
 
 #: app/Hooks/Handlers/CountryNames.php:33
 msgid "Albania"
@@ -298,11 +298,11 @@ msgstr " Todos "
 
 #: app/Hooks/Handlers/AdminMenu.php:356
 msgid "All Campaigns"
-msgstr " Todas as campanhas "
+msgstr " Todas as Campanhas "
 
 #: app/Hooks/CLI/Commands.php:26 app/Hooks/Handlers/AdminMenu.php:304
 msgid "All Contacts"
-msgstr " Todos os contatos "
+msgstr " Todos os Contatos "
 
 #: app/Http/Controllers/SubscriberController.php:909
 msgid "All contacts has been processed"
@@ -398,27 +398,27 @@ msgstr " API_Error "
 
 #: app/Services/Funnel/Actions/ApplyCompanyAction.php:22
 msgid "Apply Company"
-msgstr " Candidatar-se à empresa "
+msgstr "Candidatar-se à Empresa"
 
 #: app/Services/Funnel/Actions/ApplyCompanyAction.php:34
 msgid "Apply Company to the contact"
-msgstr " Aplicar a empresa ao contato "
+msgstr "Aplicar a Empresa ao contato"
 
 #: app/Services/Funnel/Actions/ApplyListAction.php:22
 msgid "Apply List"
-msgstr " Aplicar lista "
+msgstr " Aplicar Lista "
 
 #: app/Services/Funnel/Actions/ApplyListAction.php:34
 msgid "Apply List to the contact"
-msgstr " Aplicar lista ao contato "
+msgstr " Aplicar Lista ao contato "
 
 #: app/Services/Funnel/Actions/ApplyTagAction.php:22
 msgid "Apply Tag"
-msgstr " Aplicar etiqueta "
+msgstr " Aplicar Etiqueta "
 
 #: app/Services/Funnel/Actions/ApplyTagAction.php:34
 msgid "Apply Tag to the contact"
-msgstr " Aplicar tag ao contato "
+msgstr " Aplicar Etiqueta ao contato "
 
 #: app/Hooks/Handlers/CountryNames.php:65
 msgid "Argentina"
@@ -440,20 +440,20 @@ msgstr " Lista de atribuições "
 #: app/Services/RoleBasedTagging.php:46
 msgid "Assign or Remove tags when a contact assign to a user role."
 msgstr ""
-" Atribua ou remova tags quando um contato for atribuído a uma função de "
+" Atribua ou remova etiquetas quando um contato for atribuído a um cargo de "
 "usuário. "
 
 #: app/Services/AutoSubscribe.php:54 app/Services/AutoSubscribe.php:141
 #: app/Services/AutoSubscribe.php:299
 msgid "Assign Tags"
-msgstr " Atribuir etiquetas "
+msgstr "Atribuir Etiquetas "
 
 #: app/Services/ExternalIntegrations/FluentForm/Bootstrap.php:135
 msgid ""
 "Associate your FluentCRM merge tags to the appropriate Fluent Form fields by "
 "selecting the appropriate form field from the list."
 msgstr ""
-" Associe suas tags de mesclagem do FluentCRM aos campos apropriados do "
+" Associe suas etiquetas de mesclagem do FluentCRM aos campos apropriados do "
 "Fluent Form selecionando o campo de formulário apropriado na lista. "
 
 #: app/Hooks/Handlers/CountryNames.php:77
@@ -495,7 +495,7 @@ msgstr ""
 
 #: app/Services/Helper.php:1085
 msgid "Automation Activity -"
-msgstr " Atividade de automação - "
+msgstr "Atividade de Automação - "
 
 #: app/Services/PermissionManager.php:95
 msgid "Automation Delete"
@@ -629,7 +629,7 @@ msgstr " Navegue e gerencie suas listas associadas a contatos "
 
 #: app/Hooks/Handlers/AdminMenu.php:332
 msgid "Browse and Manage your tags associate with contact"
-msgstr " Navegue e gerencie suas tags associadas ao contato "
+msgstr " Navegue e Gerencie suas etiquetas associadas ao contato "
 
 #: app/Hooks/Handlers/CountryNames.php:161
 msgid "Brunei"
@@ -669,7 +669,7 @@ msgstr " Camarões "
 
 #: app/Services/Helper.php:1067
 msgid "Campaign Email -"
-msgstr " Email da campanha - "
+msgstr " Email da Campanha - "
 
 #: app/Http/Controllers/CampaignController.php:1197
 msgid "Campaign has been successfully duplicated"
@@ -931,7 +931,7 @@ msgstr " Contato "
 
 #: app/Services/Helper.php:1047
 msgid "Contact Activities"
-msgstr " Atividades de contato "
+msgstr "Atividades de Contato"
 
 #: app/Services/Funnel/Benchmarks/ListAppliedBenchmark.php:69
 msgid "contact added in all of the selected lists"
@@ -939,7 +939,7 @@ msgstr " contato adicionado em todas as listas selecionadas "
 
 #: app/Services/Funnel/Benchmarks/TagAppliedBenchmark.php:69
 msgid "contact added in all of the selected Tags"
-msgstr " contato adicionado em todas as Tags selecionadas "
+msgstr "contato adicionado em todas as Etiquetas  selecionadas "
 
 #: app/Services/Funnel/Benchmarks/ListAppliedBenchmark.php:65
 msgid "contact added in any of the selected Lists"
@@ -947,7 +947,7 @@ msgstr " contato adicionado em qualquer uma das Listas selecionadas "
 
 #: app/Services/Funnel/Benchmarks/TagAppliedBenchmark.php:65
 msgid "contact added in any of the selected Tags"
-msgstr " contato adicionado em qualquer uma das Tags selecionadas "
+msgstr "contato adicionado em qualquer uma das Etiquetas selecionadas"
 
 #: app/Http/Controllers/SubscriberController.php:765
 msgid "Contact Already Subscribed"
@@ -1003,15 +1003,15 @@ msgstr " Segmentos de contato "
 
 #: app/Services/ExternalIntegrations/FluentForm/Bootstrap.php:174
 msgid "Contact Tags"
-msgstr " Tags de contato "
+msgstr "Etiquetas de Contato "
 
 #: app/Services/PermissionManager.php:42
 msgid "Contact Tags/List/Companies/Segment Create or Update"
-msgstr " Criar ou atualizar etiquetas de contato/lista/empresas/segmento "
+msgstr " Criar ou Atualizar Etiquetas de Contato/Lista/Empresas/Segmento "
 
 #: app/Services/PermissionManager.php:49
 msgid "Contact Tags/List/Companies/Segment Delete"
-msgstr " Tags de contato/Lista/Empresas/Segmento Excluir "
+msgstr "Etiquetas de Contato/Lista/Empresas/Segmento Excluir"
 
 #: app/Http/Controllers/SubscriberController.php:1174
 msgid "Contact Type has been updated for the selected subscribers"
@@ -1089,7 +1089,7 @@ msgstr " Criar um formulário "
 
 #: app/Services/Stats.php:159
 msgid "Create a Tag"
-msgstr " Criar uma tag "
+msgstr " Criar uma Etiqueta"
 
 #: app/Services/Stats.php:180
 msgid "Create an Automation"
@@ -1108,7 +1108,7 @@ msgstr ""
 
 #: app/Services/Helper.php:984
 msgid "Created At"
-msgstr " Criado em "
+msgstr " Criado Em "
 
 #: app/Services/Funnel/Triggers/FluentFormSubmissionTrigger.php:30
 #: app/Services/Funnel/Actions/ApplyCompanyAction.php:21
@@ -1228,7 +1228,7 @@ msgstr " Data e hora "
 #: app/Services/Helper.php:989 app/Hooks/Handlers/PrefFormHandler.php:47
 #: app/Hooks/Handlers/PrefFormHandler.php:396
 msgid "Date of Birth"
-msgstr " Data de nascimento "
+msgstr " Data de Nascimento "
 
 #: app/Models/Subscriber.php:734
 msgid "Date of Birth (Y-m-d Format only)"
@@ -1459,7 +1459,7 @@ msgstr " Email enviado do funil:  "
 
 #: app/Services/Helper.php:1103
 msgid "Email Sequence Activity -"
-msgstr " Atividade de sequência de Email - "
+msgstr "Atividade de Sequência de E-mail -"
 
 #: app/Services/Stats.php:97 app/Hooks/Handlers/AdminMenu.php:136
 #: app/Hooks/Handlers/AdminMenu.php:137 app/Hooks/Handlers/AdminMenu.php:368
@@ -1546,7 +1546,7 @@ msgstr " Ativar a confirmação por Email do Double-Optin "
 
 #: app/Services/ExternalIntegrations/FluentForm/Bootstrap.php:183
 msgid "Enable Dynamic Tag Selection"
-msgstr " Ativar a seleção dinâmica de tags "
+msgstr "Ativar a Seleção Dinâmica de Etiqueta"
 
 #: app/Services/ExternalIntegrations/FluentForm/Bootstrap.php:210
 msgid ""
@@ -1558,7 +1558,7 @@ msgstr ""
 
 #: app/Services/RoleBasedTagging.php:51
 msgid "Enable Role Based Tag Mapping"
-msgstr " Ativar o mapeamento de tags baseado em funções "
+msgstr " Ativar o Mapeamento de Etiqueta Baseado em Cargo"
 
 #: app/Services/AutoSubscribe.php:272
 msgid "Enable Subscription Checkbox to WooCommerce Checkout Page"
@@ -1574,7 +1574,7 @@ msgstr ""
 
 #: app/Http/Controllers/SettingsController.php:175
 msgid "Enable Tag based double optin redirect"
-msgstr " Ativar redirecionamento de double optin baseado em tag "
+msgstr "Habilitar redirecionamento de duplo opt-in baseado em etiquetas"
 
 #: app/Services/ExternalIntegrations/FluentForm/Bootstrap.php:265
 msgid "Enable This feed"
@@ -1598,7 +1598,7 @@ msgstr " Associações de registro (Pro Required) "
 
 #: app/Services/Helper.php:1415 app/Services/Helper.php:1471
 msgid "Enrollment Tags (Pro Required)"
-msgstr " Tags de registro (Pro obrigatório) "
+msgstr " Etiquetas de Registro (Apenas Pro) "
 
 #: app/Services/Reporting.php:138
 msgid "Entrance"
@@ -1626,15 +1626,15 @@ msgstr " O evento foi rastreado "
 
 #: app/Hooks/Handlers/EventTrackingHandler.php:293
 msgid "Event Key"
-msgstr " Chave do evento "
+msgstr " Chave do Evento "
 
 #: app/Hooks/Handlers/EventTrackingHandler.php:308
 msgid "Event Occurrence Count"
-msgstr " Contagem de ocorrências de eventos "
+msgstr " Contagem de Ocorrências de Eventos "
 
 #: app/Hooks/Handlers/EventTrackingHandler.php:360
 msgid "Event Title"
-msgstr " Título do evento "
+msgstr " Título do Evento "
 
 #: app/Http/Controllers/SubscriberController.php:1391
 msgid "Event Tracker is not enabled"
@@ -1645,7 +1645,7 @@ msgstr " O Event Tracker não está ativado "
 #: app/Hooks/Handlers/EventTrackingHandler.php:235
 #: app/Hooks/Handlers/EventTrackingHandler.php:251
 msgid "Event Tracking"
-msgstr " Rastreamento de eventos "
+msgstr " Rastreamento de Eventos "
 
 #: app/Hooks/Handlers/EventTrackingHandler.php:333
 msgid "Event Value"
@@ -1711,7 +1711,7 @@ msgstr " Data da primeira inscrição (Pro obrigatório) "
 #: app/Services/Funnel/FunnelHelper.php:130
 #: app/Services/ExternalIntegrations/FluentForm/Bootstrap.php:148
 msgid "First Name"
-msgstr " Primeiro nome "
+msgstr " Primeiro Nome "
 
 #: app/Services/Helper.php:1233 app/Services/Helper.php:1287
 msgid "First Order Date (Pro Required)"
@@ -1815,7 +1815,7 @@ msgstr " Perfil do FluentCRM "
 
 #: app/Services/ExternalIntegrations/BricksBuilderIntegration.php:47
 msgid "FluentCRM Tags"
-msgstr " Tags do FluentCRM "
+msgstr " Etiquetas do FluentCRM "
 
 #: app/Services/Stats.php:131 app/Http/Controllers/SetupController.php:170
 msgid "FluentSMTP"
@@ -1915,7 +1915,7 @@ msgstr " O status do funil precisa ser publicado "
 
 #: app/Http/Controllers/FunnelController.php:200
 msgid "Funnel Trigger has been successfully updated"
-msgstr " O Funnel Trigger foi atualizado com sucesso "
+msgstr "O Trigger do Funil foi atualizado com sucesso"
 
 #: app/Hooks/Handlers/CountryNames.php:341
 msgid "Gabon"
@@ -1931,7 +1931,7 @@ msgstr " Geral "
 
 #: app/Services/Helper.php:900
 msgid "General Properties"
-msgstr " Propriedades gerais "
+msgstr " Propriedades Gerais "
 
 #: app/Hooks/Handlers/CountryNames.php:349
 msgid "Georgia"
@@ -2127,8 +2127,8 @@ msgid ""
 "associate tags. This is a pro feature. Please upgrade to activate this "
 "feature"
 msgstr ""
-" Importar %s membros por grupos de membros e tipos de membros e, em seguida, "
-"segmentar por tags associadas. Esse é um recurso Pro. Faça upgrade para "
+"Importar %s membros por grupos de membros e tipos de membros e, em seguida, "
+"segmentar por etiquetas associadas. Esse é um recurso Pro. Faça upgrade para "
 "ativar esse recurso "
 
 #: app/Services/Stats.php:166
@@ -2141,15 +2141,15 @@ msgid ""
 "tags. This is a pro feature. Please upgrade to activate this feature"
 msgstr ""
 " Importar alunos do LearnDash por curso e grupos e, em seguida, segmentar "
-"por tags associadas. Esse é um recurso Pro. Faça upgrade para ativar esse "
-"recurso "
+"por etiquetas associadas. Esse é um recurso Pro. Faça upgrade para ativar "
+"esse recurso "
 
 #: app/Http/Controllers/ImporterController.php:309
 msgid ""
 "Import LearnPress students by course then segment by associate tags. This is "
 "a pro feature. Please upgrade to activate this feature"
 msgstr ""
-" Importar alunos do LearnPress por curso e depois segmentar por tags "
+" Importar alunos do LearnPress por curso e depois segmentar por etiquetas "
 "associadas. Esse é um recurso Pro. Faça upgrade para ativar esse recurso "
 
 #: app/Http/Controllers/ImporterController.php:237
@@ -2158,8 +2158,8 @@ msgid ""
 "tags. This is a pro feature. Please upgrade to activate this feature"
 msgstr ""
 " Importar alunos do LifterLMS por curso e grupos e, em seguida, segmentar "
-"por tags associadas. Esse é um recurso Pro. Faça upgrade para ativar esse "
-"recurso "
+"por etiquetas associadas. Esse é um recurso Pro. Faça upgrade para ativar "
+"esse recurso "
 
 #: app/Http/Controllers/ImporterController.php:264
 msgid ""
@@ -2168,7 +2168,7 @@ msgid ""
 "feature"
 msgstr ""
 " Importar membros do Paid Membership Pro por níveis de associação e, em "
-"seguida, segmentar por tags de associados. Esse é um recurso Pro. Faça "
+"seguida, segmentar por etiquetas de associados. Esse é um recurso Pro. Faça "
 "upgrade para ativar esse recurso "
 
 #: app/Http/Controllers/ImporterController.php:282
@@ -2178,7 +2178,7 @@ msgid ""
 "feature"
 msgstr ""
 " Importar membros do Restrict Content Pro por níveis de associação e, em "
-"seguida, segmentar por tags de associados. Esse é um recurso Pro. Faça "
+"seguida, segmentar por etiquetas de associados. Esse é um recurso Pro. Faça "
 "upgrade para ativar esse recurso "
 
 #: app/Http/Controllers/ImporterController.php:255
@@ -2186,7 +2186,7 @@ msgid ""
 "Import TutorLMS students by course then segment by associate tags. This is a "
 "pro feature. Please upgrade to activate this feature"
 msgstr ""
-" Importar alunos do TutorLMS por curso e depois segmentar por tags "
+" Importar alunos do TutorLMS por curso e depois segmentar por etiquetas "
 "associadas. Esse é um recurso Pro. Faça upgrade para ativar esse recurso "
 
 #: app/Http/Controllers/ImporterController.php:158
@@ -2199,8 +2199,8 @@ msgid ""
 "This is a pro feature. Please upgrade to activate this feature"
 msgstr ""
 " Importar membros da lista de desejos por níveis de associação e, em seguida,"
-" segmentar por tags de associados. Esse é um recurso Pro. Faça upgrade para "
-"ativar esse recurso "
+" segmentar por etiquetas de associados. Esse é um recurso Pro. Faça upgrade "
+"para ativar esse recurso "
 
 #: app/Services/CrmMigrator/MailerLiteMigrator.php:271
 #: app/Services/CrmMigrator/ConvertKitMigrator.php:257
@@ -2409,19 +2409,19 @@ msgstr " Maior "
 
 #: app/Services/Helper.php:979
 msgid "Last Activity"
-msgstr " Última atividade "
+msgstr " Última Atividade "
 
 #: app/Services/Helper.php:1062
 msgid "Last Email Clicked"
-msgstr " Último Email clicado "
+msgstr " Último Email Clicado "
 
 #: app/Services/Helper.php:1056
 msgid "Last Email Open"
-msgstr " Último Email aberto "
+msgstr " Último Email Aberto "
 
 #: app/Services/Helper.php:1051
 msgid "Last Email Sent"
-msgstr " Último Email enviado "
+msgstr " Último Email Enviado "
 
 #: app/Services/Helper.php:1376 app/Services/Helper.php:1433
 msgid "Last Enrollment Date (Pro Required)"
@@ -2436,7 +2436,7 @@ msgstr " Data da última inscrição (Pro obrigatório) "
 #: app/Services/Funnel/FunnelHelper.php:134
 #: app/Services/ExternalIntegrations/FluentForm/Bootstrap.php:152
 msgid "Last Name"
-msgstr " Sobrenome "
+msgstr "Último Nome"
 
 #: app/Services/Helper.php:1227 app/Services/Helper.php:1281
 msgid "Last Order Date (Pro Required)"
@@ -2658,7 +2658,7 @@ msgstr " Dados primários do mapa "
 
 #: app/Services/RoleBasedTagging.php:57
 msgid "Map Role and associate tags"
-msgstr " Mapear função e associar tags "
+msgstr " Mapear Cargo e associar etiquetas  "
 
 #: app/Hooks/Handlers/CountryNames.php:573
 msgid "Marshall Islands"
@@ -2756,7 +2756,7 @@ msgstr " Myanmar "
 #: app/Services/CrmMigrator/BaseMigrator.php:24
 #: app/Services/Funnel/FunnelHelper.php:148
 msgid "Name Prefix"
-msgstr " Prefixo do nome "
+msgstr " Prefixo do Nome "
 
 #: app/Services/Helper.php:962
 msgid "Name Prefix (Title)"
@@ -2772,7 +2772,8 @@ msgstr " Nauru "
 
 #: app/Services/Funnel/Benchmarks/RemoveFromTagBenchmark.php:69
 msgid "Need all selected tags removed from the contact"
-msgstr " Precisa que todas as tags selecionadas sejam removidas do contato "
+msgstr ""
+" Precisa que todas as etiquetas selecionadas sejam removidas do contato "
 
 #: app/Hooks/Handlers/CountryNames.php:641
 msgid "Nepal"
@@ -2943,7 +2944,7 @@ msgstr " Somente os grupos selecionados serão importados do MailerLite "
 
 #: app/Services/CrmMigrator/ConvertKitMigrator.php:23
 msgid "Only Selected tags will be imported from ConvertKit"
-msgstr " Somente as tags selecionadas serão importadas do ConvertKit "
+msgstr " Somente as etiquetas selecionadas serão importadas do ConvertKit "
 
 #: app/Hooks/Handlers/WpQueryLogger.php:45
 msgid "Oops! You are not able to see query logs."
@@ -3356,7 +3357,7 @@ msgstr " As configurações do destinatário foram atualizadas "
 #: app/Hooks/Handlers/AdminMenu.php:127 app/Hooks/Handlers/AdminMenu.php:128
 #: app/Hooks/Handlers/AdminMenu.php:362
 msgid "Recurring Campaigns"
-msgstr " Campanhas recorrentes "
+msgstr " Campanhas Recorrentes "
 
 #: app/Http/Controllers/SettingsController.php:147
 msgid "Redirect to an URL"
@@ -3381,11 +3382,11 @@ msgstr " Remover contato das listas selecionadas "
 
 #: app/Services/Funnel/Actions/DetachTagAction.php:34
 msgid "Remove Contact from the Selected Tags"
-msgstr " Remover contato das tags selecionadas "
+msgstr " Remover Contato das Etiquetas Selecionadas "
 
 #: app/Services/ExternalIntegrations/FluentForm/Bootstrap.php:251
 msgid "Remove Contact Tags"
-msgstr " Remover etiquetas de contato "
+msgstr " Remover Etiquetas de Contato "
 
 #: app/Services/Funnel/Actions/DetachCompanyAction.php:22
 msgid "Remove From Company"
@@ -3397,7 +3398,7 @@ msgstr " Remover da lista "
 
 #: app/Services/Funnel/Actions/DetachTagAction.php:22
 msgid "Remove From Tag"
-msgstr " Remover da etiqueta "
+msgstr " Remover da Etiqueta "
 
 #: app/Services/Funnel/Actions/DetachCompanyAction.php:23
 msgid "Remove this contact from the selected company"
@@ -3409,7 +3410,7 @@ msgstr " Remover esse contato das listas selecionadas "
 
 #: app/Services/Funnel/Actions/DetachTagAction.php:23
 msgid "Remove this contact from the selected Tags"
-msgstr " Remova esse contato das Tags selecionadas "
+msgstr " Remova esse contato das Etiquetas selecionadas "
 
 #: app/Hooks/Handlers/AdminMenu.php:190 app/Hooks/Handlers/AdminMenu.php:191
 #: app/Hooks/Handlers/AdminMenu.php:411 app/Hooks/Handlers/AdminMenu.php:1294
@@ -3443,7 +3444,7 @@ msgstr " Romênia "
 
 #: app/Services/Funnel/Benchmarks/RemoveFromTagBenchmark.php:65
 msgid "Run if any selected tag removed from a contact"
-msgstr " Executar se alguma tag selecionada for removida de um contato "
+msgstr " Executar se alguma etiqueta selecionada for removida de um contato "
 
 #: app/Services/ExternalIntegrations/FluentForm/Bootstrap.php:241
 msgid "Run only on events"
@@ -3567,7 +3568,7 @@ msgstr " Segmentos "
 
 #: app/Services/Funnel/Benchmarks/RemoveFromTagBenchmark.php:56
 msgid "Select a Tag"
-msgstr " Selecionar uma tag "
+msgstr " Selecionar uma etiqueta"
 
 #: app/Services/AutoSubscribe.php:44 app/Services/AutoSubscribe.php:131
 #: app/Services/AutoSubscribe.php:289
@@ -3577,7 +3578,7 @@ msgstr " Selecione Assign List "
 #: app/Services/AutoSubscribe.php:58 app/Services/AutoSubscribe.php:144
 #: app/Services/AutoSubscribe.php:302
 msgid "Select Assign Tag"
-msgstr " Selecione Assign Tag "
+msgstr "Selecione Atribuir Etiqueta"
 
 #: app/Models/CustomContactField.php:55
 msgid "Select choice"
@@ -3658,7 +3659,7 @@ msgstr " Selecionar status "
 #: app/Services/Funnel/Actions/DetachTagAction.php:42
 #: app/Services/Funnel/Actions/ApplyTagAction.php:43
 msgid "Select Tag"
-msgstr " Selecionar etiqueta "
+msgstr " Selecionar Etiqueta "
 
 #: app/Services/ExternalIntegrations/BricksBuilderIntegration.php:61
 #: app/Services/ExternalIntegrations/FluentForm/Bootstrap.php:175
@@ -3668,15 +3669,15 @@ msgstr " Selecionar etiqueta "
 #: app/Services/Funnel/Actions/DetachTagAction.php:41
 #: app/Services/Funnel/Actions/ApplyTagAction.php:42
 msgid "Select Tags"
-msgstr " Selecionar etiquetas "
+msgstr " Selecionar Etiquetas "
 
 #: app/Services/ExternalIntegrations/FluentForm/Bootstrap.php:252
 msgid "Select Tags (remove from contact)"
-msgstr " Select Tags (remover do contato) "
+msgstr "Selecione as Etiquetas (remover do contato)"
 
 #: app/Services/Funnel/Actions/DetachTagAction.php:35
 msgid "Select Tags that you want to remove from targeted Contact"
-msgstr " Selecione as Tags que você deseja remover do contato-alvo "
+msgstr " Selecione as Etiquetas que você deseja remover do contato"
 
 #: app/Services/ExternalIntegrations/FluentForm/Bootstrap.php:126
 msgid "Select the FluentCRM List you would like to add your contacts to."
@@ -3709,21 +3710,21 @@ msgid ""
 "Select the tags that will be assigned for new comment will be made in "
 "comment forms"
 msgstr ""
-" Selecione as tags que serão atribuídas aos novos comentários que serão "
+" Selecione as etiquetas que serão atribuídas aos novos comentários que serão "
 "feitos nos formulários de comentários "
 
 #: app/Services/AutoSubscribe.php:59
 msgid ""
 "Select the tags that will be assigned for new user registration in your site"
 msgstr ""
-" Selecione as tags que serão atribuídas para o registro de novos usuários no "
-"seu site "
+" Selecione as etiquetas que serão atribuídas para o registro de novos "
+"usuários no seu site "
 
 #: app/Services/AutoSubscribe.php:303
 msgid "Select the tags that will be assigned when checkbox checked"
 msgstr ""
-" Selecione as tags que serão atribuídas quando a caixa de seleção estiver "
-"marcada "
+" Selecione as etiquetas que serão atribuídas quando a caixa de seleção "
+"estiver marcada "
 
 #: app/Http/Controllers/ImporterController.php:147
 msgid "Select User Roles"
@@ -3749,7 +3750,7 @@ msgstr ""
 
 #: app/Services/Funnel/Actions/ApplyTagAction.php:35
 msgid "Select which tag will be added to the contact"
-msgstr " Selecione qual tag será adicionada ao contato "
+msgstr " Selecione qual etiqueta será adicionada ao contato "
 
 #: app/Services/Funnel/Triggers/FluentFormSubmissionTrigger.php:78
 msgid "Select your form"
@@ -3815,7 +3816,7 @@ msgstr " Os assinantes selecionados foram removidos dos funis de automação "
 
 #: app/Http/Controllers/TagsController.php:244
 msgid "Selected Tags has been removed permanently"
-msgstr " Selected Tags foi removido permanentemente "
+msgstr "As Etiquetas selecionadas foram removidas"
 
 #: app/Http/Controllers/TemplateController.php:304
 msgid "Selected Templates has been deleted permanently"
@@ -3844,8 +3845,8 @@ msgstr " Enviar Email personalizado "
 msgid ""
 "Send Email Broadcast to your selected subscribers by tags, lists or segment"
 msgstr ""
-" Envie Email Broadcast para seus assinantes selecionados por tags, listas ou "
-"segmentos "
+" Envie Email Broadcast para seus assinantes selecionados por etiquetas, "
+"listas ou segmentos "
 
 #: app/Services/Funnel/Actions/SendEmailAction.php:59
 msgid "Send Email to"
@@ -3905,7 +3906,7 @@ msgstr " Definir o FluentCRM "
 
 #: app/Services/ExternalIntegrations/FluentForm/Bootstrap.php:185
 msgid "Set Tag"
-msgstr " Definir etiqueta "
+msgstr " Definir Etiqueta "
 
 #: app/Services/Stats.php:112 app/Hooks/Handlers/AdminMenu.php:181
 #: app/Hooks/Handlers/AdminMenu.php:182 app/Hooks/Handlers/AdminMenu.php:417
@@ -4275,7 +4276,7 @@ msgstr " A lista foi removida com sucesso. "
 
 #: app/Http/Controllers/TagsController.php:223
 msgid "Successfully removed the tag."
-msgstr " Remoção bem-sucedida da etiqueta. "
+msgstr "Etiqueta removida com sucesso."
 
 #: app/Http/Controllers/ListsController.php:98
 #: app/Http/Controllers/ListsController.php:155
@@ -4285,11 +4286,11 @@ msgstr " Salvou a lista com sucesso. "
 #: app/Http/Controllers/TagsController.php:105
 #: app/Http/Controllers/TagsController.php:159
 msgid "Successfully saved the tag."
-msgstr " A tag foi salva com sucesso. "
+msgstr " A etiqueta foi salva com sucesso. "
 
 #: app/Http/Controllers/TagsController.php:203
 msgid "Successfully saved the tags."
-msgstr " As tags foram salvas com sucesso. "
+msgstr " As etiquetas foram salvas com sucesso. "
 
 #: app/Http/Controllers/SubscriberController.php:273
 msgid "Successfully updated the "
@@ -4342,15 +4343,15 @@ msgstr " Síria "
 #: app/Services/Funnel/Benchmarks/TagAppliedBenchmark.php:23
 #: app/Services/Funnel/Benchmarks/TagAppliedBenchmark.php:48
 msgid "Tag Applied"
-msgstr " Etiqueta aplicada "
+msgstr " Etiqueta Aplicada "
 
 #: app/Services/Funnel/Benchmarks/RemoveFromTagBenchmark.php:23
 msgid "Tag Removed"
-msgstr " Etiqueta removida "
+msgstr " Etiqueta Removida "
 
 #: app/Services/Funnel/Benchmarks/RemoveFromTagBenchmark.php:48
 msgid "Tag Removed From Contact"
-msgstr " Etiqueta removida do contato "
+msgstr " Etiqueta Removida do Contato "
 
 #: app/Services/Stats.php:39 app/Services/Helper.php:1019
 #: app/Hooks/CLI/Commands.php:154 app/Hooks/CLI/Commands.php:368
@@ -4358,15 +4359,15 @@ msgstr " Etiqueta removida do contato "
 #: app/Hooks/Handlers/AdminMenu.php:107 app/Hooks/Handlers/AdminMenu.php:330
 #: app/Hooks/Handlers/EventTrackingHandler.php:269
 msgid "Tags"
-msgstr " Tags "
+msgstr "Etiquetas"
 
 #: app/Services/RoleBasedTagging.php:59
 msgid "Tags to be added"
-msgstr " Tags a serem adicionadas "
+msgstr " Etiquetas a serem adicionadas "
 
 #: app/Services/RoleBasedTagging.php:60
 msgid "Tags to be removed"
-msgstr " Tags a serem removidas "
+msgstr "Etiquetas a serem removidas"
 
 #: app/Hooks/Handlers/CountryNames.php:889
 msgid "Taiwan"
@@ -4382,7 +4383,7 @@ msgstr " Tanzânia "
 
 #: app/Services/RoleBasedTagging.php:58
 msgid "Target User Role"
-msgstr " Função do usuário-alvo "
+msgstr " Cargo do Usuário"
 
 #: app/Services/Funnel/Triggers/UserRegistrationTrigger.php:82
 msgid "Targeted User Roles"
@@ -4525,15 +4526,15 @@ msgstr ""
 #: app/Services/Funnel/Benchmarks/TagAppliedBenchmark.php:49
 msgid "This will run when selected Tags have been applied to a contact"
 msgstr ""
-" Isso será executado quando as Tags selecionadas tiverem sido aplicadas a um "
-"contato "
+" Isso será executado quando as Etiquetas selecionadas tiverem sido aplicadas "
+"a um contato "
 
 #: app/Services/Funnel/Benchmarks/RemoveFromTagBenchmark.php:24
 #: app/Services/Funnel/Benchmarks/RemoveFromTagBenchmark.php:49
 msgid "This will run when selected Tags have been removed from a contact"
 msgstr ""
-" Isso será executado quando as Tags selecionadas tiverem sido removidas de "
-"um contato "
+" Isso será executado quando as Etiquetas selecionadas tiverem sido removidas "
+"de um contato "
 
 #: app/Hooks/Handlers/AdminMenu.php:810
 msgid "Thumbnail"
@@ -4603,16 +4604,18 @@ msgstr " Transacional "
 
 #: app/Services/CrmMigrator/ActiveCampaignMigrator.php:14
 msgid "Transfer your ActiveCampaign tags and contacts to FluentCRM"
-msgstr " Transfira suas tags e contatos da ActiveCampaign para o FluentCRM "
+msgstr ""
+" Transfira suas etiquetas e contatos da ActiveCampaign para o FluentCRM "
 
 #: app/Services/CrmMigrator/DripMigrator.php:14
 msgid "Transfer your Drip tags and contacts to FluentCRM"
-msgstr " Transfira suas tags e contatos do Drip para o FluentCRM "
+msgstr " Transfira suas etiquetas e contatos do Drip para o FluentCRM "
 
 #: app/Services/CrmMigrator/MailChimpMigrator.php:18
 msgid ""
 "Transfer your mailchimp lists, tags and contacts from MailChimp to FluentCRM"
-msgstr " Transfira suas listas, tags e contatos do MailChimp para o FluentCRM "
+msgstr ""
+" Transfira suas listas, etiquetas e contatos do MailChimp para o FluentCRM "
 
 #: app/Http/Controllers/FunnelController.php:186
 msgid "Trigger name is same"
@@ -4969,15 +4972,15 @@ msgstr " Equipe do boletim informativo por Email do WP - FluentCRM "
 
 #: app/Services/Helper.php:957
 msgid "WP User ID"
-msgstr " ID de usuário do WP "
+msgstr "ID do Usuário no WP"
 
 #: app/Services/Helper.php:1035
 msgid "WP User Role"
-msgstr " Função de usuário do WP "
+msgstr " Cargo do Usuário no WP "
 
 #: app/Services/RoleBasedTagging.php:45
 msgid "WP User Role Based Tag Mapping"
-msgstr " Mapeamento de tags com base na função do usuário do WP "
+msgstr "Mapeamento de etiqueta com base no Cargo do usuário do WP"
 
 #: app/Hooks/Handlers/CountryNames.php:1013
 msgid "Yemen"
